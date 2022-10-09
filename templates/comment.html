@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <!-- <script src="https://unpkg.com/jquery@3.6.1/dist/jquery.js"></script> -->
+    <script src="https://unpkg.com/vue@3.2.33/dist/vue.global.prod.js"></script>
+    <script src="https://unpkg.com/element-plus@2.2.5/dist/index.full.js"></script>
+    <!-- <script src="https://unpkg.com/html2canvas@1.4.1/dist/html2canvas.min.js"></script> -->
+    <!-- <script src="https://unpkg.com/vue3-sfc-loader@0.8.4/dist/vue3-sfc-loader.js"></script> -->
+    <link rel="stylesheet" href="https://unpkg.com/element-plus@2.2.5/dist/index.css" />
+    <link rel="stylesheet" href="{[ url_for('static', filename='css/uahh.css') ]}">
+    <link rel="icon" href="{[ url_for('static', filename='picture/you.ico') ]}" type="image/x-icon">
+    <meta name="viewport" content="width=device-width,user-scalable=0">
+    <meta charset="utf-8" />
+    <style>
+        .down {
+            float: left;
+            margin: 40px 10px;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="app">
+        <el-row>
+            <el-col :span="24">
+                <el-menu :default-active="activeIndex" mode="horizontal" background-color="#17A0DF" text-color="#FFFFFF"
+                    active-text-color="#FFFFFF" @select="handleSelect">
+                    <el-menu-item index="1">
+                        <b>Animation List</b>
+                    </el-menu-item>
+                    <el-menu-item index="2" style="margin-left: auto;">
+                        <b>Github</b>
+                    </el-menu-item>
+                </el-menu>
+            </el-col>
+        </el-row>
+        <el-row>
+            <el-col :span="2">
+            </el-col>
+            <el-col :span="20">
+                <div style="margin: 5px 5px 20px 5px">
+                    <p>ID：</p>
+                    <el-input v-model="id" maxlength="50" placeholder="Please input" />
+                </div>
+                <div style="margin: 5px 5px 20px 5px">
+                    <p>列表标题：</p>
+                    <el-input v-model="title" maxlength="50" show-word-limit placeholder="Please input" />
+                </div>
+                <div style="margin: 5px 5px 20px 5px">
+                    <p>列表描述：</p>
+                    <el-input v-model="content" :autosize="{ minRows: 2, maxRows: 4 }" maxlength="150" show-word-limit
+                        type="textarea" placeholder="Please input" />
+                </div>
+                <div>
+                    <el-space fill="true" style="width: 100%; height: 100%;">
+                        <div v-for="(item, key) in this.data">
+                            <el-card>
+                                <template #header>
+                                    <div>
+                                        <h4>{{ item['title_cn'] }}</h4>
+                                        <br>
+                                        <small class="grey">{{ item['title_jp'] }}</small>
+                                    </div>
+                                </template>
+                                <div>
+                                    <el-row>
+                                        <el-col :span="8" style="max-width: 100px;">
+                                            <img :src="`getCover?path=/${item.path}/cover.jpg`" />
+                                        </el-col>
+                                        <el-col :span="15">
+                                            <div style="margin: 0px 0px 0px 20px; float:left;">
+                                                <span>{{ item['year'] }}年</span>
+                                                <br>
+                                                <span style="word-wrap:break-word;">{{ item['tips'] }}</span>
+                                            </div>
+                                        </el-col>
+                                        <el-col :span="24">
+                                            <div v-if="item['stars'] != -1">
+                                                <span>{{ item['stars'] }}分 ({{ item['people'] }}人评分)</span>
+                                            </div>
+                                            <div v-else>
+                                                <span>暂无评分</span>
+                                            </div>
+                                        </el-col>
+                                    </el-row>
+                                </div>
+                            </el-card>
+                        </div>
+                    </el-space>
+                </div>
+            </el-col>
+            <el-col :span="2">
+            </el-col>
+            <!-- <el-button id="test" type="primary" href="" @click="confirmClick" download="downImg"> 完成</el-button> -->
+        </el-row>
+        <div class="footer">
+            <el-badge class="list-button">
+                <el-button @click="confirmClick()">生成</el-button>
+            </el-badge>
+        </div>
+        <template>
+            <div ref="data">{[ data ]}</div>
+        </template>
+    </div>
+    <script src="{[ url_for('static', filename='js/comment.js') ]}"></script>
+</body>
+
+</html>

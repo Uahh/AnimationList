@@ -1,144 +1,77 @@
 <!DOCTYPE html>
-
 <html>
 
 <head>
-    <meta charset="utf-8">
-    <script src="https://cdn.staticfile.org/jquery/1.10.2/jquery.min.js"></script>
-    <script src="https://unpkg.com/vue@3.2.33/dist/vue.global.prod.js"></script>
-    <script src="https://unpkg.com/element-plus@2.2.5/dist/index.full.js"></script>
-    <script src="https://unpkg.com/echarts@5.3.2/dist/echarts.js"></script>
-    <script src="https://unpkg.com/vue3-sfc-loader"></script>
-    <link rel="stylesheet" href="https://unpkg.com/element-plus@2.2.5/dist/index.css" />
-    <!-- <link rel="stylesheet" href="{[ url_for('static', filename='css/uahh.css') ]}"> -->
-    <!-- <link rel="icon" href="{[ url_for('static', filename='you.ico') ]}" type="image/x-icon"> -->
-    <meta name="viewport" content="width=device-width,user-scalable=0">
+    <meta charset="UTF-8">
+    <title>htmltopic</title>
+    <script src="https://unpkg.com/html2canvas@1.4.1/dist/html2canvas.min.js"></script>
+    <script src="https://unpkg.com/jquery@3.6.1/dist/jquery.js"></script>
+    <style>
+        * {
+            margin: 0;
+        }
+
+
+        .test {
+            width: 100px;
+            height: 100px;
+            text-align: center;
+            line-height: 100px;
+            background-color: #87CEEB;
+            display: inline-block;
+            vertical-align: top;
+        }
+
+
+        canvas {
+            margin-right: 5px;
+        }
+
+
+        .down {
+            float: left;
+            margin: 40px 10px;
+        }
+
+        .down2 {
+            float: left;
+            margin: 40px 30px;
+        }
+    </style>
 </head>
 
 <body>
-    <div id="app">
-        <!-- <el-row>
-            <el-col :span="24">
-                <el-menu :default-active="activeIndex" mode="horizontal" background-color="#21262D" text-color="#FFF"
-                    active-text-color="#FFD04B" @select="handleSelect" style="min-width: 1000px;">
-                    <el-menu-item index="1" style='margin-left: 22%'>
-                        <b>Repo chart</b>
-                    </el-menu-item>
-                    <el-menu-item index="2" style='margin-left: 48%'>
-                        <b>Github</b>
-                    </el-menu-item>
-                </el-menu>
-            </el-col>
-        </el-row> -->
-        <el-row>
-            <el-col :span="2">
-            </el-col>
-            <el-col :span="20">
-                <el-tabs v-model="activeName" class="tab" tab-position="top" stretch="true" @tab-click="handleClick">
-                    <el-tab-pane label="2022" name="2022">
-                        <el-space fill="true" style="width: 90%; height: 100%;">
-                            <el-card>
-                                <template #header>
-                                    <div>
-                                        <span>莉可丽丝 リコリス・リコイル</span>
-                                        <!-- <el-button class="button" text>Operation button</el-button> -->
-                                    </div>
-                                </template>
-                                <div>
-                                    <img src="cover/2022/莉可丽丝/cover.jpg">
-                                    <br>
-                                    <span>2022年7月</span>
-                                    <br>
-                                    <span>足立慎吾 / Spider Lily / いみぎむる，辅助人设：山本由美子</span>
-                                    <br>
-                                    <span>7.8 (2402人评分)</span>
-                                    <br>
-                                    <el-rate model-value="7.8" disabled show-score allow-half :max=10>
-                                    <br>
-                                </el-rate>
-                                </div>
-                            </el-card>
-                            <el-card>
-                                <template #header>
-                                    <div>
-                                        <span>Card name</span>
-                                        <el-button class="button" text>Operation button</el-button>
-                                    </div>
-                                </template>
-                                <div>
-                                    List item 1
-                                </div>
-                            </el-card>
-                        </el-space>
-                    </el-tab-pane>
-                    <el-tab-pane label="2021" name="2021">
-                    </el-tab-pane>
-                    <el-tab-pane label="2020" name="2020">
-                    </el-tab-pane>
-                    <el-tab-pane label="2019" name="2019">
-                    </el-tab-pane>
-                    <el-tab-pane label="2018" name="2018">
-                    </el-tab-pane>
-                    <el-tab-pane label="2017" name="2017">
-                    </el-tab-pane>
-                    <el-tab-pane label="2016" name="2016">
-                    </el-tab-pane>
-                    <el-tab-pane label="2015" name="2015">
-                    </el-tab-pane>
-                    <el-tab-pane label="2014" name="2014">
-                    </el-tab-pane>
-                    <el-tab-pane label="2013" name="2013">
-                    </el-tab-pane>
-                    <el-tab-pane label="2012" name="2012">
-                    </el-tab-pane>
-                    <el-tab-pane label="2011" name="2011">
-                    </el-tab-pane>
-                    <el-tab-pane label="2010" name="2010">
-                    </el-tab-pane>
-                    <el-tab-pane label="2009" name="2009">
-                    </el-tab-pane>
-                    <el-tab-pane label="2008" name="2008">
-                    </el-tab-pane>
-                    <el-tab-pane label="2007" name="2007">
-                    </el-tab-pane>
-                    <el-tab-pane label="2006" name="2006">
-                    </el-tab-pane>
-                    <el-tab-pane label="2005" name="2005">
-                    </el-tab-pane>
-                    <el-tab-pane label="2004" name="2004">
-                    </el-tab-pane>
-                    <el-tab-pane label="2003" name="2003">
-                    </el-tab-pane>
-                    <el-tab-pane label="2002" name="2002">
-                    </el-tab-pane>
-                    <el-tab-pane label="2001" name="2001">
-                    </el-tab-pane>
-                    <el-tab-pane label="2000" name="2000">
-                    </el-tab-pane>
-                </el-tabs>
-            </el-col>
-            <el-col :span="2">
-            </el-col>
-        </el-row>
-
-        <el-row>
-            <el-col :span="24">
-                <div class="footer">
-                </div>
-            </el-col>
-        </el-row>
-
-        <!-- <el-dialog v-model="largeDialog" title="Tips" width="30%">
-            <span>The total number of commits in {{ repoName }} exceeds 3000, </span>
-            <span>please clone Uahh/RepoChart project to get the repository chart locally.</span>
-            <template #footer>
-                <span class="dialog-footer">
-                    <el-button type="primary" @click="onGithub">Go Github</el-button>
-                    <el-button type="primary" @click="largeDialog = false">Cancel</el-button>
-                </span>
-            </template>
-        </el-dialog> -->
-        <script src="main.js"></script>
+    <div class="test">测试</div>
+    <div><a class="down" href="" download="downImg">下载</a></div>
+    <div><a class="down2" href="" download="downImg">下载2</a></div>
+    
+    <script>
+        //直接选择要截图的dom，就能截图，但是因为canvas的原因，生成的图片模糊
+        //html2canvas(document.querySelector('div')).then(function(canvas) {
+        //    document.body.appendChild(canvas);
+        //});
+        //创建一个新的canvas
+        var canvas2 = document.createElement("canvas");
+        let
+            _canvas = document.querySelector('div');
+        var w = parseInt(window.getComputedStyle(_canvas).width);
+        var h = parseInt(window.getComputedStyle(_canvas).height);
+        //将canvas画布放大若干倍，然后盛放在较小的容器内，就显得不模糊了
+        canvas2.width = w * 2;
+        canvas2.height = h * 2;
+        canvas2.style.width = w + "px";
+        canvas2.style.height = h + "px";
+        //可以按照自己的需求，对context的参数修改,translate指的是偏移量
+        //  var context = canvas.getContext("2d");
+        //  context.translate(0,0);
+        var context = canvas2.getContext("2d");
+        context.scale(2, 2);
+        html2canvas(document.querySelector('div'), { canvas: canvas2 }).then(function (canvas) {
+            //document.body.appendChild(canvas);
+            //canvas转换成url，然后利用a标签的download属性，直接下载，绕过上传服务器再下载
+            document.querySelector(".down").setAttribute('href', canvas.toDataURL());
+        });
+    </script>
 </body>
 
 </html>

@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <script src="https://unpkg.com/jquery@3.6.1/dist/jquery.js"></script>
+    <script src="https://unpkg.com/vue@3.2.33/dist/vue.global.prod.js"></script>
+    <script src="https://unpkg.com/element-plus@2.2.5/dist/index.full.js"></script>
+    <script src="https://unpkg.com/html2canvas@1.4.1/dist/html2canvas.min.js"></script>
+    <script src="https://unpkg.com/vue3-sfc-loader@0.8.4/dist/vue3-sfc-loader.js"></script>
+    <link rel="stylesheet" href="https://unpkg.com/element-plus@2.2.5/dist/index.css" />
+    <link rel="stylesheet" href="{[ url_for('static', filename='css/uahh.css') ]}">
+    <link rel="icon" href="{[ url_for('static', filename='picture/you.ico') ]}" type="image/x-icon">
+    <meta name="viewport" content="width=device-width,user-scalable=0">
+    <meta charset="utf-8" />
+</head>
+
+<body>
+    <div id="app">
+        <el-row>
+            <el-col :span="24">
+                <el-menu :default-active="activeIndex" mode="horizontal" background-color="#17A0DF" text-color="#FFFFFF"
+                    active-text-color="#FFFFFF" @select="handleSelect">
+                    <el-menu-item index="1">
+                        <b>Animation List</b>
+                    </el-menu-item>
+                    <el-menu-item index="2" style="margin-left: auto;">
+                        <b>Github</b>
+                    </el-menu-item>
+                </el-menu>
+            </el-col>
+        </el-row>
+        <el-row>
+            <el-col :span="2">
+            </el-col>
+            <el-col :span="20">
+                <el-tabs v-model="activeName" class="tab" tab-position="top" stretch="true" @tab-click="handleClick">
+                    <el-tab-pane label="Search" name="search">
+                        <search @sendlist="updateIdList"></search>
+                    </el-tab-pane>
+                    <el-tab-pane label="2022" name="2022" lazy="true">
+                        <list-year-2022 @sendlist="updateIdList"></list-year-2022>
+                    </el-tab-pane>
+                    <el-tab-pane label="2021" name="2021">
+                    </el-tab-pane>
+                    <el-tab-pane label="2020" name="2020">
+                    </el-tab-pane>
+                    <el-tab-pane label="2019" name="2019">
+                    </el-tab-pane>
+                    <el-tab-pane label="2018" name="2018">
+                    </el-tab-pane>
+                    <el-tab-pane label="2017" name="2017">
+                    </el-tab-pane>
+                    <el-tab-pane label="2016" name="2016">
+                    </el-tab-pane>
+                    <el-tab-pane label="2015" name="2015">
+                    </el-tab-pane>
+                    <el-tab-pane label="2014" name="2014">
+                    </el-tab-pane>
+                    <el-tab-pane label="2013" name="2013">
+                    </el-tab-pane>
+                    <el-tab-pane label="2012" name="2012">
+                    </el-tab-pane>
+                    <el-tab-pane label="2011" name="2011">
+                    </el-tab-pane>
+                    <el-tab-pane label="2010" name="2010">
+                    </el-tab-pane>
+                    <el-tab-pane label="2009" name="2009">
+                    </el-tab-pane>
+                    <el-tab-pane label="2008" name="2008">
+                    </el-tab-pane>
+                    <el-tab-pane label="2007" name="2007">
+                    </el-tab-pane>
+                    <el-tab-pane label="2006" name="2006">
+                    </el-tab-pane>
+                    <el-tab-pane label="2005" name="2005">
+                    </el-tab-pane>
+                    <el-tab-pane label="2004" name="2004">
+                    </el-tab-pane>
+                    <el-tab-pane label="2003" name="2003">
+                    </el-tab-pane>
+                    <el-tab-pane label="2002" name="2002">
+                    </el-tab-pane>
+                    <el-tab-pane label="2001" name="2001">
+                    </el-tab-pane>
+                    <el-tab-pane label="2000" name="2000">
+                    </el-tab-pane>
+                </el-tabs>
+            </el-col>
+            <el-col :span="2">
+            </el-col>
+        </el-row>
+
+        <div class="footer">
+            <el-badge :value="added_number" :hidden="added" type="success" class="list-button">
+                <el-button @click="drawer = true">List</el-button>
+            </el-badge>
+        </div>
+        <el-drawer v-model="drawer" title="My List" size="60%" :with-header="true">
+            <el-table :data="tableData" :table-layout="auto" style="width: auto;">
+                <el-table-column fixed prop="date" label="番剧" style="width: auto;">
+                </el-table-column>
+                <el-table-column fixed="right" label="" width="100%">
+                    <template #default="scope">
+                        <el-button type="danger" size="small"
+                            @click.native.prevent="deleteRow(scope.$index, tableData)">
+                            ×
+                        </el-button>
+                    </template>
+                </el-table-column>
+            </el-table>
+            <template #footer>
+                <div class="drawer-footer">
+                    <el-button type="primary" @click="confirmClick">完成</el-button>
+                </div>
+            </template>
+        </el-drawer>
+        <!-- <el-dialog v-model="largeDialog" title="Tips" width="30%">
+            <span>The total number of commits in {{ repoName }} exceeds 3000, </span>
+            <span>please clone Uahh/RepoChart project to get the repository chart locally.</span>
+            <template #footer>
+                <span class="dialog-footer">
+                    <el-button type="primary" @click="onGithub">Go Github</el-button>
+                    <el-button type="primary" @click="largeDialog = false">Cancel</el-button>
+                </span>
+            </template>
+        </el-dialog> -->
+    </div>
+    <script src="{[ url_for('static', filename='js/main.js') ]}"></script>
+</body>
+
+</html>
