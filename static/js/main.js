@@ -7,6 +7,7 @@ const options = {
             drawer: false,
             added: true,
             added_number: 0,
+            overNum: false,
             tableData: [],
             idList: [],
         };
@@ -22,24 +23,34 @@ const options = {
                 location.href = this.protocol + "://" + this.url;
             }
             else if (key == 2) {
-                window.open("https://github.com/Uahh/RepoChart")
+                window.open("https://github.com/Uahh/AnimationList")
             }
         },
-        onAdd() {
+        isMobile() {
+            let flag = navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i)
+            return flag;
+        },
+        onTipConfirm() {
+            this.overNum = false
+            window.open(this.protocol + "://" + this.url + "/comment?data=" + this.idList.toString())
         },
         deleteRow(index, rows) {
             this.tableData.splice(index, 1);
             this.idList.splice(index, 1)
             this.added_number = this.idList.length;
-            console.log(this.tableData)
         },
         confirmClick() {
-            window.open(this.protocol + "://" + this.url + "/comment?data=" + this.idList.toString())
+            if (this.isMobile() && this.idList.length > 15) {
+                this.overNum = true
+            } else {
+                window.open(this.protocol + "://" + this.url + "/comment?data=" + this.idList.toString())
+            }
+        
         },
         updateIdList(result) {
             let flag = false
             for (let name of this.tableData) {
-                if (name['date'] == result['name']){
+                if (name['date'] == result['name']) {
                     flag = true
                     break
                 }
@@ -70,8 +81,7 @@ const options = {
     },
     components: {
         'search': Vue.defineAsyncComponent(() => loadModule('../static/js/search.vue', options)),
-        'list-year-2022': Vue.defineAsyncComponent(() => loadModule('../static/js/listYear2022.vue', options)),
-        // 'circle-chart': Vue.defineAsyncComponent(() => loadModule('../static/js/circleChart.vue', options)),
+        'list-year': Vue.defineAsyncComponent(() => loadModule('../static/js/listYear.vue', options)),
     },
 }
 

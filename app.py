@@ -16,7 +16,7 @@ print('Waiting...')
 
 @app.route('/', methods=["GET", "POST"])
 def index():
-    return render_template('index.html',)
+    return render_template('index.html')
 
 @app.route('/comment', methods=["GET", "POST"])
 def comment():
@@ -56,11 +56,18 @@ def get_list_from_name():
 
 
 @app.route('/getCover', methods=["GET"])
-def getCover():
+def get_cover():
     path = request.args.get('path')
     pic_path = os.path.join(os.path.abspath('.'), '.' + path)
     print(pic_path)
     return send_file(pic_path)
+
+@app.route('/getData', methods=["GET"])
+def get_data():
+    year = request.args.get('year')
+    with open('./animation_data/data_' + year + '.json', encoding='utf-8') as json_file:
+        data = json.load(json_file)
+    return data
 
 
 @app.route('/error')

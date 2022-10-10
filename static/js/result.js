@@ -2,6 +2,8 @@ const options = {
     data() {
         return {
             url: window.location.host,
+            onDialog: false,
+            loading: false,
             data: {}
         };
     },
@@ -9,13 +11,20 @@ const options = {
         this.data = eval('[' + this.$refs.data.innerText + ']')[0]
     },
     methods: {
-        confirmClick() {
+        createImg() {
             html2canvas(document.querySelector("#pic")).then(canvas => {
-                var url = canvas.toDataURL()
-                document.querySelector('#download').href = url
-                document.querySelector('#download').download = "image"
-                document.querySelector('#download').click()
+                var img = canvas.toDataURL()
+                document.getElementById('base64Img').setAttribute("src", img)
             });
+        },
+        confirmClick() {
+            this.onDialog = true
+            this.loading = true
+            window.pageYoffset = 0;
+            document.documentElement.scrollTop = 0;
+            document.body.scrollTop = 0;
+            this.createImg()
+            this.loading = false
         },
     }
 }
