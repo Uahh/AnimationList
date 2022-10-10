@@ -24,7 +24,7 @@ const options = {
                 return;
             }
             idList = this.idList.split('=')[1]
-            window.open(this.protocol + "://" + this.url + "/AnimationList/result?data=" + idList + "&&title=" + this.title + "&&content=" + this.content + "&&id=" + this.id)
+            window.open(this.protocol + "://" + this.url + "/animationlist/result?data=" + idList + "&&title=" + this.title + "&&content=" + this.content + "&&id=" + this.id)
         },
     }
 }

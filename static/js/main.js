@@ -23,7 +23,7 @@ const options = {
                 location.href = this.protocol + "://" + this.url;
             }
             else if (key == 2) {
-                window.open("https://github.com/Uahh/AnimationList")
+                window.open("https://github.com/Uahh/animationlist")
             }
         },
         isMobile() {
@@ -32,7 +32,7 @@ const options = {
         },
         onTipConfirm() {
             this.overNum = false
-            window.open(this.protocol + "://" + this.url + "/AnimationList/comment?data=" + this.idList.toString())
+            window.open(this.protocol + "://" + this.url + "/animationlist/comment?data=" + this.idList.toString())
         },
         deleteRow(index, rows) {
             this.tableData.splice(index, 1);
@@ -43,7 +43,7 @@ const options = {
             if (this.isMobile() && this.idList.length > 15) {
                 this.overNum = true
             } else {
-                window.open(this.protocol + "://" + this.url + "/AnimationList/comment?data=" + this.idList.toString())
+                window.open(this.protocol + "://" + this.url + "/animationlist/comment?data=" + this.idList.toString())
             }
         
         },

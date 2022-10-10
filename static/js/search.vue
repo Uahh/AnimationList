@@ -5147,7 +5147,7 @@ module.exports = {
             }
             $.ajax({
                 type: "post",
-                url: this.protocol + "://" + this.url + "/AnimationList/getListFromId",
+                url: this.protocol + "://" + this.url + "/animationlist/getListFromId",
                 data: { 'data': sendList.toString() },
                 success: (result) => {
                     this.data = result

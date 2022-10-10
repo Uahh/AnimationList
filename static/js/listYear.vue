@@ -68,7 +68,7 @@ module.exports = {
         let dataList
         $.ajax({
             type: "get",
-            url: this.protocol + '://' + this.url + '/AnimationList/getData?year=' + this.year,
+            url: this.protocol + '://' + this.url + '/animationlist/getData?year=' + this.year,
             async: false,
             success: function (result) {
                 dataList = result

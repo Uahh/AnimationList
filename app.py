@@ -14,11 +14,11 @@ with open('./animation_data/all_data.json', encoding='utf-8') as json_file:
 print('Waiting...')
 
 
-@app.route('/AnimationList', methods=["GET", "POST"])
+@app.route('/animationlist', methods=["GET", "POST"])
 def index():
     return render_template('index.html')
 
-@app.route('/AnimationList/comment', methods=["GET", "POST"])
+@app.route('/animationlist/comment', methods=["GET", "POST"])
 def comment():
     id_list = request.args.get('data').split(',')
     result = {}
@@ -29,7 +29,7 @@ def comment():
         data=result
     )
 
-@app.route('/AnimationList/result', methods=["GET", "POST"])
+@app.route('/animationlist/result', methods=["GET", "POST"])
 def result():
     id_list = request.args.get('data').split(',')
     user_id = request.args.get('id')
@@ -46,7 +46,7 @@ def result():
         content=content
     )
 
-@app.route('/AnimationList/getListFromId', methods=["POST"])
+@app.route('/animationlist/getListFromId', methods=["POST"])
 def get_list_from_name():
     id_list = request.form.get('data').split(',')
     result = {}
@@ -55,14 +55,14 @@ def get_list_from_name():
     return result
 
 
-@app.route('/AnimationList/getCover', methods=["GET"])
+@app.route('/animationlist/getCover', methods=["GET"])
 def get_cover():
     path = request.args.get('path')
     pic_path = os.path.join(os.path.abspath('.'), '.' + path)
     print(pic_path)
     return send_file(pic_path)
 
-@app.route('/AnimationList/getData', methods=["GET"])
+@app.route('/animationlist/getData', methods=["GET"])
 def get_data():
     year = request.args.get('year')
     with open('./animation_data/data_' + year + '.json', encoding='utf-8') as json_file:
