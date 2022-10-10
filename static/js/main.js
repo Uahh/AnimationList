@@ -32,7 +32,7 @@ const options = {
         },
         onTipConfirm() {
             this.overNum = false
-            window.open(this.protocol + "://" + this.url + "/comment?data=" + this.idList.toString())
+            window.open(this.protocol + "://" + this.url + "/AnimationList/comment?data=" + this.idList.toString())
         },
         deleteRow(index, rows) {
             this.tableData.splice(index, 1);
@@ -43,7 +43,7 @@ const options = {
             if (this.isMobile() && this.idList.length > 15) {
                 this.overNum = true
             } else {
-                window.open(this.protocol + "://" + this.url + "/comment?data=" + this.idList.toString())
+                window.open(this.protocol + "://" + this.url + "/AnimationList/comment?data=" + this.idList.toString())
             }
         
         },
