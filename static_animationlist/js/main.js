@@ -80,8 +80,8 @@ const options = {
         document.head.insertBefore(style, ref);
     },
     components: {
-        'search': Vue.defineAsyncComponent(() => loadModule('../static/js/search.vue', options)),
-        'list-year': Vue.defineAsyncComponent(() => loadModule('../static/js/listYear.vue', options)),
+        'search': Vue.defineAsyncComponent(() => loadModule('../static_animationlist/js/search.vue', options)),
+        'list-year': Vue.defineAsyncComponent(() => loadModule('../static_animationlist/js/listYear.vue', options)),
     },
 }
 

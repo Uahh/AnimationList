@@ -4,7 +4,7 @@ import json
 from flask import Flask, request, send_file
 from flask import render_template
 
-app = Flask(__name__, template_folder='templates', static_folder='static')
+app = Flask(__name__, template_folder='templates', static_folder='static_animationlist', static_url_path='/static_animationlist')
 app.jinja_env.variable_start_string = '{['
 app.jinja_env.variable_end_string = ']}'
 

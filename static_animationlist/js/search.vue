@@ -37,7 +37,7 @@
                         <div>
                             <el-row>
                                 <el-col :span="8" style="max-width: 100px;">
-                                    <img :src="`getCover?path=/${item.path}/cover.jpg`" />
+                                    <img :src="`/animationlist/getCover?path=/${item.path}/cover.jpg`" />
                                 </el-col>
                                 <el-col :span="15">
                                     <div style="margin: 0px 0px 0px 20px; float:left;">
