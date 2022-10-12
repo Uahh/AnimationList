@@ -55,7 +55,7 @@ module.exports = {
             protocol: 'http',
             url: window.location.host,
             showFlag: false,
-            initDataNum: 15,
+            initDataNum: 10,
             curData: {},
             keys: [],
             data: {},
