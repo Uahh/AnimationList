@@ -78,7 +78,7 @@ module.exports = {
         this.data = dataList
         // console.log(this.data)
         this.keys = Object.keys(this.data)
-        for (let i = 0; i < 15; i++) {
+        for (let i = 0; i < 10; i++) {
             this.curData[this.keys[i]] = this.data[this.keys[i]]
         }
         this.showFlag = true
