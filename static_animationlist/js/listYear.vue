@@ -40,6 +40,7 @@
                                 </el-row>
                             </div>
                         </el-card>
+                        <el-backtop :right="20" :bottom="60" />
                     </div>
                 </el-space>
             </div>
@@ -71,10 +72,11 @@ module.exports = {
             url: this.protocol + '://' + this.url + '/animationlist/getData?year=' + this.year,
             async: false,
             success: function (result) {
-                dataList = result
+                dataList = eval('[' + result + ']')[0]
             }
         })
         this.data = dataList
+        // console.log(this.data)
         this.keys = Object.keys(this.data)
         for (let i = 0; i < 15; i++) {
             this.curData[this.keys[i]] = this.data[this.keys[i]]

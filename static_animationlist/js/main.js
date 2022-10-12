@@ -13,7 +13,6 @@ const options = {
         };
     },
     mounted: function () {
-        // this.protocol = this.getProtocol()
         this.idList = []
         this.tableData = []
     },
@@ -45,7 +44,6 @@ const options = {
             } else {
                 window.open(this.protocol + "://" + this.url + "/animationlist/comment?data=" + this.idList.toString())
             }
-        
         },
         updateIdList(result) {
             let flag = false

@@ -19,6 +19,9 @@
     </el-row>
     <el-row>
         <el-empty v-show="this.empty" description="没找到这部捏.." style="margin:auto" />
+        <el-col :span="24">
+            <!-- <h1 style="display:flex; justify-content:center; align-items:center;">搜索或根据年份检索动漫开始制作你的列表</h1> -->
+        </el-col>
     </el-row>
     <el-row>
         <el-col :span="24">
@@ -60,6 +63,7 @@
                         </div>
                     </el-card>
                 </div>
+                <el-backtop :right="20" :bottom="60" />
             </el-space>
         </el-col>
     </el-row>
@@ -72,7 +76,7 @@ module.exports = {
             protocol: 'http',
             url: window.location.host,
             data: {},
-            animation_dict: {
+            animationDict: {
                 "12生肖全家福的神奇世界": "24",
                 "鸭子侦探": "25",
                 "未来蝙蝠侠 第三季": "26",
@@ -5120,6 +5124,17 @@ module.exports = {
     props: {
     },
     mounted: function () {
+        let dataDict
+        $.ajax({
+            type: "get",
+            url: this.protocol + '://' + this.url + '/animationlist/getDataDict',
+            async: false,
+            success: function (result) {
+                dataDict = eval('[' + result + ']')[0]
+            }
+        })
+        this.animationDict = dataDict
+        console.log(this.data)
     },
     methods: {
         onAdd(id, name) {
@@ -5135,9 +5150,9 @@ module.exports = {
             }
             this.empty = false
             var sendList = []
-            for (var key in this.animation_dict) {
+            for (var key in this.animationDict) {
                 if (key.indexOf(this.searchContent) != -1) {
-                    sendList.push(this.animation_dict[key])
+                    sendList.push(this.animationDict[key])
                 }
             }
             if (!sendList.toString()) {

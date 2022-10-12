@@ -1,0 +1,532 @@
+{
+    "_6962": {
+        "id": "6962",
+        "title_cn": "名侦探柯南 贝克街的亡灵",
+        "title_jp": "名探偵コナン ベイカー街の亡霊",
+        "tips": "1话 /  2002年4月20日 / こだま兼嗣 / 青山剛昌 / 須藤昌朋",
+        "stars": 7.8,
+        "people": 4225,
+        "year": 2002,
+        "path": "cover/2002/名侦探柯南 贝克街的亡灵"
+    },
+    "_6945": {
+        "id": "6945",
+        "title_cn": "星之声",
+        "title_jp": "ほしのこえ",
+        "tips": "1话 /  2002年2月2日",
+        "stars": 7.4,
+        "people": 3384,
+        "year": 2002,
+        "path": "cover/2002/星之声"
+    },
+    "_6966": {
+        "id": "6966",
+        "title_cn": "幻想机械之破坏的发明",
+        "title_jp": "空想の機械達の中の破壊の発明",
+        "tips": "1话 /  2002年10月2日",
+        "stars": -1,
+        "people": 2365,
+        "year": 2002,
+        "path": "cover/2002/幻想机械之破坏的发明"
+    },
+    "_6965": {
+        "id": "6965",
+        "title_cn": "猫的报恩",
+        "title_jp": "猫の恩返し",
+        "tips": "1话 /  2002年7月20日 / 森田宏幸",
+        "stars": 7.4,
+        "people": 2365,
+        "year": 2002,
+        "path": "cover/2002/猫的报恩"
+    },
+    "_6933": {
+        "id": "6933",
+        "title_cn": "冰川时代",
+        "title_jp": "Ice Age",
+        "tips": "1话 /  2002年3月15日 / Chris Wedge",
+        "stars": 7.1,
+        "people": 856,
+        "year": 2002,
+        "path": "cover/2002/冰川时代"
+    },
+    "_6920": {
+        "id": "6920",
+        "title_cn": "冰川时代",
+        "title_jp": "Ice Age",
+        "tips": "1话 /  2002年3月15日 / Chris Wedge",
+        "stars": 7.1,
+        "people": 856,
+        "year": 2002,
+        "path": "cover/2002/冰川时代"
+    },
+    "_6961": {
+        "id": "6961",
+        "title_cn": "剧场版 精灵宝可梦：水都的守护神 拉帝亚斯与拉帝欧斯",
+        "title_jp": "劇場版ポケットモンスター 水の都の護神 ラティアスとラティオス",
+        "tips": "1话 /  2002-07-13 / 湯山邦彦",
+        "stars": 7.5,
+        "people": 793,
+        "year": 2002,
+        "path": "cover/2002/剧场版 精灵宝可梦：水都的守护神 拉帝亚斯与拉帝欧斯"
+    },
+    "_6964": {
+        "id": "6964",
+        "title_cn": "犬夜叉 镜中的梦幻城",
+        "title_jp": "犬夜叉 鏡の中の夢幻城",
+        "tips": "1话 /  2002年12月21日 / 篠原俊哉",
+        "stars": 7.1,
+        "people": 660,
+        "year": 2002,
+        "path": "cover/2002/犬夜叉 镜中的梦幻城"
+    },
+    "_6944": {
+        "id": "6944",
+        "title_cn": "それいけ! アンパンマン ロールとローラ うきぐも城のひみつ",
+        "title_jp": "WXIII 機動警察パトレイバー",
+        "tips": "1话 /  2002-07-13 / 大賀俊二 / 前田実",
+        "stars": -1,
+        "people": 480,
+        "year": 2002,
+        "path": "cover/2002/それいけ! アンパンマン ロールとローラ うきぐも城のひみつ"
+    },
+    "_6943": {
+        "id": "6943",
+        "title_cn": "机动警察 十三号废弃物",
+        "title_jp": "WXIII 機動警察パトレイバー",
+        "tips": "1话 /  2002年3月30日 / 遠藤卓司 / ヘッドギア",
+        "stars": 7.4,
+        "people": 480,
+        "year": 2002,
+        "path": "cover/2002/机动警察 十三号废弃物"
+    },
+    "_6951": {
+        "id": "6951",
+        "title_cn": "蜡笔小新 呼风唤雨！战国大合战",
+        "title_jp": "クレヨンしんちゃん 嵐を呼ぶ アッパレ!戦国大合戦",
+        "tips": "1话 /  2002-04-20 / 原恵一 / 臼井儀人 / 末吉裕一郎",
+        "stars": 7.7,
+        "people": 458,
+        "year": 2002,
+        "path": "cover/2002/蜡笔小新 呼风唤雨！战国大合战"
+    },
+    "_6936": {
+        "id": "6936",
+        "title_cn": "海贼王 珍兽岛之乔巴王国",
+        "title_jp": "ONE PIECE 珍獣島のチョッパー王国",
+        "tips": "1话 /  2002年3月2日 / 志水淳児 / 尾田栄一郎 / 小泉升",
+        "stars": 6.7,
+        "people": 389,
+        "year": 2002,
+        "path": "cover/2002/海贼王 珍兽岛之乔巴王国"
+    },
+    "_6923": {
+        "id": "6923",
+        "title_cn": "海贼王 珍兽岛之乔巴王国",
+        "title_jp": "ONE PIECE 珍獣島のチョッパー王国",
+        "tips": "1话 /  2002年3月2日 / 志水淳児 / 尾田栄一郎 / 小泉升",
+        "stars": 6.7,
+        "people": 389,
+        "year": 2002,
+        "path": "cover/2002/海贼王 珍兽岛之乔巴王国"
+    },
+    "_6953": {
+        "id": "6953",
+        "title_cn": "数码宝贝驯兽师之王 暴走的数码列车",
+        "title_jp": "デジモンテイマーズ 暴走デジモン特急",
+        "tips": "1话 /  2002年3月2日 / 中村哲治 / 中鶴勝祥",
+        "stars": 6.9,
+        "people": 296,
+        "year": 2002,
+        "path": "cover/2002/数码宝贝驯兽师之王 暴走的数码列车"
+    },
+    "_6954": {
+        "id": "6954",
+        "title_cn": "数码宝贝无限地带 古代数码宝贝复活",
+        "title_jp": "デジモンフロンティア 古代デジモン復活!!",
+        "tips": "1话 /  2002年7月20日 / 今村隆寛 / 中鶴勝祥",
+        "stars": 6.7,
+        "people": 295,
+        "year": 2002,
+        "path": "cover/2002/数码宝贝无限地带 古代数码宝贝复活"
+    },
+    "_6955": {
+        "id": "6955",
+        "title_cn": "大雄与机器人王国",
+        "title_jp": "ドラえもん のび太とロボット王国",
+        "tips": "1话 /  2002年3月9日 / 芝山努 / 藤子・F・不二雄",
+        "stars": 7.0,
+        "people": 270,
+        "year": 2002,
+        "path": "cover/2002/大雄与机器人王国"
+    },
+    "_6934": {
+        "id": "6934",
+        "title_cn": "星际宝贝",
+        "title_jp": "Lilo & Stitch",
+        "tips": "1话 /  2002年6月21日",
+        "stars": 6.8,
+        "people": 241,
+        "year": 2002,
+        "path": "cover/2002/星际宝贝"
+    },
+    "_6921": {
+        "id": "6921",
+        "title_cn": "星际宝贝",
+        "title_jp": "Lilo & Stitch",
+        "tips": "1话 /  2002年6月21日",
+        "stars": 6.8,
+        "people": 241,
+        "year": 2002,
+        "path": "cover/2002/星际宝贝"
+    },
+    "_6959": {
+        "id": "6959",
+        "title_cn": "剧场版∀高达I 地球光",
+        "title_jp": "劇場版∀ガンダムI 地球光",
+        "tips": "1话 /  2002年2月9日 / 富野由悠季",
+        "stars": 7.2,
+        "people": 204,
+        "year": 2002,
+        "path": "cover/2002/剧场版∀高达I 地球光"
+    },
+    "_6960": {
+        "id": "6960",
+        "title_cn": "剧场版∀高达II 月光蝶",
+        "title_jp": "劇場版∀ガンダムII 月光蝶",
+        "tips": "1话 /  2002年2月10日 / 富野由悠季",
+        "stars": 7.4,
+        "people": 201,
+        "year": 2002,
+        "path": "cover/2002/剧场版∀高达II 月光蝶"
+    },
+    "_6958": {
+        "id": "6958",
+        "title_cn": "机动警察迷你版",
+        "title_jp": "ミニパト",
+        "tips": "1话 /  2002年3月30日",
+        "stars": 7.1,
+        "people": 130,
+        "year": 2002,
+        "path": "cover/2002/机动警察迷你版"
+    },
+    "_6968": {
+        "id": "6968",
+        "title_cn": "头山",
+        "title_jp": "頭山",
+        "tips": "1话 /  2002年12月3日",
+        "stars": 6.8,
+        "people": 123,
+        "year": 2002,
+        "path": "cover/2002/头山"
+    },
+    "_6942": {
+        "id": "6942",
+        "title_cn": "星银岛",
+        "title_jp": "Treasure Planet",
+        "tips": "1话 /  2002年11月27日",
+        "stars": 7.3,
+        "people": 75,
+        "year": 2002,
+        "path": "cover/2002/星银岛"
+    },
+    "_6929": {
+        "id": "6929",
+        "title_cn": "星银岛",
+        "title_jp": "Treasure Planet",
+        "tips": "1话 /  2002年11月27日",
+        "stars": 7.3,
+        "people": 75,
+        "year": 2002,
+        "path": "cover/2002/星银岛"
+    },
+    "_6938": {
+        "id": "6938",
+        "title_cn": "小马王",
+        "title_jp": "Spirit: Stallion of the Cimarron",
+        "tips": "1话 /  2002-05-24 / 凯利·阿斯博瑞 / Lorna Cook",
+        "stars": 7.3,
+        "people": 56,
+        "year": 2002,
+        "path": "cover/2002/小马王"
+    },
+    "_6925": {
+        "id": "6925",
+        "title_cn": "小马王",
+        "title_jp": "Spirit: Stallion of the Cimarron",
+        "tips": "1话 /  2002-05-24 / 凯利·阿斯博瑞 / Lorna Cook",
+        "stars": 7.3,
+        "people": 56,
+        "year": 2002,
+        "path": "cover/2002/小马王"
+    },
+    "_6963": {
+        "id": "6963",
+        "title_cn": "海贼王 梦幻足球王",
+        "title_jp": "夢のサッカー王!",
+        "tips": "1话 /  2002年3月2日",
+        "stars": 6.1,
+        "people": 50,
+        "year": 2002,
+        "path": "cover/2002/海贼王 梦幻足球王"
+    },
+    "_6952": {
+        "id": "6952",
+        "title_cn": "哆啦A梦七小子GOAL!GOAL!GOAL!!",
+        "title_jp": "ザ☆ドラえもんズ ゴール!ゴール!ゴール!!",
+        "tips": "1话 /  2002-03-09",
+        "stars": 6.6,
+        "people": 50,
+        "year": 2002,
+        "path": "cover/2002/哆啦A梦七小子GOAL!GOAL!GOAL!!"
+    },
+    "_6948": {
+        "id": "6948",
+        "title_cn": "阿弖流为",
+        "title_jp": "アテルイ",
+        "tips": "1话 /  2002年12月2日 / 出﨑哲",
+        "stars": -1,
+        "people": 49,
+        "year": 2002,
+        "path": "cover/2002/阿弖流为"
+    },
+    "_6947": {
+        "id": "6947",
+        "title_cn": "梅伊与小猫巴士",
+        "title_jp": "めいとこねこバス",
+        "tips": "1话 /  2002年9月29日",
+        "stars": 6.4,
+        "people": 49,
+        "year": 2002,
+        "path": "cover/2002/梅伊与小猫巴士"
+    },
+    "_6946": {
+        "id": "6946",
+        "title_cn": "我出生的那一天",
+        "title_jp": "ぼくの生まれた日",
+        "tips": "1话 /  2002年3月9日",
+        "stars": 7.5,
+        "people": 48,
+        "year": 2002,
+        "path": "cover/2002/我出生的那一天"
+    },
+    "_6957": {
+        "id": "6957",
+        "title_cn": "ポンユタウン",
+        "title_jp": "パルムの樹",
+        "tips": "2002-10-07",
+        "stars": -1,
+        "people": 40,
+        "year": 2002,
+        "path": "cover/2002/ポンユタウン"
+    },
+    "_6956": {
+        "id": "6956",
+        "title_cn": "帕卢姆之树",
+        "title_jp": "パルムの樹",
+        "tips": "1话 /  2002年3月16日",
+        "stars": 6.1,
+        "people": 40,
+        "year": 2002,
+        "path": "cover/2002/帕卢姆之树"
+    },
+    "_6950": {
+        "id": "6950",
+        "title_cn": "吉卜力工作室特别短片2",
+        "title_jp": "ギブリーズ episode2",
+        "tips": "1话 /  2002年7月20日",
+        "stars": 6.7,
+        "people": 36,
+        "year": 2002,
+        "path": "cover/2002/吉卜力工作室特别短片2"
+    },
+    "_6967": {
+        "id": "6967",
+        "title_cn": "有时可能是列车",
+        "title_jp": "電車かもしれない",
+        "tips": "1话 /  2002年 / 近藤聡乃",
+        "stars": 6.7,
+        "people": 32,
+        "year": 2002,
+        "path": "cover/2002/有时可能是列车"
+    },
+    "_6941": {
+        "id": "6941",
+        "title_cn": "飞天小女警电影公开版",
+        "title_jp": "The Powerpuff Girls Movie",
+        "tips": "1话 /  2002年7月3日",
+        "stars": 7.4,
+        "people": 32,
+        "year": 2002,
+        "path": "cover/2002/飞天小女警电影公开版"
+    },
+    "_6928": {
+        "id": "6928",
+        "title_cn": "飞天小女警电影公开版",
+        "title_jp": "The Powerpuff Girls Movie",
+        "tips": "1话 /  2002年7月3日",
+        "stars": 7.4,
+        "people": 32,
+        "year": 2002,
+        "path": "cover/2002/飞天小女警电影公开版"
+    },
+    "_6939": {
+        "id": "6939",
+        "title_cn": "泰山与珍妮",
+        "title_jp": "Tarzan&Jane",
+        "tips": "1话 /  2002-07-23",
+        "stars": 6.5,
+        "people": 31,
+        "year": 2002,
+        "path": "cover/2002/泰山与珍妮"
+    },
+    "_6926": {
+        "id": "6926",
+        "title_cn": "泰山与珍妮",
+        "title_jp": "Tarzan&Jane",
+        "tips": "1话 /  2002-07-23",
+        "stars": 6.5,
+        "people": 31,
+        "year": 2002,
+        "path": "cover/2002/泰山与珍妮"
+    },
+    "_6949": {
+        "id": "6949",
+        "title_cn": "奥美帝III DUAL-MATRIX",
+        "title_jp": "アミテージ・ザ・サード DUAL-MATRIX",
+        "tips": "1话 /  2002年3月22日",
+        "stars": 6.1,
+        "people": 29,
+        "year": 2002,
+        "path": "cover/2002/奥美帝III DUAL-MATRIX"
+    },
+    "_6930": {
+        "id": "6930",
+        "title_cn": "芭比之长发公主",
+        "title_jp": "Barbie as Rapunzel",
+        "tips": "1话 /  2002-10-01 / Brothers Grimm《莴苣姑娘》",
+        "stars": 6.0,
+        "people": 26,
+        "year": 2002,
+        "path": "cover/2002/芭比之长发公主"
+    },
+    "_6917": {
+        "id": "6917",
+        "title_cn": "芭比之长发公主",
+        "title_jp": "Barbie as Rapunzel",
+        "tips": "1话 /  2002-10-01 / Brothers Grimm《莴苣姑娘》",
+        "stars": 6.0,
+        "people": 26,
+        "year": 2002,
+        "path": "cover/2002/芭比之长发公主"
+    },
+    "_6931": {
+        "id": "6931",
+        "title_cn": "虫孽 剧场版",
+        "title_jp": "BLUE GENDER THE WARRIOR",
+        "tips": "1话 /  2002年11月20日",
+        "stars": 6.0,
+        "people": 19,
+        "year": 2002,
+        "path": "cover/2002/虫孽 剧场版"
+    },
+    "_6918": {
+        "id": "6918",
+        "title_cn": "虫孽 剧场版",
+        "title_jp": "BLUE GENDER THE WARRIOR",
+        "tips": "1话 /  2002年11月20日",
+        "stars": 6.0,
+        "people": 19,
+        "year": 2002,
+        "path": "cover/2002/虫孽 剧场版"
+    },
+    "_6932": {
+        "id": "6932",
+        "title_cn": "仙履奇缘2：美梦成真",
+        "title_jp": "Cinderella II: Dreams Come True",
+        "tips": "1话 /  2002-02-26(美国)",
+        "stars": 6.1,
+        "people": 17,
+        "year": 2002,
+        "path": "cover/2002/仙履奇缘2：美梦成真"
+    },
+    "_6919": {
+        "id": "6919",
+        "title_cn": "仙履奇缘2：美梦成真",
+        "title_jp": "Cinderella II: Dreams Come True",
+        "tips": "1话 /  2002-02-26(美国)",
+        "stars": 6.1,
+        "people": 17,
+        "year": 2002,
+        "path": "cover/2002/仙履奇缘2：美梦成真"
+    },
+    "_6969": {
+        "id": "6969",
+        "title_cn": "美丽密语",
+        "title_jp": "아리이야기",
+        "tips": "1话 /  2002 / 李成疆Sung-Gang LEE",
+        "stars": 6.3,
+        "people": 16,
+        "year": 2002,
+        "path": "cover/2002/美丽密语"
+    },
+    "_6937": {
+        "id": "6937",
+        "title_cn": "Pia♥キャロットへようこそ!! -さやかの恋物語-",
+        "title_jp": "ONE PIECE 珍獣島のチョッパー王国",
+        "tips": "1话 /  2002-10-19",
+        "stars": 5.0,
+        "people": 14,
+        "year": 2002,
+        "path": "cover/2002/Pia♥キャロットへようこそ!! -さやかの恋物語-"
+    },
+    "_6924": {
+        "id": "6924",
+        "title_cn": "Pia♥キャロットへようこそ!! -さやかの恋物語-",
+        "title_jp": "ONE PIECE 珍獣島のチョッパー王国",
+        "tips": "1话 /  2002-10-19",
+        "stars": 5.0,
+        "people": 14,
+        "year": 2002,
+        "path": "cover/2002/Pia♥キャロットへようこそ!! -さやかの恋物語-"
+    },
+    "_6935": {
+        "id": "6935",
+        "title_cn": "海贼王 接地线的冒险",
+        "title_jp": "ONE PIECE グランドラインの冒険",
+        "tips": "1话 /  2002年7月",
+        "stars": 7.0,
+        "people": 12,
+        "year": 2002,
+        "path": "cover/2002/海贼王 接地线的冒险"
+    },
+    "_6922": {
+        "id": "6922",
+        "title_cn": "海贼王 接地线的冒险",
+        "title_jp": "ONE PIECE グランドラインの冒険",
+        "tips": "1话 /  2002年7月",
+        "stars": 7.0,
+        "people": 12,
+        "year": 2002,
+        "path": "cover/2002/海贼王 接地线的冒险"
+    },
+    "_6940": {
+        "id": "6940",
+        "title_cn": "恰卜恰布",
+        "title_jp": "The Chubbchubbs!",
+        "tips": "1话 /  2002年 / Eric Armstrong",
+        "stars": 5.0,
+        "people": 11,
+        "year": 2002,
+        "path": "cover/2002/恰卜恰布"
+    },
+    "_6927": {
+        "id": "6927",
+        "title_cn": "恰卜恰布",
+        "title_jp": "The Chubbchubbs!",
+        "tips": "1话 /  2002年 / Eric Armstrong",
+        "stars": 5.0,
+        "people": 11,
+        "year": 2002,
+        "path": "cover/2002/恰卜恰布"
+    }
+}

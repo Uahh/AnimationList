@@ -1,0 +1,512 @@
+{
+    "_211": {
+        "id": "211",
+        "title_cn": "死にぞこない係長",
+        "title_jp": "機動武闘伝Gガンダム",
+        "tips": "2话 /  1994-01-02 / 杉島邦久 / 畑良子",
+        "stars": -1,
+        "people": 704,
+        "year": 1994,
+        "path": "cover/1994/死にぞこない係長"
+    },
+    "_210": {
+        "id": "210",
+        "title_cn": "机动武斗传G高达",
+        "title_jp": "機動武闘伝Gガンダム",
+        "tips": "49话 /  1994年4月1日 / 今川泰宏 / 矢立肇、富野由悠季",
+        "stars": 7.6,
+        "people": 704,
+        "year": 1994,
+        "path": "cover/1994/机动武斗传G高达"
+    },
+    "_201": {
+        "id": "201",
+        "title_cn": "超时空要塞7",
+        "title_jp": "マクロス7",
+        "tips": "52话 /  1994年10月16日 / アミノテツロー / 河森正治 / 桂憲一郎",
+        "stars": 7.6,
+        "people": 617,
+        "year": 1994,
+        "path": "cover/1994/超时空要塞7"
+    },
+    "_212": {
+        "id": "212",
+        "title_cn": "美少女战士S",
+        "title_jp": "美少女戦士セーラームーンS",
+        "tips": "38话 /  1994-03-19 / 幾原邦彦 / 武内直子 / 伊藤郁子",
+        "stars": 7.4,
+        "people": 313,
+        "year": 1994,
+        "path": "cover/1994/美少女战士S"
+    },
+    "_216": {
+        "id": "216",
+        "title_cn": "咕噜咕噜魔法阵",
+        "title_jp": "魔法陣グルグル",
+        "tips": "45话 /  1994-10-13 / 中西伸彰 / 加瀬政広",
+        "stars": 7.4,
+        "people": 251,
+        "year": 1994,
+        "path": "cover/1994/咕噜咕噜魔法阵"
+    },
+    "_209": {
+        "id": "209",
+        "title_cn": "飞天少女猪",
+        "title_jp": "愛と勇気のピッグガール とんでぶーりん",
+        "tips": "51话 /  1994年9月3日",
+        "stars": 6.7,
+        "people": 237,
+        "year": 1994,
+        "path": "cover/1994/飞天少女猪"
+    },
+    "_217": {
+        "id": "217",
+        "title_cn": "魔法骑士",
+        "title_jp": "魔法騎士レイアース",
+        "tips": "49话 /  1994年10月17日 / 平野俊貴 / CLAMP / 石田敦子",
+        "stars": 7.0,
+        "people": 185,
+        "year": 1994,
+        "path": "cover/1994/魔法骑士"
+    },
+    "_200": {
+        "id": "200",
+        "title_cn": "足球狂热",
+        "title_jp": "サッカー・フィーバー",
+        "tips": "51话 /  1994-04-01",
+        "stars": -1,
+        "people": 165,
+        "year": 1994,
+        "path": "cover/1994/足球狂热"
+    },
+    "_199": {
+        "id": "199",
+        "title_cn": "ゴールFH",
+        "title_jp": "キャプテン翼J",
+        "tips": "39话 /  1994年4月4日",
+        "stars": -1,
+        "people": 165,
+        "year": 1994,
+        "path": "cover/1994/ゴールFH"
+    },
+    "_198": {
+        "id": "198",
+        "title_cn": "足球小将J",
+        "title_jp": "キャプテン翼J",
+        "tips": "47话 /  1994年10月21日",
+        "stars": 6.9,
+        "people": 165,
+        "year": 1994,
+        "path": "cover/1994/足球小将J"
+    },
+    "_182": {
+        "id": "182",
+        "title_cn": "足球小将J",
+        "title_jp": "キャプテン翼J",
+        "tips": "47话 /  1994年10月21日",
+        "stars": 6.9,
+        "people": 165,
+        "year": 1994,
+        "path": "cover/1994/足球小将J"
+    },
+    "_187": {
+        "id": "187",
+        "title_cn": "神奇四侠",
+        "title_jp": "Fantastic Four (Season 1)",
+        "tips": "13话 /  1994-09-24",
+        "stars": -1,
+        "people": 160,
+        "year": 1994,
+        "path": "cover/1994/神奇四侠"
+    },
+    "_186": {
+        "id": "186",
+        "title_cn": "再造基因",
+        "title_jp": "D・N・A² 〜何処かで失くしたあいつのアイツ〜",
+        "tips": "12话 /  1994年10月7日 / 坂田純一 / 桂正和",
+        "stars": 6.5,
+        "people": 160,
+        "year": 1994,
+        "path": "cover/1994/再造基因"
+    },
+    "_171": {
+        "id": "171",
+        "title_cn": "神奇四侠",
+        "title_jp": "Fantastic Four (Season 1)",
+        "tips": "13话 /  1994-09-24",
+        "stars": -1,
+        "people": 160,
+        "year": 1994,
+        "path": "cover/1994/神奇四侠"
+    },
+    "_170": {
+        "id": "170",
+        "title_cn": "再造基因",
+        "title_jp": "D・N・A² 〜何処かで失くしたあいつのアイツ〜",
+        "tips": "12话 /  1994年10月7日 / 坂田純一 / 桂正和",
+        "stars": 6.5,
+        "people": 160,
+        "year": 1994,
+        "path": "cover/1994/再造基因"
+    },
+    "_215": {
+        "id": "215",
+        "title_cn": "小红帽恰恰",
+        "title_jp": "赤ずきんチャチャ",
+        "tips": "74话 /  1994年1月7日 / 辻初樹 / 彩花みん / 渡辺はじめ",
+        "stars": 7.6,
+        "people": 132,
+        "year": 1994,
+        "path": "cover/1994/小红帽恰恰"
+    },
+    "_193": {
+        "id": "193",
+        "title_cn": "神偷卡门",
+        "title_jp": "Where on Earth Is Carmen Sandiego",
+        "tips": "40话 /  1994年2月5日",
+        "stars": 7.3,
+        "people": 98,
+        "year": 1994,
+        "path": "cover/1994/神偷卡门"
+    },
+    "_177": {
+        "id": "177",
+        "title_cn": "神偷卡门",
+        "title_jp": "Where on Earth Is Carmen Sandiego",
+        "tips": "40话 /  1994年2月5日",
+        "stars": 7.3,
+        "people": 98,
+        "year": 1994,
+        "path": "cover/1994/神偷卡门"
+    },
+    "_206": {
+        "id": "206",
+        "title_cn": "鲁邦三世：燃烧的斩铁剑",
+        "title_jp": "ルパン三世 燃えよ斬鉄剣",
+        "tips": "1话 /  1994年7月29日",
+        "stars": 7.0,
+        "people": 81,
+        "year": 1994,
+        "path": "cover/1994/鲁邦三世：燃烧的斩铁剑"
+    },
+    "_188": {
+        "id": "188",
+        "title_cn": "夜行神龙 第一季",
+        "title_jp": "Gargoyles Season 1",
+        "tips": "13话 /  1994-10-24 (美国) / Kazuo Terada, Saburo Hashimoto",
+        "stars": 7.7,
+        "people": 70,
+        "year": 1994,
+        "path": "cover/1994/夜行神龙 第一季"
+    },
+    "_172": {
+        "id": "172",
+        "title_cn": "夜行神龙 第一季",
+        "title_jp": "Gargoyles Season 1",
+        "tips": "13话 /  1994-10-24 (美国) / Kazuo Terada, Saburo Hashimoto",
+        "stars": 7.7,
+        "people": 70,
+        "year": 1994,
+        "path": "cover/1994/夜行神龙 第一季"
+    },
+    "_185": {
+        "id": "185",
+        "title_cn": "碧奇魂",
+        "title_jp": "BLUE SEED",
+        "tips": "26话 /  1994年10月5日 / 神谷純 / 高田裕三",
+        "stars": 6.9,
+        "people": 63,
+        "year": 1994,
+        "path": "cover/1994/碧奇魂"
+    },
+    "_169": {
+        "id": "169",
+        "title_cn": "碧奇魂",
+        "title_jp": "BLUE SEED",
+        "tips": "26话 /  1994年10月5日 / 神谷純 / 高田裕三",
+        "stars": 6.9,
+        "people": 63,
+        "year": 1994,
+        "path": "cover/1994/碧奇魂"
+    },
+    "_208": {
+        "id": "208",
+        "title_cn": "校园恐怖传说 - 花子来了",
+        "title_jp": "学校のコワイうわさ 花子さんがきた!!",
+        "tips": "35话 /  1994年8月15日 / 森京詞姫",
+        "stars": -1,
+        "people": 56,
+        "year": 1994,
+        "path": "cover/1994/校园恐怖传说 - 花子来了"
+    },
+    "_207": {
+        "id": "207",
+        "title_cn": "勇者警察",
+        "title_jp": "勇者警察ジェイデッカー",
+        "tips": "48话 /  1994年2月5日 / 高松信司 / 矢立肇 / 石田敦子",
+        "stars": 7.4,
+        "people": 56,
+        "year": 1994,
+        "path": "cover/1994/勇者警察"
+    },
+    "_191": {
+        "id": "191",
+        "title_cn": "蜘蛛侠 第一季",
+        "title_jp": "Spider-Man Season 1 (1994)",
+        "tips": "13话 /  1994-11-19",
+        "stars": 7.3,
+        "people": 55,
+        "year": 1994,
+        "path": "cover/1994/蜘蛛侠 第一季"
+    },
+    "_175": {
+        "id": "175",
+        "title_cn": "蜘蛛侠 第一季",
+        "title_jp": "Spider-Man Season 1 (1994)",
+        "tips": "13话 /  1994-11-19",
+        "stars": 7.3,
+        "people": 55,
+        "year": 1994,
+        "path": "cover/1994/蜘蛛侠 第一季"
+    },
+    "_202": {
+        "id": "202",
+        "title_cn": "橘子酱男孩",
+        "title_jp": "ママレード・ボーイ",
+        "tips": "76话 /  1994年3月13日 / 矢部秋則 / 吉住渉 / 馬越嘉彦",
+        "stars": 6.3,
+        "people": 50,
+        "year": 1994,
+        "path": "cover/1994/橘子酱男孩"
+    },
+    "_204": {
+        "id": "204",
+        "title_cn": "飞虎奇兵",
+        "title_jp": "モンタナ・ジョーンズ",
+        "tips": "52话 /  1994年4月2日 / 今沢哲男 / マルコ・パゴット、ジー・パゴット / マルコ・パゴット、新谷憲",
+        "stars": -1,
+        "people": 45,
+        "year": 1994,
+        "path": "cover/1994/飞虎奇兵"
+    },
+    "_203": {
+        "id": "203",
+        "title_cn": "重装甲少女组",
+        "title_jp": "メタルファイター♥MIKU",
+        "tips": "13话 /  1994年7月8日 / 新房昭之",
+        "stars": 6.4,
+        "people": 45,
+        "year": 1994,
+        "path": "cover/1994/重装甲少女组"
+    },
+    "_192": {
+        "id": "192",
+        "title_cn": "辛普森一家 第六季",
+        "title_jp": "The Simpsons Season 6",
+        "tips": "25话 /  1994-09-04",
+        "stars": 7.3,
+        "people": 19,
+        "year": 1994,
+        "path": "cover/1994/辛普森一家 第六季"
+    },
+    "_176": {
+        "id": "176",
+        "title_cn": "辛普森一家 第六季",
+        "title_jp": "The Simpsons Season 6",
+        "tips": "25话 /  1994-09-04",
+        "stars": 7.3,
+        "people": 19,
+        "year": 1994,
+        "path": "cover/1994/辛普森一家 第六季"
+    },
+    "_184": {
+        "id": "184",
+        "title_cn": "BattleTech",
+        "title_jp": "3丁目のタマ うちのタマ知りませんか? 第2期",
+        "tips": "13话 /  1994-09-10",
+        "stars": -1,
+        "people": 18,
+        "year": 1994,
+        "path": "cover/1994/BattleTech"
+    },
+    "_183": {
+        "id": "183",
+        "title_cn": "猫狗宠物街 第2期",
+        "title_jp": "3丁目のタマ うちのタマ知りませんか? 第2期",
+        "tips": "26话 /  1994-04-03 / 武藤裕治 / sony music entertainment / 大島りえ",
+        "stars": 7.4,
+        "people": 18,
+        "year": 1994,
+        "path": "cover/1994/猫狗宠物街 第2期"
+    },
+    "_168": {
+        "id": "168",
+        "title_cn": "BattleTech",
+        "title_jp": "3丁目のタマ うちのタマ知りませんか? 第2期",
+        "tips": "13话 /  1994-09-10",
+        "stars": -1,
+        "people": 18,
+        "year": 1994,
+        "path": "cover/1994/BattleTech"
+    },
+    "_167": {
+        "id": "167",
+        "title_cn": "猫狗宠物街 第2期",
+        "title_jp": "3丁目のタマ うちのタマ知りませんか? 第2期",
+        "tips": "26话 /  1994-04-03 / 武藤裕治 / sony music entertainment / 大島りえ",
+        "stars": 7.4,
+        "people": 18,
+        "year": 1994,
+        "path": "cover/1994/猫狗宠物街 第2期"
+    },
+    "_196": {
+        "id": "196",
+        "title_cn": "幸运超人",
+        "title_jp": "とっても!ラッキーマン",
+        "tips": "50话 /  1994年4月6日 / ガモウひろし",
+        "stars": 7.1,
+        "people": 16,
+        "year": 1994,
+        "path": "cover/1994/幸运超人"
+    },
+    "_180": {
+        "id": "180",
+        "title_cn": "幸运超人",
+        "title_jp": "とっても!ラッキーマン",
+        "tips": "50话 /  1994年4月6日 / ガモウひろし",
+        "stars": 7.1,
+        "people": 16,
+        "year": 1994,
+        "path": "cover/1994/幸运超人"
+    },
+    "_205": {
+        "id": "205",
+        "title_cn": "魔天战神",
+        "title_jp": "ヤマトタケル",
+        "tips": "37话 /  1994年4月9日",
+        "stars": 6.8,
+        "people": 14,
+        "year": 1994,
+        "path": "cover/1994/魔天战神"
+    },
+    "_190": {
+        "id": "190",
+        "title_cn": "骷髅战士",
+        "title_jp": "Skeleton Warriors",
+        "tips": "13话 /  1994-09-17 / Gary Goddard",
+        "stars": -1,
+        "people": 14,
+        "year": 1994,
+        "path": "cover/1994/骷髅战士"
+    },
+    "_189": {
+        "id": "189",
+        "title_cn": "侍魂：破天降魔之章",
+        "title_jp": "SAMURAI SPIRITS 〜破天降魔の章〜",
+        "tips": "1话 /  1994-09-18",
+        "stars": 5.2,
+        "people": 14,
+        "year": 1994,
+        "path": "cover/1994/侍魂：破天降魔之章"
+    },
+    "_174": {
+        "id": "174",
+        "title_cn": "骷髅战士",
+        "title_jp": "Skeleton Warriors",
+        "tips": "13话 /  1994-09-17 / Gary Goddard",
+        "stars": -1,
+        "people": 14,
+        "year": 1994,
+        "path": "cover/1994/骷髅战士"
+    },
+    "_173": {
+        "id": "173",
+        "title_cn": "侍魂：破天降魔之章",
+        "title_jp": "SAMURAI SPIRITS 〜破天降魔の章〜",
+        "tips": "1话 /  1994-09-18",
+        "stars": 5.2,
+        "people": 14,
+        "year": 1994,
+        "path": "cover/1994/侍魂：破天降魔之章"
+    },
+    "_214": {
+        "id": "214",
+        "title_cn": "亲子俱乐部",
+        "title_jp": "親子クラブ",
+        "tips": "1818话 /  1994-10-03",
+        "stars": -1,
+        "people": 13,
+        "year": 1994,
+        "path": "cover/1994/亲子俱乐部"
+    },
+    "_213": {
+        "id": "213",
+        "title_cn": "霸王大系龙骑士",
+        "title_jp": "覇王大系リューナイト",
+        "tips": "52话 /  1994-04-05 / 川瀬敏文 / 伊東岳彦、矢立肇 / そえたかずひろ",
+        "stars": 7.2,
+        "people": 13,
+        "year": 1994,
+        "path": "cover/1994/霸王大系龙骑士"
+    },
+    "_197": {
+        "id": "197",
+        "title_cn": "魔法小歌王",
+        "title_jp": "カラオケ戦士マイク次郎",
+        "tips": "20话 /  1994-04-04",
+        "stars": 6.8,
+        "people": 13,
+        "year": 1994,
+        "path": "cover/1994/魔法小歌王"
+    },
+    "_181": {
+        "id": "181",
+        "title_cn": "魔法小歌王",
+        "title_jp": "カラオケ戦士マイク次郎",
+        "tips": "20话 /  1994-04-04",
+        "stars": 6.8,
+        "people": 13,
+        "year": 1994,
+        "path": "cover/1994/魔法小歌王"
+    },
+    "_195": {
+        "id": "195",
+        "title_cn": "きょうふのキョーちゃん",
+        "title_jp": "おまかせスクラッパーズ",
+        "tips": "7话 /  1994-11-13",
+        "stars": -1,
+        "people": 10,
+        "year": 1994,
+        "path": "cover/1994/きょうふのキョーちゃん"
+    },
+    "_194": {
+        "id": "194",
+        "title_cn": "重获新生的机器人",
+        "title_jp": "おまかせスクラッパーズ",
+        "tips": "39话 /  1994-04-07 / モンキー・パンチ / 青木悠三",
+        "stars": 6.5,
+        "people": 10,
+        "year": 1994,
+        "path": "cover/1994/重获新生的机器人"
+    },
+    "_179": {
+        "id": "179",
+        "title_cn": "きょうふのキョーちゃん",
+        "title_jp": "おまかせスクラッパーズ",
+        "tips": "7话 /  1994-11-13",
+        "stars": -1,
+        "people": 10,
+        "year": 1994,
+        "path": "cover/1994/きょうふのキョーちゃん"
+    },
+    "_178": {
+        "id": "178",
+        "title_cn": "重获新生的机器人",
+        "title_jp": "おまかせスクラッパーズ",
+        "tips": "39话 /  1994-04-07 / モンキー・パンチ / 青木悠三",
+        "stars": 6.5,
+        "people": 10,
+        "year": 1994,
+        "path": "cover/1994/重获新生的机器人"
+    }
+}

@@ -23,7 +23,7 @@ def comment():
     id_list = request.args.get('data').split(',')
     result = {}
     for id in id_list:
-        result[str(id)] = animation_data[str(id)]
+        result['_' + str(id)] = animation_data['_' + str(id)]
     return render_template(
         'comment.html',
         data=result
@@ -37,7 +37,7 @@ def result():
     content = request.args.get('content')
     data = {}
     for id in id_list:
-        data[str(id)] = animation_data[str(id)]
+        data['_' + str(id)] = animation_data['_' + str(id)]
     return render_template(
         'result.html',
         id=user_id,
@@ -62,12 +62,22 @@ def get_cover():
     print(pic_path)
     return send_file(pic_path)
 
+@app.route('/animationlist/getBackground', methods=["GET"])
+def get_background():
+    return send_file('./static_animationlist/picture/background.png')
+
 @app.route('/animationlist/getData', methods=["GET"])
 def get_data():
     year = request.args.get('year')
     with open('./animation_data/data_' + year + '.json', encoding='utf-8') as json_file:
         data = json.load(json_file)
-    return data
+    return json.dumps(data)
+
+@app.route('/animationlist/getDataDict', methods=["GET"])
+def get_data_dict():
+    with open('./animation_data/data_dict.json', encoding='utf-8') as json_file:
+        data = json.load(json_file)
+    return json.dumps(data)
 
 
 @app.route('/error')

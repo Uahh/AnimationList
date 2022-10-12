@@ -1,0 +1,1282 @@
+{
+    "_8176": {
+        "id": "8176",
+        "title_cn": "你的名字。",
+        "title_jp": "君の名は。",
+        "tips": "1话 /  2016年8月26日 / 新海誠 / 新海誠 / 田中将賀、安藤雅司",
+        "stars": 8.0,
+        "people": 14047,
+        "year": 2016,
+        "path": "cover/2016/你的名字。"
+    },
+    "_8192": {
+        "id": "8192",
+        "title_cn": "声之形",
+        "title_jp": "映画 聲の形",
+        "tips": "1话 /  2016年9月17日 / 山田尚子 / 大今良時（講談社コミックス刊） / 西屋太志",
+        "stars": 7.2,
+        "people": 6969,
+        "year": 2016,
+        "path": "cover/2016/声之形"
+    },
+    "_8139": {
+        "id": "8139",
+        "title_cn": "疯狂动物城",
+        "title_jp": "Zootopia",
+        "tips": "1话 /  2016年3月4日 / Byron Howard / Rich Moore",
+        "stars": 7.7,
+        "people": 4220,
+        "year": 2016,
+        "path": "cover/2016/疯狂动物城"
+    },
+    "_8166": {
+        "id": "8166",
+        "title_cn": "伤物语I 铁血篇",
+        "title_jp": "傷物語I 鉄血篇",
+        "tips": "1话 /  2016年1月8日 / 尾石達也 / 西尾維新（『傷物語』講談社BOX） / 渡辺明夫、守岡英行",
+        "stars": 7.8,
+        "people": 4027,
+        "year": 2016,
+        "path": "cover/2016/伤物语I 铁血篇"
+    },
+    "_8167": {
+        "id": "8167",
+        "title_cn": "伤物语II 热血篇",
+        "title_jp": "傷物語II 熱血篇",
+        "tips": "1话 /  2016年8月19日 / 尾石達也 / 西尾維新（『傷物語』講談社BOX） / 渡辺明夫、守岡英行",
+        "stars": 7.9,
+        "people": 3596,
+        "year": 2016,
+        "path": "cover/2016/伤物语II 热血篇"
+    },
+    "_8129": {
+        "id": "8129",
+        "title_cn": "星之梦～星之人～",
+        "title_jp": "planetarian～星の人～",
+        "tips": "1话 /  2016年9月3日 / 津田尚克 / 「planetarian ～ちいさなほしのゆめ～」(Key) / 竹知仁美",
+        "stars": 7.5,
+        "people": 2045,
+        "year": 2016,
+        "path": "cover/2016/星之梦～星之人～"
+    },
+    "_8172": {
+        "id": "8172",
+        "title_cn": "剧场版 吹响！悠风号～欢迎来到北宇治高中吹奏乐部～",
+        "title_jp": "劇場版 響け！ユーフォニアム～北宇治高校吹奏楽部へようこそ～",
+        "tips": "1话 /  2016年4月23日 / 石原立也 / 武田綾乃（宝島社文庫「響け！ユーフォニアム」シリーズ） / 池田晶子",
+        "stars": 7.6,
+        "people": 1860,
+        "year": 2016,
+        "path": "cover/2016/剧场版 吹响！悠风号～欢迎来到北宇治高中吹奏乐部～"
+    },
+    "_8177": {
+        "id": "8177",
+        "title_cn": "大鱼·海棠",
+        "title_jp": "大鱼·海棠",
+        "tips": "1话 /  2016年7月8日 / 梁旋、张春 / 梁旋",
+        "stars": 5.6,
+        "people": 1831,
+        "year": 2016,
+        "path": "cover/2016/大鱼·海棠"
+    },
+    "_8144": {
+        "id": "8144",
+        "title_cn": "しまじろうのわお！ しまじろうと えほんのくに",
+        "title_jp": "この世界の片隅に",
+        "tips": "1话 /  2016年3月11日",
+        "stars": -1,
+        "people": 1387,
+        "year": 2016,
+        "path": "cover/2016/しまじろうのわお！ しまじろうと えほんのくに"
+    },
+    "_8143": {
+        "id": "8143",
+        "title_cn": "在这世界的角落",
+        "title_jp": "この世界の片隅に",
+        "tips": "1话 /  2016年11月12日 / 片渕須直 / こうの史代『この世界の片隅に』（双葉社刊）",
+        "stars": 7.3,
+        "people": 1387,
+        "year": 2016,
+        "path": "cover/2016/在这世界的角落"
+    },
+    "_8150": {
+        "id": "8150",
+        "title_cn": "玻璃之花与崩坏的世界",
+        "title_jp": "ガラスの花と壊す世界",
+        "tips": "1话 /  2016年1月9日",
+        "stars": 6.1,
+        "people": 1353,
+        "year": 2016,
+        "path": "cover/2016/玻璃之花与崩坏的世界"
+    },
+    "_8175": {
+        "id": "8175",
+        "title_cn": "名侦探柯南 纯黑的恶梦",
+        "title_jp": "名探偵コナン 純黒の悪夢",
+        "tips": "1话 /  2016年4月16日 / 静野孔文 / 青山剛昌 / 須藤昌朋",
+        "stars": 6.0,
+        "people": 1329,
+        "year": 2016,
+        "path": "cover/2016/名侦探柯南 纯黑的恶梦"
+    },
+    "_8147": {
+        "id": "8147",
+        "title_cn": "加速世界 Infinite Burst",
+        "title_jp": "アクセル・ワールド INFINITE∞BURST",
+        "tips": "1话 /  2016年7月23日 / 小原正和 / 川原礫 / 愛敬由紀子、椛島洋介（对战Avatar）",
+        "stars": 6.0,
+        "people": 1183,
+        "year": 2016,
+        "path": "cover/2016/加速世界 Infinite Burst"
+    },
+    "_8171": {
+        "id": "8171",
+        "title_cn": "舰队Collection 剧场版",
+        "title_jp": "劇場版 艦これ",
+        "tips": "1话 /  2016年11月26日 / 草川啓造 / DMM.com、KADOKAWA GAMES(角川ゲームス) / 井出直美、松本麻友子、小原充",
+        "stars": 6.1,
+        "people": 894,
+        "year": 2016,
+        "path": "cover/2016/舰队Collection 剧场版"
+    },
+    "_8145": {
+        "id": "8145",
+        "title_cn": "从很久以前就喜欢你了。～告白实行委员会～",
+        "title_jp": "ずっと前から好きでした。～告白実行委員会～",
+        "tips": "1话 /  2016年4月23日 / 柳沢テツヤ / HoneyWorks / 藤井まき",
+        "stars": 6.5,
+        "people": 820,
+        "year": 2016,
+        "path": "cover/2016/从很久以前就喜欢你了。～告白实行委员会～"
+    },
+    "_8174": {
+        "id": "8174",
+        "title_cn": "同级生",
+        "title_jp": "同級生",
+        "tips": "1话 /  2016年2月20日 / 中村章子 / 中村明日美子",
+        "stars": 7.5,
+        "people": 815,
+        "year": 2016,
+        "path": "cover/2016/同级生"
+    },
+    "_8142": {
+        "id": "8142",
+        "title_cn": "黄金拼图 Pretty Days",
+        "title_jp": "きんいろモザイク Pretty Days",
+        "tips": "1话 /  2016年11月12日 / 天衝 / 原悠衣 / 植田和幸",
+        "stars": 7.0,
+        "people": 811,
+        "year": 2016,
+        "path": "cover/2016/黄金拼图 Pretty Days"
+    },
+    "_8152": {
+        "id": "8152",
+        "title_cn": "Code Geass 亡国的阿基德 最终章「致我所爱」",
+        "title_jp": "コードギアス 亡国のアキト 最終章「愛シキモノタチヘ」",
+        "tips": "1话 /  2016年2月6日",
+        "stars": 4.9,
+        "people": 788,
+        "year": 2016,
+        "path": "cover/2016/Code Geass 亡国的阿基德 最终章「致我所爱」"
+    },
+    "_8114": {
+        "id": "8114",
+        "title_cn": "最终幻想15 王者之剑",
+        "title_jp": "KINGSGLAIVE FINAL FANTASY XV",
+        "tips": "1话 /  2016年7月9日 / 野末武志",
+        "stars": 7.1,
+        "people": 785,
+        "year": 2016,
+        "path": "cover/2016/最终幻想15 王者之剑"
+    },
+    "_8100": {
+        "id": "8100",
+        "title_cn": "最终幻想15 王者之剑",
+        "title_jp": "KINGSGLAIVE FINAL FANTASY XV",
+        "tips": "1话 /  2016年7月9日 / 野末武志",
+        "stars": 7.1,
+        "people": 785,
+        "year": 2016,
+        "path": "cover/2016/最终幻想15 王者之剑"
+    },
+    "_8207": {
+        "id": "8207",
+        "title_cn": "青蛙总动员",
+        "title_jp": "遊☆戯☆王 THE DARK SIDE OF DIMENSIONS",
+        "tips": "1话 /  2016年4月30日 / 杨仁贤",
+        "stars": -1,
+        "people": 730,
+        "year": 2016,
+        "path": "cover/2016/青蛙总动员"
+    },
+    "_8206": {
+        "id": "8206",
+        "title_cn": "阿里巴巴2所罗门封印",
+        "title_jp": "遊☆戯☆王 THE DARK SIDE OF DIMENSIONS",
+        "tips": "1话 /  2016年5月7日 / 郑成峰",
+        "stars": -1,
+        "people": 730,
+        "year": 2016,
+        "path": "cover/2016/阿里巴巴2所罗门封印"
+    },
+    "_8205": {
+        "id": "8205",
+        "title_cn": "游戏王 The Dark Side of Dimensions",
+        "title_jp": "遊☆戯☆王 THE DARK SIDE OF DIMENSIONS",
+        "tips": "1话 /  2016年4月23日 / 桑原智 / 高橋和希 / 高橋和希、加々美高浩、豊田暁子、No Gill Bo、蛯名秀和",
+        "stars": 7.4,
+        "people": 730,
+        "year": 2016,
+        "path": "cover/2016/游戏王 The Dark Side of Dimensions"
+    },
+    "_8109": {
+        "id": "8109",
+        "title_cn": "杀戮都市：O",
+        "title_jp": "GANTZ:O",
+        "tips": "1话 /  2016年10月14日 / 川村泰",
+        "stars": 7.0,
+        "people": 704,
+        "year": 2016,
+        "path": "cover/2016/杀戮都市：O"
+    },
+    "_8095": {
+        "id": "8095",
+        "title_cn": "杀戮都市：O",
+        "title_jp": "GANTZ:O",
+        "tips": "1话 /  2016年10月14日 / 川村泰",
+        "stars": 7.0,
+        "people": 704,
+        "year": 2016,
+        "path": "cover/2016/杀戮都市：O"
+    },
+    "_8156": {
+        "id": "8156",
+        "title_cn": "数码宝贝大冒险 tri. 第二章「决意」",
+        "title_jp": "デジモンアドベンチャー tri. 第2章「決意」",
+        "tips": "4话 /  2016年3月12日",
+        "stars": 5.6,
+        "people": 649,
+        "year": 2016,
+        "path": "cover/2016/数码宝贝大冒险 tri  第二章「决意」"
+    },
+    "_8125": {
+        "id": "8125",
+        "title_cn": "海贼王 黄金城",
+        "title_jp": "ONE PIECE FILM GOLD",
+        "tips": "1话 /  2016年7月23日",
+        "stars": 6.7,
+        "people": 605,
+        "year": 2016,
+        "path": "cover/2016/海贼王 黄金城"
+    },
+    "_8116": {
+        "id": "8116",
+        "title_cn": "功夫熊猫3",
+        "title_jp": "Kung Fu Panda 3",
+        "tips": "1话 /  2016-01-29 / 余仁英 / Alessandro Carloni",
+        "stars": 6.3,
+        "people": 589,
+        "year": 2016,
+        "path": "cover/2016/功夫熊猫3"
+    },
+    "_8179": {
+        "id": "8179",
+        "title_cn": "喜欢上你的那个瞬间。～告白实行委员会～",
+        "title_jp": "好きになるその瞬間を。～告白実行委員会～",
+        "tips": "1话 /  2016年12月17日",
+        "stars": 6.7,
+        "people": 580,
+        "year": 2016,
+        "path": "cover/2016/喜欢上你的那个瞬间。～告白实行委员会～"
+    },
+    "_8157": {
+        "id": "8157",
+        "title_cn": "数码宝贝大冒险 tri. 第三章「告白」",
+        "title_jp": "デジモンアドベンチャー tri. 第3章「告白」",
+        "tips": "5话 /  2016年9月24日",
+        "stars": 5.7,
+        "people": 511,
+        "year": 2016,
+        "path": "cover/2016/数码宝贝大冒险 tri  第三章「告白」"
+    },
+    "_8128": {
+        "id": "8128",
+        "title_cn": "鹬",
+        "title_jp": "Piper",
+        "tips": "1话 /  2016年6月17日 / Alan Barillaro",
+        "stars": 7.5,
+        "people": 490,
+        "year": 2016,
+        "path": "cover/2016/鹬"
+    },
+    "_8158": {
+        "id": "8158",
+        "title_cn": "哆啦A梦 新·大雄的日本诞生",
+        "title_jp": "ドラえもん 新・のび太の日本誕生",
+        "tips": "1话 /  2016-03-05 / 八鍬新之介",
+        "stars": 6.7,
+        "people": 384,
+        "year": 2016,
+        "path": "cover/2016/哆啦A梦 新·大雄的日本诞生"
+    },
+    "_8196": {
+        "id": "8196",
+        "title_cn": "防灾为未来",
+        "title_jp": "未来に向けて 防災を考える",
+        "tips": "1话 /  2016 / 出崎哲",
+        "stars": -1,
+        "people": 373,
+        "year": 2016,
+        "path": "cover/2016/防灾为未来"
+    },
+    "_8195": {
+        "id": "8195",
+        "title_cn": "暗杀教室 365天的时间",
+        "title_jp": "暗殺教室 365日の時間",
+        "tips": "1话 /  2016年11月19日 / 岸誠二 / 「暗殺教室」松井優征（集英社「週刊少年ジャンプ」連載） / 森田和明、黒澤桂子（副人设）、樋上あや（副人设辅佐）",
+        "stars": 6.6,
+        "people": 373,
+        "year": 2016,
+        "path": "cover/2016/暗杀教室 365天的时间"
+    },
+    "_8165": {
+        "id": "8165",
+        "title_cn": "亚人 -冲突-",
+        "title_jp": "亜人 -衝突-",
+        "tips": "1话 /  2016年5月6日",
+        "stars": 7.1,
+        "people": 365,
+        "year": 2016,
+        "path": "cover/2016/亚人 -冲突-"
+    },
+    "_8127": {
+        "id": "8127",
+        "title_cn": "女神异闻录3 剧场版 第四章 重生之冬",
+        "title_jp": "PERSONA3 THE MOVIE #4 Winter of Rebirth",
+        "tips": "1话 /  2016年1月23日 / 「ペルソナ3」（アトラス）",
+        "stars": 7.2,
+        "people": 341,
+        "year": 2016,
+        "path": "cover/2016/女神异闻录3 剧场版 第四章 重生之冬"
+    },
+    "_8198": {
+        "id": "8198",
+        "title_cn": "水果宝贝之水果总动员",
+        "title_jp": "機動戦士ガンダム サンダーボルト DECEMBER SKY",
+        "tips": "1话 /  2016年6月1日 / 杨劲松 / 黄嘉韵 / 傅燕 / 陈石 / 董龙",
+        "stars": -1,
+        "people": 313,
+        "year": 2016,
+        "path": "cover/2016/水果宝贝之水果总动员"
+    },
+    "_8197": {
+        "id": "8197",
+        "title_cn": "机动战士高达 雷霆宙域 DECEMBER SKY",
+        "title_jp": "機動戦士ガンダム サンダーボルト DECEMBER SKY",
+        "tips": "1话 /  2016年6月25日",
+        "stars": 7.4,
+        "people": 313,
+        "year": 2016,
+        "path": "cover/2016/机动战士高达 雷霆宙域 DECEMBER SKY"
+    },
+    "_8169": {
+        "id": "8169",
+        "title_cn": "选择破坏者WIXOSS剧场版",
+        "title_jp": "劇場版 selector destructed WIXOSS",
+        "tips": "1话 /  2016年2月13日 / 佐藤卓哉 / LRIG / 坂井久太",
+        "stars": 6.8,
+        "people": 302,
+        "year": 2016,
+        "path": "cover/2016/选择破坏者WIXOSS剧场版"
+    },
+    "_8164": {
+        "id": "8164",
+        "title_cn": "亚人 -冲戟-",
+        "title_jp": "亜人 -衝戟-",
+        "tips": "1话 /  2016年9月23日",
+        "stars": 7.0,
+        "people": 277,
+        "year": 2016,
+        "path": "cover/2016/亚人 -冲戟-"
+    },
+    "_8134": {
+        "id": "8134",
+        "title_cn": "爱宠大机密",
+        "title_jp": "The Secret Life of Pets",
+        "tips": "1话 /  2016-07-08 / Chris Renaud / Yarrow Cheney",
+        "stars": 6.5,
+        "people": 277,
+        "year": 2016,
+        "path": "cover/2016/爱宠大机密"
+    },
+    "_8108": {
+        "id": "8108",
+        "title_cn": "海底总动员2",
+        "title_jp": "Finding Dory",
+        "tips": "1话 /  2016年6月17日 / Andrew Stanton",
+        "stars": 6.5,
+        "people": 266,
+        "year": 2016,
+        "path": "cover/2016/海底总动员2"
+    },
+    "_8094": {
+        "id": "8094",
+        "title_cn": "海底总动员2",
+        "title_jp": "Finding Dory",
+        "tips": "1话 /  2016年6月17日 / Andrew Stanton",
+        "stars": 6.5,
+        "people": 266,
+        "year": 2016,
+        "path": "cover/2016/海底总动员2"
+    },
+    "_8151": {
+        "id": "8151",
+        "title_cn": "蜡笔小新 爆睡！梦世界大作战",
+        "title_jp": "クレヨンしんちゃん 爆睡！ユメミーワールド大突撃",
+        "tips": "1话 /  2016年4月16日 / 高橋渉 / 臼井儀人",
+        "stars": 6.8,
+        "people": 238,
+        "year": 2016,
+        "path": "cover/2016/蜡笔小新 爆睡！梦世界大作战"
+    },
+    "_8122": {
+        "id": "8122",
+        "title_cn": "小怪物茉莉",
+        "title_jp": "Molly Monster",
+        "tips": "1话 /  2016年9月9日 / Matthias Bruhn、Michael Ekbladh",
+        "stars": -1,
+        "people": 235,
+        "year": 2016,
+        "path": "cover/2016/小怪物茉莉"
+    },
+    "_8121": {
+        "id": "8121",
+        "title_cn": "海洋奇缘",
+        "title_jp": "Moana",
+        "tips": "1话 /  2016-11-23 / Ron Clements / John Musker",
+        "stars": 7.0,
+        "people": 235,
+        "year": 2016,
+        "path": "cover/2016/海洋奇缘"
+    },
+    "_8159": {
+        "id": "8159",
+        "title_cn": "Pokémon the movie XY&Z 波尔凯尼恩与机巧的玛机雅娜",
+        "title_jp": "ポケモン・ザ・ムービーXY＆Z ボルケニオンと機巧のマギアナ",
+        "tips": "1话 /  2016年7月16日",
+        "stars": 6.6,
+        "people": 218,
+        "year": 2016,
+        "path": "cover/2016/Pokémon the movie XY&Z 波尔凯尼恩与机巧的玛机雅娜"
+    },
+    "_8186": {
+        "id": "8186",
+        "title_cn": "侦探歌剧 少女福尔摩斯 ～逆袭的少女福尔摩斯～",
+        "title_jp": "探偵オペラ ミルキィホームズ ～逆襲のミルキィホームズ～",
+        "tips": "1话 /  2016年2月27日 / 桜井弘明",
+        "stars": 7.3,
+        "people": 210,
+        "year": 2016,
+        "path": "cover/2016/侦探歌剧 少女福尔摩斯 ～逆袭的少女福尔摩斯～"
+    },
+    "_8161": {
+        "id": "8161",
+        "title_cn": "Moom",
+        "title_jp": "ムーム",
+        "tips": "1话 /  2016年3月5日",
+        "stars": -1,
+        "people": 171,
+        "year": 2016,
+        "path": "cover/2016/Moom"
+    },
+    "_8160": {
+        "id": "8160",
+        "title_cn": "POP IN Q",
+        "title_jp": "ポッピンQ",
+        "tips": "1话 /  2016年12月23日",
+        "stars": 5.8,
+        "people": 171,
+        "year": 2016,
+        "path": "cover/2016/POP IN Q"
+    },
+    "_8133": {
+        "id": "8133",
+        "title_cn": "愤怒的小鸟",
+        "title_jp": "THE ANGRY BIRDS MOVIE",
+        "tips": "1话 /  2016年5月13日 / Clay Kaytis / Fergal Reilly",
+        "stars": 6.3,
+        "people": 170,
+        "year": 2016,
+        "path": "cover/2016/愤怒的小鸟"
+    },
+    "_8155": {
+        "id": "8155",
+        "title_cn": "锁链战记～赫克瑟塔斯之光～ 第1章",
+        "title_jp": "チェインクロニクル ～ヘクセイタスの閃～ 第1章",
+        "tips": "1话 /  2016-12-03",
+        "stars": 6.1,
+        "people": 167,
+        "year": 2016,
+        "path": "cover/2016/锁链战记～赫克瑟塔斯之光～ 第1章"
+    },
+    "_8193": {
+        "id": "8193",
+        "title_cn": "魔法使光之美少女 奇迹的变身！Cure Mofurun！",
+        "title_jp": "映画 魔法つかいプリキュア! 奇跡の変身！キュアモフルン！",
+        "tips": "1话 /  2016年10月29日",
+        "stars": 7.5,
+        "people": 154,
+        "year": 2016,
+        "path": "cover/2016/魔法使光之美少女 奇迹的变身！Cure Mofurun！"
+    },
+    "_8170": {
+        "id": "8170",
+        "title_cn": "剧场版 银河机攻队Majestic Prince 觉醒的基因",
+        "title_jp": "劇場版 マジェスティックプリンス 覚醒の遺伝子",
+        "tips": "1话 /  2016年11月4日 / 元永慶太郎 / 創通／フィールズ / 平井久司",
+        "stars": 7.2,
+        "people": 153,
+        "year": 2016,
+        "path": "cover/2016/剧场版 银河机攻队Majestic Prince 觉醒的基因"
+    },
+    "_8110": {
+        "id": "8110",
+        "title_cn": "冰川时代5：星际碰撞",
+        "title_jp": "Ice Age: Collision Course",
+        "tips": "1话 /  2016年7月22日 / Mike Thurmeier / Galen T. Chu",
+        "stars": 6.1,
+        "people": 153,
+        "year": 2016,
+        "path": "cover/2016/冰川时代5：星际碰撞"
+    },
+    "_8096": {
+        "id": "8096",
+        "title_cn": "冰川时代5：星际碰撞",
+        "title_jp": "Ice Age: Collision Course",
+        "tips": "1话 /  2016年7月22日 / Mike Thurmeier / Galen T. Chu",
+        "stars": 6.1,
+        "people": 153,
+        "year": 2016,
+        "path": "cover/2016/冰川时代5：星际碰撞"
+    },
+    "_8189": {
+        "id": "8189",
+        "title_cn": "头文字D Legend3 -梦现-",
+        "title_jp": "新劇場版 頭文字D Legend3 -夢現-",
+        "tips": "1话 /  2016年2月6日",
+        "stars": 6.6,
+        "people": 151,
+        "year": 2016,
+        "path": "cover/2016/头文字D Legend3 -梦现-"
+    },
+    "_8200": {
+        "id": "8200",
+        "title_cn": "牙狼〈GARO〉-DIVINE FLAME-",
+        "title_jp": "热血雷锋侠之激情营救",
+        "tips": "1话 /  2016年5月21日",
+        "stars": 7.1,
+        "people": 149,
+        "year": 2016,
+        "path": "cover/2016/牙狼〈GARO〉-DIVINE FLAME-"
+    },
+    "_8118": {
+        "id": "8118",
+        "title_cn": "红海龟",
+        "title_jp": "La Tortue Rouge",
+        "tips": "1话 /  2016年6月29日（法国）、2016年9月17日（日本） / Michaël Dudok de Wit / Michaël Dudok de Wit",
+        "stars": 6.8,
+        "people": 134,
+        "year": 2016,
+        "path": "cover/2016/红海龟"
+    },
+    "_8131": {
+        "id": "8131",
+        "title_cn": "欢乐好声音",
+        "title_jp": "Sing",
+        "tips": "1话 /  2016-12-21 / Garth Jennings",
+        "stars": 7.1,
+        "people": 127,
+        "year": 2016,
+        "path": "cover/2016/欢乐好声音"
+    },
+    "_8115": {
+        "id": "8115",
+        "title_cn": "魔弦传说",
+        "title_jp": "Kubo and the Two Strings",
+        "tips": "1话 /  2016-08-19 / Travis Knight",
+        "stars": 6.7,
+        "people": 113,
+        "year": 2016,
+        "path": "cover/2016/魔弦传说"
+    },
+    "_8101": {
+        "id": "8101",
+        "title_cn": "魔弦传说",
+        "title_jp": "Kubo and the Two Strings",
+        "tips": "1话 /  2016-08-19 / Travis Knight",
+        "stars": 6.7,
+        "people": 113,
+        "year": 2016,
+        "path": "cover/2016/魔弦传说"
+    },
+    "_8130": {
+        "id": "8130",
+        "title_cn": "香肠派对",
+        "title_jp": "Sausage Party",
+        "tips": "1话 /  2016年8月12日 / Conrad Vernon / Greg Tiernan",
+        "stars": 6.1,
+        "people": 111,
+        "year": 2016,
+        "path": "cover/2016/香肠派对"
+    },
+    "_8191": {
+        "id": "8191",
+        "title_cn": "光之美少女All Stars 大家一起歌唱♪奇迹的魔法！",
+        "title_jp": "映画 プリキュアオールスターズ みんなで歌う♪奇跡の魔法!",
+        "tips": "1话 /  2016年3月19日",
+        "stars": 6.7,
+        "people": 110,
+        "year": 2016,
+        "path": "cover/2016/光之美少女All Stars 大家一起歌唱♪奇迹的魔法！"
+    },
+    "_8126": {
+        "id": "8126",
+        "title_cn": "橘色奇迹 -未来-",
+        "title_jp": "orange -未来-",
+        "tips": "1话 /  2016年11月18日 / 高野苺 (双葉社「月刊アクション」連載)",
+        "stars": 6.3,
+        "people": 103,
+        "year": 2016,
+        "path": "cover/2016/橘色奇迹 -未来-"
+    },
+    "_8201": {
+        "id": "8201",
+        "title_cn": "甲铁城的卡巴内利 总集篇 前篇 聚光",
+        "title_jp": "甲鉄城のカバネリ 総集編 前編 集う光",
+        "tips": "1话 /  2016年12月31日",
+        "stars": 5.9,
+        "people": 98,
+        "year": 2016,
+        "path": "cover/2016/甲铁城的卡巴内利 总集篇 前篇 聚光"
+    },
+    "_8210": {
+        "id": "8210",
+        "title_cn": "鷹の爪8 ～吉田くんのＸファイル～",
+        "title_jp": "風の又三郎",
+        "tips": "1话 /  2016-08-27",
+        "stars": -1,
+        "people": 93,
+        "year": 2016,
+        "path": "cover/2016/鷹の爪8 ～吉田くんのＸファイル～"
+    },
+    "_8209": {
+        "id": "8209",
+        "title_cn": "马小乐之玩具也疯狂",
+        "title_jp": "風の又三郎",
+        "tips": "1话 /  2016年4月30日 / 黄军",
+        "stars": -1,
+        "people": 93,
+        "year": 2016,
+        "path": "cover/2016/马小乐之玩具也疯狂"
+    },
+    "_8208": {
+        "id": "8208",
+        "title_cn": "风之又三郎",
+        "title_jp": "風の又三郎",
+        "tips": "1话 /  2016-03-19",
+        "stars": 6.3,
+        "people": 93,
+        "year": 2016,
+        "path": "cover/2016/风之又三郎"
+    },
+    "_8148": {
+        "id": "8148",
+        "title_cn": "阳炎眩乱-in a day's-",
+        "title_jp": "カゲロウデイズ-in a day's-",
+        "tips": "1话 /  2016年11月4日 / しづ / じん / 土屋圭",
+        "stars": 3.4,
+        "people": 83,
+        "year": 2016,
+        "path": "cover/2016/阳炎眩乱-in a day's-"
+    },
+    "_8203": {
+        "id": "8203",
+        "title_cn": "糖果世界大冒险",
+        "title_jp": "甲鉄城のカバネリ 総集編 前編 集う光",
+        "tips": "1话 /  2016年5月27日 / (小)徐克",
+        "stars": -1,
+        "people": 82,
+        "year": 2016,
+        "path": "cover/2016/糖果世界大冒险"
+    },
+    "_8202": {
+        "id": "8202",
+        "title_cn": "精灵王座",
+        "title_jp": "甲鉄城のカバネリ 総集編 前編 集う光",
+        "tips": "1话 /  2016-08-19",
+        "stars": 6.7,
+        "people": 82,
+        "year": 2016,
+        "path": "cover/2016/精灵王座"
+    },
+    "_8104": {
+        "id": "8104",
+        "title_cn": "蝙蝠侠：致命玩笑",
+        "title_jp": "Batman:The Killing Joke",
+        "tips": "1话 /  2016-07-25 / Sam Liu",
+        "stars": 5.5,
+        "people": 77,
+        "year": 2016,
+        "path": "cover/2016/蝙蝠侠：致命玩笑"
+    },
+    "_8090": {
+        "id": "8090",
+        "title_cn": "蝙蝠侠：致命玩笑",
+        "title_jp": "Batman:The Killing Joke",
+        "tips": "1话 /  2016-07-25 / Sam Liu",
+        "stars": 5.5,
+        "people": 77,
+        "year": 2016,
+        "path": "cover/2016/蝙蝠侠：致命玩笑"
+    },
+    "_8180": {
+        "id": "8180",
+        "title_cn": "小门神",
+        "title_jp": "好きになるその瞬間を。～告白実行委員会～",
+        "tips": "1话 /  2016年1月1日 / 王微",
+        "stars": 5.9,
+        "people": 68,
+        "year": 2016,
+        "path": "cover/2016/小门神"
+    },
+    "_8173": {
+        "id": "8173",
+        "title_cn": "剧场版 偶像活动Stars",
+        "title_jp": "劇場版アイカツスターズ!",
+        "tips": "1话 /  2016年8月13日",
+        "stars": 7.0,
+        "people": 64,
+        "year": 2016,
+        "path": "cover/2016/剧场版 偶像活动Stars"
+    },
+    "_8212": {
+        "id": "8212",
+        "title_cn": "黑子的篮球 Winter Cup总集篇 ～影与光～",
+        "title_jp": "黒子のバスケ ウインターカップ総集編 ～影と光～",
+        "tips": "1话 /  2016年9月3日 / 藤巻忠俊",
+        "stars": 6.0,
+        "people": 63,
+        "year": 2016,
+        "path": "cover/2016/黑子的篮球 Winter Cup总集篇 ～影与光～"
+    },
+    "_8213": {
+        "id": "8213",
+        "title_cn": "黑子的篮球 Winter Cup总集篇 ～大门的另一边～",
+        "title_jp": "黒子のバスケ ウインターカップ総集編 ～扉の向こう～",
+        "tips": "1话 /  2016年12月3日 / 藤巻忠俊",
+        "stars": 5.8,
+        "people": 62,
+        "year": 2016,
+        "path": "cover/2016/黑子的篮球 Winter Cup总集篇 ～大门的另一边～"
+    },
+    "_8113": {
+        "id": "8113",
+        "title_cn": "棱镜少男 KING OF PRISM by PrettyRhythm",
+        "title_jp": "KING OF PRISM by PrettyRhythm",
+        "tips": "1话 /  2016年1月9日 / 菱田正和 / タカラトミーアーツ／シンソフィア",
+        "stars": 6.2,
+        "people": 62,
+        "year": 2016,
+        "path": "cover/2016/棱镜少男 KING OF PRISM by PrettyRhythm"
+    },
+    "_8099": {
+        "id": "8099",
+        "title_cn": "棱镜少男 KING OF PRISM by PrettyRhythm",
+        "title_jp": "KING OF PRISM by PrettyRhythm",
+        "tips": "1话 /  2016年1月9日 / 菱田正和 / タカラトミーアーツ／シンソフィア",
+        "stars": 6.2,
+        "people": 62,
+        "year": 2016,
+        "path": "cover/2016/棱镜少男 KING OF PRISM by PrettyRhythm"
+    },
+    "_8214": {
+        "id": "8214",
+        "title_cn": "黑子的篮球 Winter Cup总集篇 ～朝着泪水的前方～",
+        "title_jp": "黒子のバスケ ウインターカップ総集編 ～淚の先へ～",
+        "tips": "1话 /  2016年10月8日 / 藤巻忠俊",
+        "stars": 5.8,
+        "people": 59,
+        "year": 2016,
+        "path": "cover/2016/黑子的篮球 Winter Cup总集篇 ～朝着泪水的前方～"
+    },
+    "_8149": {
+        "id": "8149",
+        "title_cn": "色彩缤纷忍者画卷",
+        "title_jp": "カラフル忍者いろまき",
+        "tips": "1话 /  2016年3月19日 / 小林賢太郎 / 海島千本",
+        "stars": 5.4,
+        "people": 56,
+        "year": 2016,
+        "path": "cover/2016/色彩缤纷忍者画卷"
+    },
+    "_8137": {
+        "id": "8137",
+        "title_cn": "乌托邦",
+        "title_jp": "UTOPA",
+        "tips": "1话 /  2016-03-19 / 田中孝弘",
+        "stars": 4.6,
+        "people": 56,
+        "year": 2016,
+        "path": "cover/2016/乌托邦"
+    },
+    "_8146": {
+        "id": "8146",
+        "title_cn": "偶像活动 ~被盯上的魔法偶活卡~",
+        "title_jp": "アイカツ!～ねらわれた魔法のアイカツ!カ―ド～",
+        "tips": "1话 /  2016年8月13日 / 木村隆一 / BN Pictures / やぐちひろこ",
+        "stars": 7.0,
+        "people": 49,
+        "year": 2016,
+        "path": "cover/2016/偶像活动 ~被盯上的魔法偶活卡~"
+    },
+    "_8140": {
+        "id": "8140",
+        "title_cn": "好孩子的历史动画：大大的萝卜",
+        "title_jp": "おおきなカブ（株）",
+        "tips": "1话 /  2016年11月23日",
+        "stars": 6.5,
+        "people": 48,
+        "year": 2016,
+        "path": "cover/2016/好孩子的历史动画：大大的萝卜"
+    },
+    "_8163": {
+        "id": "8163",
+        "title_cn": "最终流放-银翼的飞梦 Over the wishes",
+        "title_jp": "ラストエグザイル -銀翼のファム- Over the Wishes",
+        "tips": "1话 /  2016年2月6日 / 高橋幸雄",
+        "stars": 6.3,
+        "people": 46,
+        "year": 2016,
+        "path": "cover/2016/最终流放-银翼的飞梦 Over the wishes"
+    },
+    "_8103": {
+        "id": "8103",
+        "title_cn": "蝙蝠侠：血脉恩仇",
+        "title_jp": "Batman: Bad Blood",
+        "tips": "1话 /  2016-01-20",
+        "stars": 6.0,
+        "people": 46,
+        "year": 2016,
+        "path": "cover/2016/蝙蝠侠：血脉恩仇"
+    },
+    "_8089": {
+        "id": "8089",
+        "title_cn": "蝙蝠侠：血脉恩仇",
+        "title_jp": "Batman: Bad Blood",
+        "tips": "1话 /  2016-01-20",
+        "stars": 6.0,
+        "people": 46,
+        "year": 2016,
+        "path": "cover/2016/蝙蝠侠：血脉恩仇"
+    },
+    "_8154": {
+        "id": "8154",
+        "title_cn": "ZEGAPAIN ADP",
+        "title_jp": "ゼーガペイン ADP",
+        "tips": "1话 /  2016年10月15日 / 下田正美 / 矢立肇・伊東岳彦 / 山下明彦、田頭真理恵",
+        "stars": 6.4,
+        "people": 44,
+        "year": 2016,
+        "path": "cover/2016/ZEGAPAIN ADP"
+    },
+    "_8215": {
+        "id": "8215",
+        "title_cn": "首尔站",
+        "title_jp": "서울역",
+        "tips": "1话 /  2016年8月18日",
+        "stars": 5.0,
+        "people": 43,
+        "year": 2016,
+        "path": "cover/2016/首尔站"
+    },
+    "_8183": {
+        "id": "8183",
+        "title_cn": "悟空圣诞奇遇记",
+        "title_jp": "弱虫ペダル SPARE BIKE",
+        "tips": "1话 /  2016年12月24日 / 殷玉麒",
+        "stars": -1,
+        "people": 38,
+        "year": 2016,
+        "path": "cover/2016/悟空圣诞奇遇记"
+    },
+    "_8182": {
+        "id": "8182",
+        "title_cn": "飙速宅男 SPARE BIKE",
+        "title_jp": "弱虫ペダル SPARE BIKE",
+        "tips": "1话 /  2016年9月9日",
+        "stars": 6.3,
+        "people": 38,
+        "year": 2016,
+        "path": "cover/2016/飙速宅男 SPARE BIKE"
+    },
+    "_8112": {
+        "id": "8112",
+        "title_cn": "正义联盟大战少年泰坦",
+        "title_jp": "Justice League vs. Teen Titans",
+        "tips": "1话 /  2016-03-29 / Sam Liu",
+        "stars": 5.9,
+        "people": 38,
+        "year": 2016,
+        "path": "cover/2016/正义联盟大战少年泰坦"
+    },
+    "_8098": {
+        "id": "8098",
+        "title_cn": "正义联盟大战少年泰坦",
+        "title_jp": "Justice League vs. Teen Titans",
+        "tips": "1话 /  2016-03-29 / Sam Liu",
+        "stars": 5.9,
+        "people": 38,
+        "year": 2016,
+        "path": "cover/2016/正义联盟大战少年泰坦"
+    },
+    "_8124": {
+        "id": "8124",
+        "title_cn": "死宅之地",
+        "title_jp": "Nerdland",
+        "tips": "1话 /  2016年 / Chris Prynoski",
+        "stars": -1,
+        "people": 37,
+        "year": 2016,
+        "path": "cover/2016/死宅之地"
+    },
+    "_8123": {
+        "id": "8123",
+        "title_cn": "小马国女孩4：无尽之森传奇",
+        "title_jp": "My Little Pony: Equestria Girls – Legend of Everfree",
+        "tips": "1话 /  2016-10-01",
+        "stars": 6.2,
+        "people": 37,
+        "year": 2016,
+        "path": "cover/2016/小马国女孩4：无尽之森传奇"
+    },
+    "_8194": {
+        "id": "8194",
+        "title_cn": "美妙天堂剧场版 大～家的憧憬♪出发吧☆美妙巴黎",
+        "title_jp": "映画プリパラ み～んなのあこがれ♪レッツゴー☆プリパリ",
+        "tips": "1话 /  2016年3月12日 / タカラトミーアーツ/シンソフィア",
+        "stars": 7.1,
+        "people": 33,
+        "year": 2016,
+        "path": "cover/2016/美妙天堂剧场版 大～家的憧憬♪出发吧☆美妙巴黎"
+    },
+    "_8199": {
+        "id": "8199",
+        "title_cn": "熊出没之熊心归来",
+        "title_jp": "热血雷锋侠之激情营救",
+        "tips": "1话 /  2016年1月16日 / 丁亮 / 林永长 / 林汇达 / 叶天龙 / 陈为强 / 王强 / 张秉君",
+        "stars": 5.7,
+        "people": 32,
+        "year": 2016,
+        "path": "cover/2016/熊出没之熊心归来"
+    },
+    "_8141": {
+        "id": "8141",
+        "title_cn": "无上感激",
+        "title_jp": "かっちけねぇ!",
+        "tips": "1话 /  2016年3月19日 / 吉村文宏",
+        "stars": 5.2,
+        "people": 30,
+        "year": 2016,
+        "path": "cover/2016/无上感激"
+    },
+    "_8204": {
+        "id": "8204",
+        "title_cn": "约定之器 有田的初恋",
+        "title_jp": "約束の器 有田の初恋",
+        "tips": "1话 /  2016年3月12日",
+        "stars": 5.4,
+        "people": 29,
+        "year": 2016,
+        "path": "cover/2016/约定之器 有田的初恋"
+    },
+    "_8178": {
+        "id": "8178",
+        "title_cn": "奇魂侍",
+        "title_jp": "奇魂侍",
+        "tips": "1话 /  2016年3月28日 / 瀬名快伸 / 瀬名快伸",
+        "stars": 5.0,
+        "people": 28,
+        "year": 2016,
+        "path": "cover/2016/奇魂侍"
+    },
+    "_8107": {
+        "id": "8107",
+        "title_cn": "埃塞尔与欧内斯特",
+        "title_jp": "Ethel & Ernest",
+        "tips": "1话 /  2016年10月28日(英国) / Roger Mainwood",
+        "stars": 7.5,
+        "people": 28,
+        "year": 2016,
+        "path": "cover/2016/埃塞尔与欧内斯特"
+    },
+    "_8093": {
+        "id": "8093",
+        "title_cn": "埃塞尔与欧内斯特",
+        "title_jp": "Ethel & Ernest",
+        "tips": "1话 /  2016年10月28日(英国) / Roger Mainwood",
+        "stars": 7.5,
+        "people": 28,
+        "year": 2016,
+        "path": "cover/2016/埃塞尔与欧内斯特"
+    },
+    "_8168": {
+        "id": "8168",
+        "title_cn": "冬之誓约 夏之祭典 武雄的大楠",
+        "title_jp": "冬の誓い 夏の祭り 武雄の大楠",
+        "tips": "1话 /  2016年3月12日",
+        "stars": 5.4,
+        "people": 27,
+        "year": 2016,
+        "path": "cover/2016/冬之誓约 夏之祭典 武雄的大楠"
+    },
+    "_8190": {
+        "id": "8190",
+        "title_cn": "明治东京恋伽～花镜的幻想曲～",
+        "title_jp": "明治東亰恋伽 〜花鏡の幻想曲〜",
+        "tips": "1话 /  2016年8月11日",
+        "stars": 6.0,
+        "people": 25,
+        "year": 2016,
+        "path": "cover/2016/明治东京恋伽～花镜的幻想曲～"
+    },
+    "_8120": {
+        "id": "8120",
+        "title_cn": "西葫芦的生活",
+        "title_jp": "Ma vie de Courgette",
+        "tips": "1话 /  2016-05-15(戛纳电影节) / 2016-09-22(瑞士) / 2016-10-19(法国) / Claude Barras",
+        "stars": 7.2,
+        "people": 21,
+        "year": 2016,
+        "path": "cover/2016/西葫芦的生活"
+    },
+    "_8105": {
+        "id": "8105",
+        "title_cn": "人造人009 CALL OF JUSTICE 第1章",
+        "title_jp": "CYBORG009 CALL OF JUSTICE 第1章",
+        "tips": "1话 /  2016-11-25",
+        "stars": 6.3,
+        "people": 20,
+        "year": 2016,
+        "path": "cover/2016/人造人009 CALL OF JUSTICE 第1章"
+    },
+    "_8102": {
+        "id": "8102",
+        "title_cn": "了不起的菲丽西",
+        "title_jp": "Ballerina",
+        "tips": "1话 /  2016年12月14日 / Eric Summer / Éric Warin",
+        "stars": 5.6,
+        "people": 20,
+        "year": 2016,
+        "path": "cover/2016/了不起的菲丽西"
+    },
+    "_8091": {
+        "id": "8091",
+        "title_cn": "人造人009 CALL OF JUSTICE 第1章",
+        "title_jp": "CYBORG009 CALL OF JUSTICE 第1章",
+        "tips": "1话 /  2016-11-25",
+        "stars": 6.3,
+        "people": 20,
+        "year": 2016,
+        "path": "cover/2016/人造人009 CALL OF JUSTICE 第1章"
+    },
+    "_8088": {
+        "id": "8088",
+        "title_cn": "了不起的菲丽西",
+        "title_jp": "Ballerina",
+        "tips": "1话 /  2016年12月14日 / Eric Summer / Éric Warin",
+        "stars": 5.6,
+        "people": 20,
+        "year": 2016,
+        "path": "cover/2016/了不起的菲丽西"
+    },
+    "_8188": {
+        "id": "8188",
+        "title_cn": "斗龙战士之星印罗盘",
+        "title_jp": "探偵オペラ ミルキィホームズ ～逆襲のミルキィホームズ～",
+        "tips": "1话 /  2016年06月01日 / 黎东泰",
+        "stars": -1,
+        "people": 19,
+        "year": 2016,
+        "path": "cover/2016/斗龙战士之星印罗盘"
+    },
+    "_8187": {
+        "id": "8187",
+        "title_cn": "摇滚藏獒",
+        "title_jp": "探偵オペラ ミルキィホームズ ～逆襲のミルキィホームズ～",
+        "tips": "1话 /  2016-07-08 / Ash Brannon",
+        "stars": 6.2,
+        "people": 19,
+        "year": 2016,
+        "path": "cover/2016/摇滚藏獒"
+    },
+    "_8136": {
+        "id": "8136",
+        "title_cn": "头消失了",
+        "title_jp": "Une tête disparaît",
+        "tips": "1话 /  2016年 / Franck Dion",
+        "stars": -1,
+        "people": 19,
+        "year": 2016,
+        "path": "cover/2016/头消失了"
+    },
+    "_8135": {
+        "id": "8135",
+        "title_cn": "魔发精灵",
+        "title_jp": "Trolls",
+        "tips": "1话 /  2016年10月28日 / Walt Dohrn, Mike Mitchell",
+        "stars": 6.0,
+        "people": 19,
+        "year": 2016,
+        "path": "cover/2016/魔发精灵"
+    },
+    "_8185": {
+        "id": "8185",
+        "title_cn": "我的师父姜子牙",
+        "title_jp": "我叫MT之山口山战记",
+        "tips": "1话 /  2016年 / 高薇华、李炜",
+        "stars": -1,
+        "people": 16,
+        "year": 2016,
+        "path": "cover/2016/我的师父姜子牙"
+    },
+    "_8184": {
+        "id": "8184",
+        "title_cn": "我叫MT之山口山战记",
+        "title_jp": "我叫MT之山口山战记",
+        "tips": "1话 /  2016-06-17 / 周彬",
+        "stars": 5.6,
+        "people": 16,
+        "year": 2016,
+        "path": "cover/2016/我叫MT之山口山战记"
+    },
+    "_8132": {
+        "id": "8132",
+        "title_cn": "逗鸟外传",
+        "title_jp": "Storks",
+        "tips": "1话 /  2016年9月23日 / Nicholas Stoller / Doug Sweetland",
+        "stars": 6.2,
+        "people": 15,
+        "year": 2016,
+        "path": "cover/2016/逗鸟外传"
+    },
+    "_8117": {
+        "id": "8117",
+        "title_cn": "无手的少女",
+        "title_jp": "La jeune fille sans mains",
+        "tips": "1话 /  2016-05-12(戛纳电影节) / 2016-12-14(法国) / 塞巴斯蒂安·劳德巴克",
+        "stars": 6.9,
+        "people": 15,
+        "year": 2016,
+        "path": "cover/2016/无手的少女"
+    },
+    "_8106": {
+        "id": "8106",
+        "title_cn": "DOFUS首章：朱莉丝",
+        "title_jp": "Dofus, livre 1 : Julith",
+        "tips": "1话 /  2016-02-03 / Jean-Jacques Denis / Anthony Roux",
+        "stars": 6.6,
+        "people": 15,
+        "year": 2016,
+        "path": "cover/2016/DOFUS首章：朱莉丝"
+    },
+    "_8092": {
+        "id": "8092",
+        "title_cn": "DOFUS首章：朱莉丝",
+        "title_jp": "Dofus, livre 1 : Julith",
+        "tips": "1话 /  2016-02-03 / Jean-Jacques Denis / Anthony Roux",
+        "stars": 6.6,
+        "people": 15,
+        "year": 2016,
+        "path": "cover/2016/DOFUS首章：朱莉丝"
+    },
+    "_8211": {
+        "id": "8211",
+        "title_cn": "麦兜·饭宝奇兵",
+        "title_jp": "麥兜·飯寶奇兵",
+        "tips": "1话 /  2016年9月15日 / 谢立文 / 麦家碧",
+        "stars": 5.7,
+        "people": 14,
+        "year": 2016,
+        "path": "cover/2016/麦兜·饭宝奇兵"
+    },
+    "_8162": {
+        "id": "8162",
+        "title_cn": "怪物弹珠 THE MOVIE 前往起始之地",
+        "title_jp": "モンスターストライク THE MOVIE はじまりの場所へ",
+        "tips": "1话 /  2016-12-10",
+        "stars": 7.2,
+        "people": 13,
+        "year": 2016,
+        "path": "cover/2016/怪物弹珠 THE MOVIE 前往起始之地"
+    },
+    "_8119": {
+        "id": "8119",
+        "title_cn": "乐高DC超级英雄:正义联盟-宇宙冲突",
+        "title_jp": "Lego DC Comics Super Heroes: Justice League - Cosmic Clash",
+        "tips": "1话 /  2016-03-01",
+        "stars": 6.9,
+        "people": 12,
+        "year": 2016,
+        "path": "cover/2016/乐高DC超级英雄 正义联盟-宇宙冲突"
+    },
+    "_8181": {
+        "id": "8181",
+        "title_cn": "年兽大作战",
+        "title_jp": "好きになるその瞬間を。～告白実行委員会～",
+        "tips": "1话 /  2016-02-08 / 张扬",
+        "stars": 5.1,
+        "people": 11,
+        "year": 2016,
+        "path": "cover/2016/年兽大作战"
+    },
+    "_8138": {
+        "id": "8138",
+        "title_cn": "盲眼女孩",
+        "title_jp": "Vaysha, l'aveugle",
+        "tips": "1话 /  2016年2月15日 / Theodore Ushev",
+        "stars": 6.5,
+        "people": 11,
+        "year": 2016,
+        "path": "cover/2016/盲眼女孩"
+    },
+    "_8153": {
+        "id": "8153",
+        "title_cn": "辛巴达 魔法之灯和移动岛",
+        "title_jp": "シンドバッド 魔法のランプと動く島",
+        "tips": "1话 /  2016年1月16日",
+        "stars": 5.3,
+        "people": 10,
+        "year": 2016,
+        "path": "cover/2016/辛巴达 魔法之灯和移动岛"
+    },
+    "_8111": {
+        "id": "8111",
+        "title_cn": "内部运作",
+        "title_jp": "Inner Workings",
+        "tips": "1话 /  2016年11月23日 / Leonardo Matsuda",
+        "stars": 6.2,
+        "people": 10,
+        "year": 2016,
+        "path": "cover/2016/内部运作"
+    },
+    "_8097": {
+        "id": "8097",
+        "title_cn": "内部运作",
+        "title_jp": "Inner Workings",
+        "tips": "1话 /  2016年11月23日 / Leonardo Matsuda",
+        "stars": 6.2,
+        "people": 10,
+        "year": 2016,
+        "path": "cover/2016/内部运作"
+    }
+}

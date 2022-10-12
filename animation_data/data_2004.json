@@ -1,1812 +1,1622 @@
 {
-    "__662": {
+    "_1126": {
+        "id": "1126",
         "title_cn": "混沌武士",
         "title_jp": "サムライチャンプルー",
         "tips": "26话 /  2004年5月19日 / 渡辺信一郎 / Manglobe / 中澤一登",
         "stars": 8.5,
-        "people": 5853,
+        "people": 5884,
         "year": 2004,
-        "path": "cover/2004/混沌武士",
-        "id": 662
+        "path": "cover/2004/混沌武士"
     },
-    "__714": {
+    "_1167": {
+        "id": "1167",
         "title_cn": "攻壳机动队 S.A.C. 2nd GIG",
         "title_jp": "攻殻機動隊 S.A.C. 2nd GIG",
         "tips": "26话 /  2004年1月1日 / 神山健治 / 士郎正宗",
         "stars": 9.2,
-        "people": 5661,
+        "people": 5682,
         "year": 2004,
-        "path": "cover/2004/攻壳机动队 S.A.C. 2nd GIG",
-        "id": 714
+        "path": "cover/2004/攻壳机动队 S.A.C. 2nd GIG"
     },
-    "__655": {
+    "_7062": {
+        "id": "7062",
+        "title_cn": "哈尔的移动城堡",
+        "title_jp": "ハウルの動く城",
+        "tips": "1话 /  2004年11月20日 / 宮崎駿 / ダイアナ・ウィン・ジョーンズ",
+        "stars": 7.8,
+        "people": 5410,
+        "year": 2004,
+        "path": "cover/2004/哈尔的移动城堡"
+    },
+    "_7057": {
+        "id": "7057",
+        "title_cn": "攻壳机动队2 无罪",
+        "title_jp": "イノセンス",
+        "tips": "1话 /  2004年3月6日 / 押井守",
+        "stars": 8.7,
+        "people": 4549,
+        "year": 2004,
+        "path": "cover/2004/攻壳机动队2 无罪"
+    },
+    "_1120": {
+        "id": "1120",
         "title_cn": "妖精的旋律",
         "title_jp": "エルフェンリート",
         "tips": "14话 /  2004年7月25日 / 神戸守 / 岡本倫 / きしもとせいじ",
         "stars": 7.5,
-        "people": 4252,
+        "people": 4263,
         "year": 2004,
-        "path": "cover/2004/妖精的旋律",
-        "id": 655
+        "path": "cover/2004/妖精的旋律"
     },
-    "__690": {
-        "title_cn": "一万一绝对拯救",
-        "title_jp": "一万一绝对拯救",
-        "tips": "184话 /  2004-07-01",
-        "stars": -1,
-        "people": 3215,
+    "_7072": {
+        "id": "7072",
+        "title_cn": "云之彼端，约定的地方",
+        "title_jp": "雲のむこう、約束の場所",
+        "tips": "1话 /  2004年11月20日 / 田澤潮",
+        "stars": 7.3,
+        "people": 3580,
         "year": 2004,
-        "path": "cover/2004/一万一绝对拯救",
-        "id": 690
+        "path": "cover/2004/云之彼端，约定的地方"
     },
-    "__689": {
+    "_1145": {
+        "id": "1145",
         "title_cn": "蔷薇少女",
         "title_jp": "ローゼンメイデン",
         "tips": "12话 /  2004年10月7日 / 松尾衡 / PEACH-PIT (幻冬舎コミックス刊「月刊コミックバーズ」連載中) / 石井久美",
         "stars": 7.3,
-        "people": 3215,
+        "people": 3219,
         "year": 2004,
-        "path": "cover/2004/蔷薇少女",
-        "id": 689
+        "path": "cover/2004/蔷薇少女"
     },
-    "__595": {
+    "_1068": {
+        "id": "1068",
         "title_cn": "死神",
         "title_jp": "BLEACH",
         "tips": "366话 /  2004年10月5日 / 阿部記之",
         "stars": 7.0,
-        "people": 3131,
+        "people": 3148,
         "year": 2004,
-        "path": "cover/2004/死神",
-        "id": 595
+        "path": "cover/2004/死神"
     },
-    "__571": {
-        "title_cn": "死神",
-        "title_jp": "BLEACH",
-        "tips": "366话 /  2004年10月5日 / 阿部記之",
-        "stars": 7.0,
-        "people": 3131,
-        "year": 2004,
-        "path": "cover/2004/死神",
-        "id": 571
-    },
-    "__702": {
+    "_1158": {
+        "id": "1158",
         "title_cn": "妄想代理人",
         "title_jp": "妄想代理人",
         "tips": "13话 /  2004年2月2日 / 今敏 / 今敏 / 安藤雅司",
         "stars": 8.1,
-        "people": 2893,
+        "people": 2903,
         "year": 2004,
-        "path": "cover/2004/妄想代理人",
-        "id": 702
+        "path": "cover/2004/妄想代理人"
     },
-    "__665": {
+    "_1128": {
+        "id": "1128",
         "title_cn": "校园迷糊大王",
         "title_jp": "スクールランブル",
         "tips": "26话 /  2004年10月5日 / 高松信司 / 小林尽 / 渡辺はじめ",
         "stars": 8.0,
-        "people": 2858,
+        "people": 2864,
         "year": 2004,
-        "path": "cover/2004/校园迷糊大王",
-        "id": 665
+        "path": "cover/2004/校园迷糊大王"
     },
-    "__746": {
+    "_1198": {
+        "id": "1198",
         "title_cn": "魔法少女奈叶",
         "title_jp": "魔法少女リリカルなのは",
         "tips": "13话 /  2004年10月1日 / 新房昭之 / 都築真紀／ivory / 奥田泰弘",
         "stars": 7.4,
-        "people": 2515,
+        "people": 2523,
         "year": 2004,
-        "path": "cover/2004/魔法少女奈叶",
-        "id": 746
+        "path": "cover/2004/魔法少女奈叶"
     },
-    "__638": {
+    "_1104": {
+        "id": "1104",
         "title_cn": "现视研",
         "title_jp": "げんしけん",
         "tips": "12话 /  2004年10月10日 / 池端隆史 / 木尾士目",
         "stars": 7.8,
-        "people": 2448,
+        "people": 2452,
         "year": 2004,
-        "path": "cover/2004/现视研",
-        "id": 638
+        "path": "cover/2004/现视研"
     },
-    "__615": {
-        "title_cn": "怪物",
-        "title_jp": "MONSTER",
-        "tips": "74话 /  2004年4月6日",
-        "stars": 8.3,
-        "people": 2399,
-        "year": 2004,
-        "path": "cover/2004/怪物",
-        "id": 615
-    },
-    "__591": {
-        "title_cn": "怪物",
-        "title_jp": "MONSTER",
-        "tips": "74话 /  2004年4月6日",
-        "stars": 8.3,
-        "people": 2399,
-        "year": 2004,
-        "path": "cover/2004/怪物",
-        "id": 591
-    },
-    "__718": {
+    "_1171": {
+        "id": "1171",
         "title_cn": "机动战士高达SEED DESTINY",
         "title_jp": "機動戦士ガンダムSEED DESTINY",
         "tips": "50话 /  2004年10月9日 / 福田己津央 / 矢立肇、富野由悠季 / 平井久司",
         "stars": 6.3,
-        "people": 2396,
+        "people": 2408,
         "year": 2004,
-        "path": "cover/2004/机动战士高达SEED DESTINY",
-        "id": 718
+        "path": "cover/2004/机动战士高达SEED DESTINY"
     },
-    "__729": {
+    "_1086": {
+        "id": "1086",
+        "title_cn": "怪物",
+        "title_jp": "MONSTER",
+        "tips": "74话 /  2004年4月6日",
+        "stars": 8.3,
+        "people": 2408,
+        "year": 2004,
+        "path": "cover/2004/怪物"
+    },
+    "_7067": {
+        "id": "7067",
+        "title_cn": "名侦探柯南 银翼的魔术师",
+        "title_jp": "名探偵コナン 銀翼の奇術師",
+        "tips": "1话 /  2004年4月17日 / 山本泰一郎 / 青山剛昌 / 須藤昌朋",
+        "stars": 6.8,
+        "people": 2404,
+        "year": 2004,
+        "path": "cover/2004/名侦探柯南 银翼的魔术师"
+    },
+    "_1181": {
+        "id": "1181",
         "title_cn": "舞-HiME",
         "title_jp": "舞-HiME",
         "tips": "26话 /  2004年9月30日 / 小原正和 / 矢立肇 / 久行宏和",
         "stars": 7.3,
-        "people": 1565,
+        "people": 1567,
         "year": 2004,
-        "path": "cover/2004/舞-HiME",
-        "id": 729
+        "path": "cover/2004/舞-HiME"
     },
-    "__731": {
+    "_1183": {
+        "id": "1183",
         "title_cn": "苍穹之法芙娜",
         "title_jp": "蒼穹のファフナー",
         "tips": "26话 /  2004年7月4日 / XEBEC / 平井久司",
         "stars": 7.6,
-        "people": 1484,
+        "people": 1485,
         "year": 2004,
-        "path": "cover/2004/苍穹之法芙娜",
-        "id": 731
+        "path": "cover/2004/苍穹之法芙娜"
     },
-    "__724": {
+    "_1176": {
+        "id": "1176",
         "title_cn": "神无月的巫女",
         "title_jp": "神無月の巫女",
         "tips": "12话 /  2004年10月1日 / 柳沢テツヤ / 介錯 / 藤井まき",
         "stars": 7.0,
-        "people": 1401,
+        "people": 1404,
         "year": 2004,
-        "path": "cover/2004/神无月的巫女",
-        "id": 724
+        "path": "cover/2004/神无月的巫女"
     },
-    "__660": {
+    "_7042": {
+        "id": "7042",
+        "title_cn": "心灵游戏",
+        "title_jp": "Mind Game",
+        "tips": "1话 /  2004年8月7日 / ロビン西",
+        "stars": 8.1,
+        "people": 1325,
+        "year": 2004,
+        "path": "cover/2004/心灵游戏"
+    },
+    "_1124": {
+        "id": "1124",
         "title_cn": "KERORO军曹",
         "title_jp": "ケロロ軍曹",
         "tips": "358话 /  2004年4月3日",
         "stars": 7.4,
-        "people": 1124,
+        "people": 1126,
         "year": 2004,
-        "path": "cover/2004/KERORO军曹",
-        "id": 660
+        "path": "cover/2004/KERORO军曹"
     },
-    "__678": {
+    "_7059": {
+        "id": "7059",
+        "title_cn": "蒸汽男孩",
+        "title_jp": "スチームボーイ",
+        "tips": "1话 /  2004年7月17日 / 大友克洋",
+        "stars": 7.3,
+        "people": 1107,
+        "year": 2004,
+        "path": "cover/2004/蒸汽男孩"
+    },
+    "_1136": {
+        "id": "1136",
         "title_cn": "圣母在上",
         "title_jp": "マリア様がみてる",
         "tips": "13话 /  2004年1月7日 / ユキヒロマツシタ(福島宏之) / 今野緒雪 / 松島晃",
         "stars": 7.8,
-        "people": 965,
+        "people": 968,
         "year": 2004,
-        "path": "cover/2004/圣母在上",
-        "id": 678
+        "path": "cover/2004/圣母在上"
     },
-    "__738": {
+    "_1190": {
+        "id": "1190",
         "title_cn": "游戏王－怪兽之决斗GX",
         "title_jp": "遊☆戯☆王デュエルモンスターズGX",
         "tips": "180话 /  2004-10-06 / 辻初樹 / 高橋和希",
         "stars": 7.1,
-        "people": 945,
+        "people": 946,
         "year": 2004,
-        "path": "cover/2004/游戏王－怪兽之决斗GX",
-        "id": 738
+        "path": "cover/2004/游戏王－怪兽之决斗GX"
     },
-    "__703": {
+    "_1159": {
+        "id": "1159",
         "title_cn": "爱丽丝学园",
         "title_jp": "学園アリス",
         "tips": "27话 /  2004年10月30日 / 大森貴弘 / 樋口橘“学園アリス”(连载于“花とゆめ”（白泉社）) / 伊藤良明",
         "stars": 7.2,
         "people": 903,
         "year": 2004,
-        "path": "cover/2004/爱丽丝学园",
-        "id": 703
+        "path": "cover/2004/爱丽丝学园"
     },
-    "__692": {
+    "_7037": {
+        "id": "7037",
+        "title_cn": "落叶",
+        "title_jp": "DEAD LEAVES",
+        "tips": "1话 /  2004年1月16日 / 今石洋之 / 今井トゥーンズ（Imaitoonz）、Production I.G / 今石洋之",
+        "stars": 7.4,
+        "people": 883,
+        "year": 2004,
+        "path": "cover/2004/落叶"
+    },
+    "_1148": {
+        "id": "1148",
         "title_cn": "今天开始做魔王",
         "title_jp": "今日から㋮王!",
         "tips": "39话 /  2004年4月3日",
         "stars": 6.7,
         "people": 823,
         "year": 2004,
-        "path": "cover/2004/今天开始做魔王",
-        "id": 692
+        "path": "cover/2004/今天开始做魔王"
     },
-    "__743": {
+    "_7033": {
+        "id": "7033",
+        "title_cn": "苹果核战记",
+        "title_jp": "APPLESEED",
+        "tips": "1话 /  2004年4月17日 / 荒牧伸志 / 士郎正宗",
+        "stars": 7.1,
+        "people": 769,
+        "year": 2004,
+        "path": "cover/2004/苹果核战记"
+    },
+    "_1195": {
+        "id": "1195",
         "title_cn": "头文字D Fourth Stage",
         "title_jp": "頭文字D Fourth Stage",
         "tips": "24话 /  2004年4月17日 / 冨永恒雄 / しげの秀一",
         "stars": 7.5,
-        "people": 752,
+        "people": 753,
         "year": 2004,
-        "path": "cover/2004/头文字D Fourth Stage",
-        "id": 743
+        "path": "cover/2004/头文字D Fourth Stage"
     },
-    "__679": {
+    "_7064": {
+        "id": "7064",
+        "title_cn": "火影忍者剧场版 大活剧！雪姬忍法帖！！",
+        "title_jp": "劇場版 NARUTO -ナルト- 大活劇! 雪姫忍法帖だってばよ!!",
+        "tips": "1话 /  2004年8月21日 / 岡村天斎 / 岸本斉史 / 西尾鉄也",
+        "stars": 6.4,
+        "people": 729,
+        "year": 2004,
+        "path": "cover/2004/火影忍者剧场版 大活剧！雪姬忍法帖！！"
+    },
+    "_1137": {
+        "id": "1137",
         "title_cn": "圣母在上 春",
         "title_jp": "マリア様がみてる 〜春〜",
         "tips": "13话 /  2004年7月7日 / ユキヒロマツシタ(福島宏之) / 今野緒雪 / 松島晃",
         "stars": 7.8,
-        "people": 683,
+        "people": 685,
         "year": 2004,
-        "path": "cover/2004/圣母在上 春",
-        "id": 679
+        "path": "cover/2004/圣母在上 春"
     },
-    "__594": {
+    "_1067": {
+        "id": "1067",
         "title_cn": "摇滚新乐团",
         "title_jp": "BECK",
         "tips": "26话 /  2004年10月6日 / 小林治 / ハロルド作石 / 堀元宣、小林治",
         "stars": 7.8,
-        "people": 676,
+        "people": 679,
         "year": 2004,
-        "path": "cover/2004/摇滚新乐团",
-        "id": 594
+        "path": "cover/2004/摇滚新乐团"
     },
-    "__570": {
-        "title_cn": "摇滚新乐团",
-        "title_jp": "BECK",
-        "tips": "26话 /  2004年10月6日 / 小林治 / ハロルド作石 / 堀元宣、小林治",
-        "stars": 7.8,
-        "people": 676,
-        "year": 2004,
-        "path": "cover/2004/摇滚新乐团",
-        "id": 570
-    },
-    "__728": {
+    "_1180": {
+        "id": "1180",
         "title_cn": "美鸟日记",
         "title_jp": "美鳥の日々",
         "tips": "13话 /  2004年4月3日 / 井上和郎（小学館「少年サンデーコミックス」刊） / 楠本祐子",
         "stars": 7.0,
         "people": 667,
         "year": 2004,
-        "path": "cover/2004/美鸟日记",
-        "id": 728
+        "path": "cover/2004/美鸟日记"
     },
-    "__672": {
+    "_7052": {
+        "id": "7052",
+        "title_cn": "超人总动员",
+        "title_jp": "The Incredibles",
+        "tips": "1话 /  2004-11-05(美国)",
+        "stars": 6.8,
+        "people": 650,
+        "year": 2004,
+        "path": "cover/2004/超人总动员"
+    },
+    "_1132": {
+        "id": "1132",
         "title_cn": "棋魂特别篇 迈向北斗杯之路",
         "title_jp": "ヒカルの碁スペシャル 北斗杯への道",
         "tips": "1话 /  2004年1月3日 / えんどうてつや",
         "stars": 7.6,
-        "people": 649,
+        "people": 650,
         "year": 2004,
-        "path": "cover/2004/棋魂特别篇 迈向北斗杯之路",
-        "id": 672
+        "path": "cover/2004/棋魂特别篇 迈向北斗杯之路"
     },
-    "__603": {
+    "_7068": {
+        "id": "7068",
+        "title_cn": "犬夜叉 红莲之蓬莱岛",
+        "title_jp": "犬夜叉 紅蓮の蓬莱島",
+        "tips": "1话 /  2004年12月23日 / 篠原俊哉",
+        "stars": 7.1,
+        "people": 646,
+        "year": 2004,
+        "path": "cover/2004/犬夜叉 红莲之蓬莱岛"
+    },
+    "_1075": {
+        "id": "1075",
         "title_cn": "杀戮都市",
         "title_jp": "GANTZ 〜the first stage〜",
         "tips": "13话 /  2004年4月12日 / 板野一郎 / 奥浩哉 / 恩田尚之",
         "stars": 6.6,
-        "people": 629,
+        "people": 632,
         "year": 2004,
-        "path": "cover/2004/杀戮都市",
-        "id": 603
+        "path": "cover/2004/杀戮都市"
     },
-    "__579": {
-        "title_cn": "杀戮都市",
-        "title_jp": "GANTZ 〜the first stage〜",
-        "tips": "13话 /  2004年4月12日 / 板野一郎 / 奥浩哉 / 恩田尚之",
-        "stars": 6.6,
-        "people": 629,
-        "year": 2004,
-        "path": "cover/2004/杀戮都市",
-        "id": 579
-    },
-    "__707": {
+    "_1162": {
+        "id": "1162",
         "title_cn": "岩窟王",
         "title_jp": "巖窟王",
         "tips": "24话 /  2004年10月5日 / 前田真宏 / アレクサンドル・デュマ著「モンテ・クリスト伯」",
         "stars": 7.5,
-        "people": 602,
+        "people": 603,
         "year": 2004,
-        "path": "cover/2004/岩窟王",
-        "id": 707
+        "path": "cover/2004/岩窟王"
     },
-    "__717": {
+    "_1170": {
+        "id": "1170",
         "title_cn": "月咏",
         "title_jp": "月詠 -MOON PHASE-",
         "tips": "26话 /  2004年10月4日 / 有馬啓太郎 / 相澤昌弘",
         "stars": 6.8,
-        "people": 594,
+        "people": 595,
         "year": 2004,
-        "path": "cover/2004/月咏",
-        "id": 717
+        "path": "cover/2004/月咏"
     },
-    "__701": {
+    "_7066": {
+        "id": "7066",
+        "title_cn": "剧场版 精灵宝可梦超世代：裂空的访问者 代欧奇希斯",
+        "title_jp": "劇場版ポケットモンスター アドバンスジェネレーション 裂空の訪問者 デオキシス",
+        "tips": "1话 /  2004年7月17日 / 湯山邦彦 / 田尻智、増田順一、杉森建 / 毛利和昭、松原徳弘、一石小百合",
+        "stars": 6.9,
+        "people": 532,
+        "year": 2004,
+        "path": "cover/2004/剧场版 精灵宝可梦超世代：裂空的访问者 代欧奇希斯"
+    },
+    "_1157": {
+        "id": "1157",
         "title_cn": "天上天下",
         "title_jp": "天上天下",
         "tips": "24话 /  2004年4月1日 / 川瀬敏文 / 大暮維人 / 梅原隆弘",
         "stars": 6.3,
-        "people": 529,
+        "people": 531,
         "year": 2004,
-        "path": "cover/2004/天上天下",
-        "id": 701
+        "path": "cover/2004/天上天下"
     },
-    "__639": {
+    "_1105": {
+        "id": "1105",
         "title_cn": "这丑陋又美丽的世界",
         "title_jp": "この醜くも美しい世界",
         "tips": "12话 /  2004年4月1日 / 佐伯昭志 / GAINAX / 高村和宏",
         "stars": 6.2,
-        "people": 511,
+        "people": 510,
         "year": 2004,
-        "path": "cover/2004/这丑陋又美丽的世界",
-        "id": 639
+        "path": "cover/2004/这丑陋又美丽的世界"
     },
-    "__744": {
+    "_1196": {
+        "id": "1196",
         "title_cn": "风人物语",
         "title_jp": "風人物語",
         "tips": "13话 /  2004年9月11日 / 西村純二 / 荒川眞嗣",
         "stars": 7.7,
-        "people": 501,
+        "people": 503,
         "year": 2004,
-        "path": "cover/2004/风人物语",
-        "id": 744
+        "path": "cover/2004/风人物语"
     },
-    "__721": {
+    "_7060": {
+        "id": "7060",
+        "title_cn": "哆啦A梦 大雄的猫狗时空传",
+        "title_jp": "ドラえもん のび太のワンニャン時空伝",
+        "tips": "1话 /  2004年3月6日 / 芝山努 / 藤子・F・不二雄",
+        "stars": 7.4,
+        "people": 469,
+        "year": 2004,
+        "path": "cover/2004/哆啦A梦 大雄的猫狗时空传"
+    },
+    "_1173": {
+        "id": "1173",
         "title_cn": "日式面包王",
         "title_jp": "焼きたて!!ジャぱん",
         "tips": "69话 /  2004年10月12日 / 青木康直 / 橋口たかし（周刊少年Sunday连载） / 戸部敦夫、前澤弘美、菱沼義仁",
         "stars": 7.1,
         "people": 467,
         "year": 2004,
-        "path": "cover/2004/日式面包王",
-        "id": 721
+        "path": "cover/2004/日式面包王"
     },
-    "__745": {
+    "_7070": {
+        "id": "7070",
+        "title_cn": "游戏王剧场版 光之金字塔",
+        "title_jp": "遊☆戯☆王デュエルモンスターズ 光のピラミッド",
+        "tips": "1话 /  2004年8月13日 / 辻初樹 / 高橋和希 / スタジオダイス / 辻初樹",
+        "stars": 6.7,
+        "people": 457,
+        "year": 2004,
+        "path": "cover/2004/游戏王剧场版 光之金字塔"
+    },
+    "_1197": {
+        "id": "1197",
         "title_cn": "马丁的早晨",
         "title_jp": "風人物語",
         "tips": "52话 /  2004年2月17日",
         "stars": 6.9,
-        "people": 452,
+        "people": 451,
         "year": 2004,
-        "path": "cover/2004/马丁的早晨",
-        "id": 745
+        "path": "cover/2004/马丁的早晨"
     },
-    "__698": {
+    "_7047": {
+        "id": "7047",
+        "title_cn": "海贼王 被诅咒的圣剑",
+        "title_jp": "ONE PIECE 呪われた聖剣",
+        "tips": "1话 /  2004年3月6日 / 竹之内和久 / 尾田栄一郎",
+        "stars": 6.7,
+        "people": 442,
+        "year": 2004,
+        "path": "cover/2004/海贼王 被诅咒的圣剑"
+    },
+    "_1154": {
+        "id": "1154",
         "title_cn": "双恋",
         "title_jp": "双恋",
         "tips": "13话 /  2004年10月6日 / 双葉ひな",
         "stars": 6.0,
-        "people": 398,
+        "people": 397,
         "year": 2004,
-        "path": "cover/2004/双恋",
-        "id": 698
+        "path": "cover/2004/双恋"
     },
-    "__619": {
+    "_7065": {
+        "id": "7065",
+        "title_cn": "火影忍者剧场版 木叶大运动会",
+        "title_jp": "劇場版 NARUTO-ナルト- 木ノ葉の里の大うん動会",
+        "tips": "1话 /  2004年8月21日",
+        "stars": 6.2,
+        "people": 377,
+        "year": 2004,
+        "path": "cover/2004/火影忍者剧场版 木叶大运动会"
+    },
+    "_1089": {
+        "id": "1089",
         "title_cn": "七武士",
         "title_jp": "Samurai 7",
         "tips": "26话 /  2004年6月12日",
         "stars": 7.2,
         "people": 373,
         "year": 2004,
-        "path": "cover/2004/七武士",
-        "id": 619
+        "path": "cover/2004/七武士"
     },
-    "__646": {
+    "_1112": {
+        "id": "1112",
         "title_cn": "光之美少女",
         "title_jp": "ふたりはプリキュア",
         "tips": "49话 /  2004年2月1日 / 西尾大介 / 東堂いづみ / 稲上晃",
         "stars": 7.3,
-        "people": 368,
+        "people": 369,
         "year": 2004,
-        "path": "cover/2004/光之美少女",
-        "id": 646
+        "path": "cover/2004/光之美少女"
     },
-    "__623": {
+    "_1092": {
+        "id": "1092",
         "title_cn": "抓鬼天狗帮",
         "title_jp": "Tactics",
         "tips": "25话 /  2004-10-05 / わたなべひろし / 木下さくら＆東山和子 / 岡真里子",
         "stars": 6.6,
         "people": 362,
         "year": 2004,
-        "path": "cover/2004/抓鬼天狗帮",
-        "id": 623
+        "path": "cover/2004/抓鬼天狗帮"
     },
-    "__613": {
+    "_1084": {
+        "id": "1084",
         "title_cn": "MADLAX",
         "title_jp": "MADLAX",
         "tips": "26话 /  2004年4月5日 / 真下耕一",
         "stars": 7.0,
         "people": 359,
         "year": 2004,
-        "path": "cover/2004/MADLAX",
-        "id": 613
+        "path": "cover/2004/MADLAX"
     },
-    "__589": {
-        "title_cn": "MADLAX",
-        "title_jp": "MADLAX",
-        "tips": "26话 /  2004年4月5日 / 真下耕一",
-        "stars": 7.0,
-        "people": 359,
-        "year": 2004,
-        "path": "cover/2004/MADLAX",
-        "id": 589
-    },
-    "__712": {
+    "_1165": {
+        "id": "1165",
         "title_cn": "恋风",
         "title_jp": "恋風",
         "tips": "13话 /  2004年4月1日 / 大森貴弘 / 吉田基已 / 岸田隆宏",
         "stars": 7.3,
-        "people": 342,
+        "people": 343,
         "year": 2004,
-        "path": "cover/2004/恋风",
-        "id": 712
+        "path": "cover/2004/恋风"
     },
-    "__634": {
-        "title_cn": "おれたちイジワルケイ",
-        "title_jp": "うた∽かた",
-        "tips": "14话 /  2004-12-26 / こちら高松信司、アミニョ・テツロ / 竹咲輝",
-        "stars": -1,
-        "people": 339,
-        "year": 2004,
-        "path": "cover/2004/おれたちイジワルケイ",
-        "id": 634
-    },
-    "__633": {
+    "_1101": {
+        "id": "1101",
         "title_cn": "诗片",
         "title_jp": "うた∽かた",
         "tips": "13话 /  2004年10月3日 / gímik",
         "stars": 6.6,
-        "people": 339,
+        "people": 340,
         "year": 2004,
-        "path": "cover/2004/诗片",
-        "id": 633
+        "path": "cover/2004/诗片"
     },
-    "__676": {
-        "title_cn": "电邮宠物MoMo",
-        "title_jp": "ポストペットモモ便",
-        "tips": "24话 /  2004-07-04",
-        "stars": -1,
-        "people": 314,
-        "year": 2004,
-        "path": "cover/2004/电邮宠物MoMo",
-        "id": 676
-    },
-    "__675": {
+    "_1134": {
+        "id": "1134",
         "title_cn": "怪医黑杰克",
         "title_jp": "ブラック・ジャック",
         "tips": "63话 /  2004年10月11日",
         "stars": 7.4,
         "people": 314,
         "year": 2004,
-        "path": "cover/2004/怪医黑杰克",
-        "id": 675
+        "path": "cover/2004/怪医黑杰克"
     },
-    "__602": {
+    "_7058": {
+        "id": "7058",
+        "title_cn": "蜡笔小新 呼风唤雨！夕阳下的春日部男孩",
+        "title_jp": "クレヨンしんちゃん 嵐を呼ぶ!夕陽のカスカベボーイズ",
+        "tips": "1话 /  2004年4月17日 / 水島努 / 臼井儀人 / 末吉裕一郎",
+        "stars": 7.6,
+        "people": 309,
+        "year": 2004,
+        "path": "cover/2004/蜡笔小新 呼风唤雨！夕阳下的春日部男孩"
+    },
+    "_1074": {
+        "id": "1074",
         "title_cn": "杀戮都市 2nd Stage",
         "title_jp": "GANTZ 〜the 2nd stage〜",
         "tips": "13话 /  2004年8月26日",
         "stars": 6.2,
-        "people": 306,
+        "people": 308,
         "year": 2004,
-        "path": "cover/2004/杀戮都市 2nd Stage",
-        "id": 602
+        "path": "cover/2004/杀戮都市 2nd Stage"
     },
-    "__578": {
-        "title_cn": "杀戮都市 2nd Stage",
-        "title_jp": "GANTZ 〜the 2nd stage〜",
-        "tips": "13话 /  2004年8月26日",
-        "stars": 6.2,
-        "people": 306,
-        "year": 2004,
-        "path": "cover/2004/杀戮都市 2nd Stage",
-        "id": 578
-    },
-    "__610": {
+    "_1081": {
+        "id": "1081",
         "title_cn": "库拉乌 幻之记忆",
         "title_jp": "KURAU Phantom Memory",
         "tips": "24话 /  2004年6月24日",
         "stars": 7.3,
         "people": 293,
         "year": 2004,
-        "path": "cover/2004/库拉乌 幻之记忆",
-        "id": 610
+        "path": "cover/2004/库拉乌 幻之记忆"
     },
-    "__586": {
-        "title_cn": "库拉乌 幻之记忆",
-        "title_jp": "KURAU Phantom Memory",
-        "tips": "24话 /  2004年6月24日",
-        "stars": 7.3,
-        "people": 293,
-        "year": 2004,
-        "path": "cover/2004/库拉乌 幻之记忆",
-        "id": 586
-    },
-    "__606": {
-        "title_cn": "我不是动物",
-        "title_jp": "I Am Not an Animal",
-        "tips": "6话 /  2004-05-10（英国） / 彼得·贝恩汉姆",
-        "stars": -1,
-        "people": 290,
-        "year": 2004,
-        "path": "cover/2004/我不是动物",
-        "id": 606
-    },
-    "__605": {
+    "_1076": {
+        "id": "1076",
         "title_cn": "女生万岁 first season",
         "title_jp": "GIRLSブラボー first season",
         "tips": "11话 /  2004年7月6日 / あおきえい / まりお金田 / 牧野竜一",
         "stars": 5.9,
         "people": 290,
         "year": 2004,
-        "path": "cover/2004/女生万岁 first season",
-        "id": 605
+        "path": "cover/2004/女生万岁 first season"
     },
-    "__582": {
-        "title_cn": "我不是动物",
-        "title_jp": "I Am Not an Animal",
-        "tips": "6话 /  2004-05-10（英国） / 彼得·贝恩汉姆",
-        "stars": -1,
-        "people": 290,
+    "_7069": {
+        "id": "7069",
+        "title_cn": "圣斗士星矢 天界篇 序奏～overture～",
+        "title_jp": "聖闘士星矢 天界編 序奏 ~Overture~",
+        "tips": "1话 /  2004年2月14日",
+        "stars": 6.7,
+        "people": 279,
         "year": 2004,
-        "path": "cover/2004/我不是动物",
-        "id": 582
+        "path": "cover/2004/圣斗士星矢 天界篇 序奏～overture～"
     },
-    "__581": {
-        "title_cn": "女生万岁 first season",
-        "title_jp": "GIRLSブラボー first season",
-        "tips": "11话 /  2004年7月6日 / あおきえい / まりお金田 / 牧野竜一",
-        "stars": 5.9,
-        "people": 290,
-        "year": 2004,
-        "path": "cover/2004/女生万岁 first season",
-        "id": 581
-    },
-    "__739": {
+    "_1191": {
+        "id": "1191",
         "title_cn": "遥远时空中 八叶抄",
         "title_jp": "遙かなる時空の中で —八葉抄—",
         "tips": "26话 /  2004年10月5日 / つなきあき / コーエー（ルビーパーティー） / 大貫健一・小谷杏子",
         "stars": 6.5,
         "people": 278,
         "year": 2004,
-        "path": "cover/2004/遥远时空中 八叶抄",
-        "id": 739
+        "path": "cover/2004/遥远时空中 八叶抄"
     },
-    "__700": {
+    "_1156": {
+        "id": "1156",
         "title_cn": "大耳朵图图",
         "title_jp": "大耳朵图图",
         "tips": "2004年6月1日 / 速达、刁卫东（执行导演） / 速泰熙",
         "stars": 5.8,
         "people": 274,
         "year": 2004,
-        "path": "cover/2004/大耳朵图图",
-        "id": 700
+        "path": "cover/2004/大耳朵图图"
     },
-    "__659": {
+    "_1123": {
+        "id": "1123",
         "title_cn": "微笑的闪士",
         "title_jp": "グレネーダー ~ほほえみの閃士~",
         "tips": "12话 /  2004-10-14 / 神志那弘志",
         "stars": 6.3,
         "people": 249,
         "year": 2004,
-        "path": "cover/2004/微笑的闪士",
-        "id": 659
+        "path": "cover/2004/微笑的闪士"
     },
-    "__720": {
+    "_1172": {
+        "id": "1172",
         "title_cn": "火鸟",
         "title_jp": "火の鳥",
         "tips": "13话 /  2004年4月4日",
         "stars": 7.4,
         "people": 230,
         "year": 2004,
-        "path": "cover/2004/火鸟",
-        "id": 720
+        "path": "cover/2004/火鸟"
     },
-    "__618": {
+    "_1088": {
+        "id": "1088",
         "title_cn": "仙境传说",
         "title_jp": "RAGNAROK THE ANIMATION",
         "tips": "26话 /  2004年4月6日 / Gravity Inc.、GungHo Online Entertainment, Inc. / 筱原健二",
         "stars": 5.9,
         "people": 229,
         "year": 2004,
-        "path": "cover/2004/仙境传说",
-        "id": 618
+        "path": "cover/2004/仙境传说"
     },
-    "__614": {
-        "title_cn": "危险代理人",
-        "title_jp": "MEZZO -メゾ-",
-        "tips": "13话 /  2004年1月4日 / 梅津泰臣 / 梅津泰臣 / 梅津泰臣",
-        "stars": 6.6,
-        "people": 207,
-        "year": 2004,
-        "path": "cover/2004/危险代理人",
-        "id": 614
-    },
-    "__590": {
-        "title_cn": "危险代理人",
-        "title_jp": "MEZZO -メゾ-",
-        "tips": "13话 /  2004年1月4日 / 梅津泰臣 / 梅津泰臣 / 梅津泰臣",
-        "stars": 6.6,
-        "people": 207,
-        "year": 2004,
-        "path": "cover/2004/危险代理人",
-        "id": 590
-    },
-    "__632": {
+    "_1100": {
+        "id": "1100",
         "title_cn": "爱情泡泡糖",
         "title_jp": "Φなる・あぷろーち",
         "tips": "13话 /  2004年10月2日",
         "stars": 6.2,
         "people": 206,
         "year": 2004,
-        "path": "cover/2004/爱情泡泡糖",
-        "id": 632
+        "path": "cover/2004/爱情泡泡糖"
     },
-    "__681": {
+    "_1085": {
+        "id": "1085",
+        "title_cn": "危险代理人",
+        "title_jp": "MEZZO -メゾ-",
+        "tips": "13话 /  2004年1月4日 / 梅津泰臣 / 梅津泰臣 / 梅津泰臣",
+        "stars": 6.6,
+        "people": 206,
+        "year": 2004,
+        "path": "cover/2004/危险代理人"
+    },
+    "_1139": {
+        "id": "1139",
         "title_cn": "棒球大联盟 第一季",
         "title_jp": "メジャー 第1シリーズ",
         "tips": "26话 /  2004年11月13日 / 満田拓也",
         "stars": 7.4,
-        "people": 202,
+        "people": 203,
         "year": 2004,
-        "path": "cover/2004/棒球大联盟 第一季",
-        "id": 681
+        "path": "cover/2004/棒球大联盟 第一季"
     },
-    "__722": {
+    "_7050": {
+        "id": "7050",
+        "title_cn": "怪物史莱克2",
+        "title_jp": "Shrek 2",
+        "tips": "1话 /  2004年5月19日 / Andrew Adamson, Kelly Asbury, Conrad Vernon / William Steig",
+        "stars": 6.4,
+        "people": 192,
+        "year": 2004,
+        "path": "cover/2004/怪物史莱克2"
+    },
+    "_7053": {
+        "id": "7053",
+        "title_cn": "狮子王 1½",
+        "title_jp": "The Lion King 1½",
+        "tips": "1话 /  2004年2月10日",
+        "stars": 7.1,
+        "people": 187,
+        "year": 2004,
+        "path": "cover/2004/狮子王 1½"
+    },
+    "_1174": {
+        "id": "1174",
         "title_cn": "爆裂天使",
         "title_jp": "爆裂天使",
         "tips": "24话 /  2004-04-06 / 大畑晃一 / GONZO / 天﨑まなむ",
         "stars": 6.6,
-        "people": 182,
+        "people": 181,
         "year": 2004,
-        "path": "cover/2004/爆裂天使",
-        "id": 722
+        "path": "cover/2004/爆裂天使"
     },
-    "__627": {
+    "_1096": {
+        "id": "1096",
         "title_cn": "Toheart 回忆永恒",
         "title_jp": "ToHeart Remember my memories",
         "tips": "13话 /  2004年10月2日 / 元永慶太郎 / AQUAPLUS（アクアプラス）",
         "stars": 6.2,
-        "people": 179,
+        "people": 178,
         "year": 2004,
-        "path": "cover/2004/Toheart 回忆永恒",
-        "id": 627
+        "path": "cover/2004/Toheart 回忆永恒"
     },
-    "__715": {
+    "_1168": {
+        "id": "1168",
         "title_cn": "最游记RELOAD GUNLOCK",
         "title_jp": "最遊記RELOAD GUNLOCK",
         "tips": "26话 /  2004-04-01 / 峰倉かずや",
         "stars": 6.9,
         "people": 177,
         "year": 2004,
-        "path": "cover/2004/最游记RELOAD GUNLOCK",
-        "id": 715
+        "path": "cover/2004/最游记RELOAD GUNLOCK"
     },
-    "__713": {
+    "_7054": {
+        "id": "7054",
+        "title_cn": "极地特快",
+        "title_jp": "The Polar Express",
+        "tips": "1话 /  2004年11月10日 / Robert Zemeckis",
+        "stars": 7.0,
+        "people": 166,
+        "year": 2004,
+        "path": "cover/2004/极地特快"
+    },
+    "_1166": {
+        "id": "1166",
         "title_cn": "爱你宝贝",
         "title_jp": "愛してるぜベイベ",
         "tips": "26话 /  2004年4月3日 / 奥脇雅晴 / 槙ようこ / 須藤昌朋、山中純子",
         "stars": 7.1,
         "people": 158,
         "year": 2004,
-        "path": "cover/2004/爱你宝贝",
-        "id": 713
+        "path": "cover/2004/爱你宝贝"
     },
-    "__607": {
+    "_1078": {
+        "id": "1078",
         "title_cn": "成龙历险记 第五季",
         "title_jp": "Jackie Chan Adventures Season 5",
         "tips": "13话 /  2004-09-11",
         "stars": 7.3,
-        "people": 151,
+        "people": 150,
         "year": 2004,
-        "path": "cover/2004/成龙历险记 第五季",
-        "id": 607
+        "path": "cover/2004/成龙历险记 第五季"
     },
-    "__583": {
-        "title_cn": "成龙历险记 第五季",
-        "title_jp": "Jackie Chan Adventures Season 5",
-        "tips": "13话 /  2004-09-11",
-        "stars": 7.3,
-        "people": 151,
-        "year": 2004,
-        "path": "cover/2004/成龙历险记 第五季",
-        "id": 583
-    },
-    "__741": {
+    "_1193": {
+        "id": "1193",
         "title_cn": "阴阳大战记",
         "title_jp": "陰陽大戦記",
         "tips": "52话 /  2004年9月30日",
         "stars": 7.0,
         "people": 139,
         "year": 2004,
-        "path": "cover/2004/阴阳大战记",
-        "id": 741
+        "path": "cover/2004/阴阳大战记"
     },
-    "__663": {
+    "_1127": {
+        "id": "1127",
         "title_cn": "次元舰队",
         "title_jp": "ジパング",
         "tips": "26话 /  2004年10月7日 / 古橋一浩 / 馬越嘉彦",
         "stars": 7.1,
-        "people": 139,
+        "people": 138,
         "year": 2004,
-        "path": "cover/2004/次元舰队",
-        "id": 663
+        "path": "cover/2004/次元舰队"
     },
-    "__635": {
+    "_1103": {
+        "id": "1103",
         "title_cn": "御伽草子",
         "title_jp": "お伽草子",
         "tips": "26话 /  2004年7月6日 / 西久保瑞穂 / Production I.G、日本テレビ / 黄瀬和哉",
         "stars": 6.4,
         "people": 128,
         "year": 2004,
-        "path": "cover/2004/御伽草子",
-        "id": 635
+        "path": "cover/2004/御伽草子"
     },
-    "__710": {
+    "_1163": {
+        "id": "1163",
         "title_cn": "忘却的旋律",
         "title_jp": "忘却の旋律",
         "tips": "24话 /  2004年4月6日",
         "stars": 6.1,
         "people": 126,
         "year": 2004,
-        "path": "cover/2004/忘却的旋律",
-        "id": 710
+        "path": "cover/2004/忘却的旋律"
     },
-    "__621": {
+    "_1091": {
+        "id": "1091",
         "title_cn": "南方公园 第8季",
         "title_jp": "South Park Season 8",
         "tips": "14话 /  2004-03-17",
         "stars": 7.7,
         "people": 124,
         "year": 2004,
-        "path": "cover/2004/南方公园 第8季",
-        "id": 621
+        "path": "cover/2004/南方公园 第8季"
     },
-    "__674": {
+    "_7055": {
+        "id": "7055",
+        "title_cn": "海绵宝宝历险记",
+        "title_jp": "The SpongeBob SquarePants Movie",
+        "tips": "1话 /  2004-11-19 / Stephen Hillenburg, Mark Osborne",
+        "stars": 7.1,
+        "people": 118,
+        "year": 2004,
+        "path": "cover/2004/海绵宝宝历险记"
+    },
+    "_1133": {
+        "id": "1133",
         "title_cn": "奇幻旅程",
         "title_jp": "ファンタジックチルドレン",
         "tips": "26话 /  2004年10月4日",
         "stars": 7.4,
         "people": 118,
         "year": 2004,
-        "path": "cover/2004/奇幻旅程",
-        "id": 674
+        "path": "cover/2004/奇幻旅程"
     },
-    "__596": {
+    "_7073": {
+        "id": "7073",
+        "title_cn": "麦兜菠萝油王子",
+        "title_jp": "麥兜菠蘿油王子",
+        "tips": "1话 /  2004年6月24日 / 謝立文 / 謝立文、麥家碧",
+        "stars": 7.3,
+        "people": 117,
+        "year": 2004,
+        "path": "cover/2004/麦兜菠萝油王子"
+    },
+    "_1069": {
+        "id": "1069",
         "title_cn": "bps 战争程序员白濑",
         "title_jp": "BPS バトルプログラマーシラセ",
         "tips": "15话 /  2004-03-24 / 林宏樹 / 牧野竜一",
         "stars": 6.5,
-        "people": 118,
+        "people": 117,
         "year": 2004,
-        "path": "cover/2004/bps 战争程序员白濑",
-        "id": 596
+        "path": "cover/2004/bps 战争程序员白濑"
     },
-    "__572": {
-        "title_cn": "bps 战争程序员白濑",
-        "title_jp": "BPS バトルプログラマーシラセ",
-        "tips": "15话 /  2004-03-24 / 林宏樹 / 牧野竜一",
-        "stars": 6.5,
-        "people": 118,
-        "year": 2004,
-        "path": "cover/2004/bps 战争程序员白濑",
-        "id": 572
-    },
-    "__600": {
+    "_1072": {
+        "id": "1072",
         "title_cn": "亲爱一族",
         "title_jp": "DearS",
         "tips": "13话 /  2004年7月10日 / PEACH-PIT『DearS』",
         "stars": 6.0,
-        "people": 112,
+        "people": 111,
         "year": 2004,
-        "path": "cover/2004/亲爱一族",
-        "id": 600
+        "path": "cover/2004/亲爱一族"
     },
-    "__576": {
-        "title_cn": "亲爱一族",
-        "title_jp": "DearS",
-        "tips": "13话 /  2004年7月10日 / PEACH-PIT『DearS』",
-        "stars": 6.0,
-        "people": 112,
-        "year": 2004,
-        "path": "cover/2004/亲爱一族",
-        "id": 576
-    },
-    "__697": {
+    "_1153": {
+        "id": "1153",
         "title_cn": "十兵卫2 西伯利亚柳生的反击",
         "title_jp": "十兵衛ちゃん2 -シベリア柳生の逆襲-",
         "tips": "13话 /  2004-01-07 / 大地丙太郎 / 大地丙太郎",
         "stars": 6.8,
-        "people": 98,
+        "people": 99,
         "year": 2004,
-        "path": "cover/2004/十兵卫2 西伯利亚柳生的反击",
-        "id": 697
+        "path": "cover/2004/十兵卫2 西伯利亚柳生的反击"
     },
-    "__727": {
+    "_1179": {
+        "id": "1179",
         "title_cn": "绚烂舞踏祭",
         "title_jp": "絢爛舞踏祭 ザ・マーズ・デイブレイク",
         "tips": "26话 /  2004年4月1日 / 森邦宏 / 逢坂浩司",
         "stars": 6.2,
         "people": 95,
         "year": 2004,
-        "path": "cover/2004/绚烂舞踏祭",
-        "id": 727
+        "path": "cover/2004/绚烂舞踏祭"
     },
-    "__658": {
+    "_1122": {
+        "id": "1122",
         "title_cn": "银河天使X",
         "title_jp": "ギャラクシーエンジェルX",
         "tips": "26话 /  2004年7月7日 / 高柳滋仁 / ブロッコリー",
         "stars": 7.2,
         "people": 93,
         "year": 2004,
-        "path": "cover/2004/银河天使X",
-        "id": 658
+        "path": "cover/2004/银河天使X"
     },
-    "__699": {
+    "_7043": {
+        "id": "7043",
+        "title_cn": "花木兰2",
+        "title_jp": "Mulan II",
+        "tips": "1话 /  2004-12-07; 2005-02-01",
+        "stars": 5.7,
+        "people": 92,
+        "year": 2004,
+        "path": "cover/2004/花木兰2"
+    },
+    "_1155": {
+        "id": "1155",
         "title_cn": "吟游默示录",
         "title_jp": "吟遊黙示録マイネリーベ",
         "tips": "13话 /  2004年11月4日 / 真下耕一 / 川崎ヒロユキ / 山下喜光、芝美奈子",
         "stars": 5.6,
         "people": 92,
         "year": 2004,
-        "path": "cover/2004/吟游默示录",
-        "id": 699
+        "path": "cover/2004/吟游默示录"
     },
-    "__716": {
+    "_1169": {
+        "id": "1169",
         "title_cn": "东月西阳",
         "title_jp": "月は東に日は西に 〜Operation Sanctuary〜",
         "tips": "17话 /  2004年6月30日",
         "stars": 5.8,
         "people": 85,
         "year": 2004,
-        "path": "cover/2004/东月西阳",
-        "id": 716
+        "path": "cover/2004/东月西阳"
     },
-    "__696": {
+    "_1152": {
+        "id": "1152",
         "title_cn": "向北",
         "title_jp": "北へ。〜Diamond Dust Drops〜",
         "tips": "13话 /  2004年1月13日 / ボブ白旗 / 広井王子 / 千葉道徳",
         "stars": 6.5,
         "people": 84,
         "year": 2004,
-        "path": "cover/2004/向北",
-        "id": 696
+        "path": "cover/2004/向北"
     },
-    "__691": {
+    "_1147": {
+        "id": "1147",
         "title_cn": "下级生2 ～瞳孔中的少女们～",
         "title_jp": "下級生2 ～瞳の中の少女たち～",
         "tips": "13话 /  2004年10月7日 / 杜野幼青（影山楙倫） / エルフ / 倉嶋丈康",
         "stars": 5.6,
         "people": 84,
         "year": 2004,
-        "path": "cover/2004/下级生2 ～瞳孔中的少女们～",
-        "id": 691
+        "path": "cover/2004/下级生2 ～瞳孔中的少女们～"
     },
-    "__737": {
+    "_7063": {
+        "id": "7063",
+        "title_cn": "可携式机场",
+        "title_jp": "ポータブル空港",
+        "tips": "1话 /  2004年5月29日",
+        "stars": 5.7,
+        "people": 81,
+        "year": 2004,
+        "path": "cover/2004/可携式机场"
+    },
+    "_1189": {
+        "id": "1189",
         "title_cn": "超重神GRAVION Zwei",
         "title_jp": "超重神グラヴィオンZwei",
         "tips": "12话 /  2004年1月8日 / 大張正己 / 大張正己、赤松和光、GONZO / うのまこと、江端里沙",
         "stars": 6.0,
         "people": 81,
         "year": 2004,
-        "path": "cover/2004/超重神GRAVION Zwei",
-        "id": 737
+        "path": "cover/2004/超重神GRAVION Zwei"
     },
-    "__680": {
+    "_1138": {
+        "id": "1138",
         "title_cn": "人鱼的旋律 第二季",
         "title_jp": "マーメイドメロディー ぴちぴちピッチ ピュア",
         "tips": "39话 /  2004年4月3日",
         "stars": 6.7,
         "people": 81,
         "year": 2004,
-        "path": "cover/2004/人鱼的旋律 第二季",
-        "id": 680
+        "path": "cover/2004/人鱼的旋律 第二季"
     },
-    "__687": {
+    "_1143": {
+        "id": "1143",
         "title_cn": "LEGENDZ 苏生龙王传说",
         "title_jp": "レジェンズ 甦る竜王伝説",
         "tips": "50话 /  2004-04-04 / 大地丙太郎 / 渡辺けんじ / 小林一幸",
-        "stars": 7.6,
+        "stars": 7.5,
         "people": 76,
         "year": 2004,
-        "path": "cover/2004/LEGENDZ 苏生龙王传说",
-        "id": 687
+        "path": "cover/2004/LEGENDZ 苏生龙王传说"
     },
-    "__695": {
+    "_1151": {
+        "id": "1151",
         "title_cn": "交涉人勇午",
         "title_jp": "勇午 ～交渉人～",
         "tips": "13话 /  2004-02-24 / 花井信也、岸誠二 / 真刈信二・赤名修 / 松本剛彦/花井信也",
         "stars": 6.8,
-        "people": 74,
+        "people": 75,
         "year": 2004,
-        "path": "cover/2004/交涉人勇午",
-        "id": 695
+        "path": "cover/2004/交涉人勇午"
     },
-    "__693": {
+    "_7074": {
+        "id": "7074",
+        "title_cn": "新暗行御史",
+        "title_jp": "신암행어사",
+        "tips": "1话 /  2004年12月4日 / 本郷みつる / 윤인완、양경일",
+        "stars": 6.5,
+        "people": 71,
+        "year": 2004,
+        "path": "cover/2004/新暗行御史"
+    },
+    "_1149": {
+        "id": "1149",
         "title_cn": "光与水的女神",
         "title_jp": "光と水のダフネ",
         "tips": "26话 /  2004年1月15日 / NeSKeS",
         "stars": 6.8,
         "people": 70,
         "year": 2004,
-        "path": "cover/2004/光与水的女神",
-        "id": 693
+        "path": "cover/2004/光与水的女神"
     },
-    "__631": {
+    "_1099": {
+        "id": "1099",
         "title_cn": "公主时间",
         "title_jp": "W〜ウィッシュ〜",
         "tips": "13话 /  2004年10月7日",
         "stars": 5.8,
         "people": 69,
         "year": 2004,
-        "path": "cover/2004/公主时间",
-        "id": 631
+        "path": "cover/2004/公主时间"
     },
-    "__669": {
+    "_1129": {
+        "id": "1129",
         "title_cn": "酷伊忍者传",
         "title_jp": "ニニンがシノブ伝",
         "tips": "12话 /  2004年7月7日 / まついひとゆき / 古賀亮一 / 柴田淳",
         "stars": 6.8,
         "people": 68,
         "year": 2004,
-        "path": "cover/2004/酷伊忍者传",
-        "id": 669
+        "path": "cover/2004/酷伊忍者传"
     },
-    "__630": {
+    "_1098": {
+        "id": "1098",
         "title_cn": "风－心之呼吸",
         "title_jp": "Wind -a breath of heart-",
         "tips": "17话 /  2004-06-30 / 酒井伸和 / 吉野真一",
         "stars": 5.9,
         "people": 68,
         "year": 2004,
-        "path": "cover/2004/风－心之呼吸",
-        "id": 630
+        "path": "cover/2004/风－心之呼吸"
     },
-    "__730": {
-        "title_cn": "花右京女仆队 第二季",
-        "title_jp": "花右京メイド隊 La Verite",
-        "tips": "12话 /  2004-04-04",
-        "stars": 5.7,
-        "people": 67,
-        "year": 2004,
-        "path": "cover/2004/花右京女仆队 第二季",
-        "id": 730
-    },
-    "__726": {
+    "_1178": {
+        "id": "1178",
         "title_cn": "神魂合体豪旦那！！第二季",
         "title_jp": "神魂合体ゴーダンナー!! SECOND SEASON",
         "tips": "13话 /  2004年4月5日",
         "stars": 7.0,
         "people": 67,
         "year": 2004,
-        "path": "cover/2004/神魂合体豪旦那！！第二季",
-        "id": 726
+        "path": "cover/2004/神魂合体豪旦那！！第二季"
     },
-    "__706": {
+    "_7049": {
+        "id": "7049",
+        "title_cn": "鲨鱼故事",
+        "title_jp": "Shark Tale",
+        "tips": "1话 /  2004-10-01",
+        "stars": 5.8,
+        "people": 66,
+        "year": 2004,
+        "path": "cover/2004/鲨鱼故事"
+    },
+    "_1182": {
+        "id": "1182",
+        "title_cn": "花右京女仆队 第二季",
+        "title_jp": "花右京メイド隊 La Verite",
+        "tips": "12话 /  2004-04-04",
+        "stars": 5.7,
+        "people": 66,
+        "year": 2004,
+        "path": "cover/2004/花右京女仆队 第二季"
+    },
+    "_1161": {
+        "id": "1161",
         "title_cn": "宝贝女儿好妈妈",
         "title_jp": "宝贝女儿好妈妈",
         "tips": "40话 /  2004年",
         "stars": 6.0,
         "people": 66,
         "year": 2004,
-        "path": "cover/2004/宝贝女儿好妈妈",
-        "id": 706
+        "path": "cover/2004/宝贝女儿好妈妈"
     },
-    "__742": {
+    "_1194": {
+        "id": "1194",
         "title_cn": "陆奥圆明流外传 修罗之刻",
         "title_jp": "陸奥圓明流外伝 修羅の刻",
         "tips": "26话 /  2004年4月6日",
         "stars": 7.2,
         "people": 64,
         "year": 2004,
-        "path": "cover/2004/陆奥圆明流外传 修罗之刻",
-        "id": 742
+        "path": "cover/2004/陆奥圆明流外传 修罗之刻"
     },
-    "__612": {
+    "_1083": {
+        "id": "1083",
         "title_cn": "LOVE LOVE",
         "title_jp": "LOVE♥LOVE?",
         "tips": "13话 /  2004年5月3日 / 高橋丈夫 / m.o.e.、イマジン、スタジオライブ",
         "stars": 5.6,
         "people": 61,
         "year": 2004,
-        "path": "cover/2004/LOVE LOVE",
-        "id": 612
+        "path": "cover/2004/LOVE LOVE"
     },
-    "__588": {
-        "title_cn": "LOVE LOVE",
-        "title_jp": "LOVE♥LOVE?",
-        "tips": "13话 /  2004年5月3日 / 高橋丈夫 / m.o.e.、イマジン、スタジオライブ",
-        "stars": 5.6,
-        "people": 61,
-        "year": 2004,
-        "path": "cover/2004/LOVE LOVE",
-        "id": 588
-    },
-    "__732": {
+    "_1184": {
+        "id": "1184",
         "title_cn": "蓝猫淘气3000问之恐龙时代",
         "title_jp": "蒼穹のファフナー",
         "tips": "264话 /  2004年 / 王宏、雷骁",
-        "stars": 6.5,
-        "people": 59,
+        "stars": 6.6,
+        "people": 60,
         "year": 2004,
-        "path": "cover/2004/蓝猫淘气3000问之恐龙时代",
-        "id": 732
+        "path": "cover/2004/蓝猫淘气3000问之恐龙时代"
     },
-    "__641": {
-        "title_cn": "じゃがいぬくん",
-        "title_jp": "ごくせん",
-        "tips": "26话 /  2004-04-04",
-        "stars": -1,
-        "people": 58,
-        "year": 2004,
-        "path": "cover/2004/じゃがいぬくん",
-        "id": 641
-    },
-    "__640": {
+    "_1106": {
+        "id": "1106",
         "title_cn": "极道鲜师",
         "title_jp": "ごくせん",
         "tips": "13话 /  2004年1月6日 / 佐藤雄三",
         "stars": 6.5,
-        "people": 58,
+        "people": 59,
         "year": 2004,
-        "path": "cover/2004/极道鲜师",
-        "id": 640
+        "path": "cover/2004/极道鲜师"
     },
-    "__686": {
+    "_1142": {
+        "id": "1142",
         "title_cn": "鲁邦三世 被偷的鲁邦~模仿者是盛夏之蝶~",
         "title_jp": "ルパン三世 盗まれたルパン 〜コピーキャットは真夏の蝶〜",
         "tips": "1话 /  2004年7月30日",
         "stars": 7.1,
         "people": 57,
         "year": 2004,
-        "path": "cover/2004/鲁邦三世 被偷的鲁邦~模仿者是盛夏之蝶~",
-        "id": 686
+        "path": "cover/2004/鲁邦三世 被偷的鲁邦~模仿者是盛夏之蝶~"
     },
-    "__723": {
+    "_1175": {
+        "id": "1175",
         "title_cn": "砂和尚",
         "title_jp": "砂ぼうず",
         "tips": "24话 /  2004年10月4日",
         "stars": 6.7,
         "people": 54,
         "year": 2004,
-        "path": "cover/2004/砂和尚",
-        "id": 723
+        "path": "cover/2004/砂和尚"
     },
-    "__601": {
+    "_1073": {
+        "id": "1073",
         "title_cn": "魔笛奇遇记",
         "title_jp": "Flutemaster",
         "tips": "26话 /  2004年1月15日 / 艾尔·格斯特、珍妮·马西森、李春永",
         "stars": 6.0,
         "people": 50,
         "year": 2004,
-        "path": "cover/2004/魔笛奇遇记",
-        "id": 601
+        "path": "cover/2004/魔笛奇遇记"
     },
-    "__577": {
-        "title_cn": "魔笛奇遇记",
-        "title_jp": "Flutemaster",
-        "tips": "26话 /  2004年1月15日 / 艾尔·格斯特、珍妮·马西森、李春永",
-        "stars": 6.0,
-        "people": 50,
-        "year": 2004,
-        "path": "cover/2004/魔笛奇遇记",
-        "id": 577
-    },
-    "__711": {
+    "_1164": {
+        "id": "1164",
         "title_cn": "快乐东西1",
         "title_jp": "快乐东西1",
         "tips": "60话 /  2004年",
         "stars": 6.4,
         "people": 49,
         "year": 2004,
-        "path": "cover/2004/快乐东西1",
-        "id": 711
+        "path": "cover/2004/快乐东西1"
     },
-    "__654": {
+    "_1119": {
+        "id": "1119",
         "title_cn": "战区88",
         "title_jp": "エリア88",
         "tips": "12话 /  2004-01-09 / 今掛勇 / 新谷かおる / 神志那弘志",
         "stars": 6.9,
         "people": 49,
         "year": 2004,
-        "path": "cover/2004/战区88",
-        "id": 654
+        "path": "cover/2004/战区88"
     },
-    "__748": {
+    "_1200": {
+        "id": "1200",
         "title_cn": "守护精灵",
         "title_jp": "수호요정 미셸",
         "tips": "26话 /  2004年",
         "stars": 6.3,
         "people": 46,
         "year": 2004,
-        "path": "cover/2004/守护精灵",
-        "id": 748
+        "path": "cover/2004/守护精灵"
     },
-    "__688": {
+    "_1144": {
+        "id": "1144",
         "title_cn": "洛克人EXE STREAM",
         "title_jp": "ロックマンエグゼStream",
         "tips": "51话 /  2004-10-02 / 加戸誉夫 / CAPCOM / 石原満",
         "stars": 6.5,
         "people": 46,
         "year": 2004,
-        "path": "cover/2004/洛克人EXE STREAM",
-        "id": 688
+        "path": "cover/2004/洛克人EXE STREAM"
     },
-    "__747": {
+    "_1199": {
+        "id": "1199",
         "title_cn": "魔法少女队",
         "title_jp": "魔法少女隊アルス",
         "tips": "40话 /  2004年4月9日 / 芦野芳晴 / 雨宮慶太",
         "stars": 6.6,
         "people": 44,
         "year": 2004,
-        "path": "cover/2004/魔法少女队",
-        "id": 747
+        "path": "cover/2004/魔法少女队"
     },
-    "__653": {
+    "_1118": {
+        "id": "1118",
         "title_cn": "梓会帮你的！",
         "title_jp": "アズサ、お手伝いします!",
         "tips": "1话 /  2004年8月1日 / 川邊優子",
         "stars": 6.2,
         "people": 44,
         "year": 2004,
-        "path": "cover/2004/梓会帮你的！",
-        "id": 653
+        "path": "cover/2004/梓会帮你的！"
     },
-    "__725": {
+    "_1177": {
+        "id": "1177",
         "title_cn": "神雕侠侣II：襄阳风云",
         "title_jp": "神雕俠侶II：襄陽風雲",
         "tips": "26话 /  2004-11-13",
         "stars": 6.7,
         "people": 42,
         "year": 2004,
-        "path": "cover/2004/神雕侠侣II：襄阳风云",
-        "id": 725
+        "path": "cover/2004/神雕侠侣II：襄阳风云"
     },
-    "__645": {
-        "title_cn": "のってけエクスプレッツ",
-        "title_jp": "ななみちゃん",
-        "tips": "26话 /  2004-04-04 / 浅井幸信 / イワタナオミ",
-        "stars": -1,
+    "_7035": {
+        "id": "7035",
+        "title_cn": "跳跳羊",
+        "title_jp": "Boundin'",
+        "tips": "1话 /  2004-11-05 / 巴德·乐凯 / Roger Gould",
+        "stars": 5.0,
+        "people": 40,
+        "year": 2004,
+        "path": "cover/2004/跳跳羊"
+    },
+    "_7056": {
+        "id": "7056",
+        "title_cn": "海贼王 目标 海贼棒球王",
+        "title_jp": "めざせ!海賊野球王",
+        "tips": "1话 /  2004年3月6日",
+        "stars": 5.8,
         "people": 39,
         "year": 2004,
-        "path": "cover/2004/のってけエクスプレッツ",
-        "id": 645
+        "path": "cover/2004/海贼王 目标 海贼棒球王"
     },
-    "__644": {
-        "title_cn": "魔法娜娜咪",
-        "title_jp": "ななみちゃん",
-        "tips": "12话 /  2004-10-02",
-        "stars": -1,
-        "people": 39,
-        "year": 2004,
-        "path": "cover/2004/魔法娜娜咪",
-        "id": 644
-    },
-    "__643": {
-        "title_cn": "それいけ! ズッコケ三人組",
-        "title_jp": "せんせいのお時間",
-        "tips": "26话 /  2004-04-04",
-        "stars": -1,
-        "people": 39,
-        "year": 2004,
-        "path": "cover/2004/それいけ! ズッコケ三人組",
-        "id": 643
-    },
-    "__642": {
+    "_1108": {
+        "id": "1108",
         "title_cn": "老师的时间",
         "title_jp": "せんせいのお時間",
         "tips": "13话 /  2004年4月4日 / ももせたまみ",
         "stars": 6.8,
         "people": 39,
         "year": 2004,
-        "path": "cover/2004/老师的时间",
-        "id": 642
+        "path": "cover/2004/老师的时间"
     },
-    "__617": {
+    "_1087": {
+        "id": "1087",
         "title_cn": "小猪佩奇 第一季",
         "title_jp": "Peppa Pig season 1",
         "tips": "52话 /  2004年5月31日 / Astley Baker Davis",
         "stars": 6.2,
         "people": 38,
         "year": 2004,
-        "path": "cover/2004/小猪佩奇 第一季",
-        "id": 617
+        "path": "cover/2004/小猪佩奇 第一季"
     },
-    "__749": {
+    "_7034": {
+        "id": "7034",
+        "title_cn": "芭比之真假公主",
+        "title_jp": "Barbie as the Princess and the Pauper",
+        "tips": "1话 /  2004-09-28 / Mark Twain《王子与贫儿》",
+        "stars": 6.4,
+        "people": 35,
+        "year": 2004,
+        "path": "cover/2004/芭比之真假公主"
+    },
+    "_1201": {
+        "id": "1201",
         "title_cn": "太空嘻哈族",
         "title_jp": "우주 힙합 족",
         "tips": "26话 /  2004年",
         "stars": 6.4,
         "people": 34,
         "year": 2004,
-        "path": "cover/2004/太空嘻哈族",
-        "id": 749
+        "path": "cover/2004/太空嘻哈族"
     },
-    "__650": {
+    "_1115": {
+        "id": "1115",
         "title_cn": "梦物语",
         "title_jp": "ゆめりあ",
         "tips": "12话 /  2004-01-08 / 元永慶太郎 / Namco / 西岡忍",
         "stars": 5.4,
-        "people": 31,
+        "people": 30,
         "year": 2004,
-        "path": "cover/2004/梦物语",
-        "id": 650
+        "path": "cover/2004/梦物语"
     },
-    "__735": {
-        "title_cn": "超ぽじてぃぶ!ファイターズ",
-        "title_jp": "蒼穹のファフナー",
-        "tips": "101话 /  2004-04-04 / 白土武、岸誠二",
-        "stars": -1,
-        "people": 29,
-        "year": 2004,
-        "path": "cover/2004/超ぽじてぃぶ!ファイターズ",
-        "id": 735
-    },
-    "__734": {
-        "title_cn": "超ぽじてぃぶ! ファイターズ",
-        "title_jp": "蒼穹のファフナー",
-        "tips": "101话 /  2004-04-04 / 白土武",
-        "stars": -1,
-        "people": 29,
-        "year": 2004,
-        "path": "cover/2004/超ぽじてぃぶ! ファイターズ",
-        "id": 734
-    },
-    "__733": {
+    "_1185": {
+        "id": "1185",
         "title_cn": "蓝猫淘气3000问之海洋世界",
         "title_jp": "蒼穹のファフナー",
         "tips": "312话 /  2004年",
         "stars": 6.5,
         "people": 29,
         "year": 2004,
-        "path": "cover/2004/蓝猫淘气3000问之海洋世界",
-        "id": 733
+        "path": "cover/2004/蓝猫淘气3000问之海洋世界"
     },
-    "__620": {
+    "_1090": {
+        "id": "1090",
         "title_cn": "SD高达FORCE",
         "title_jp": "SDガンダムフォース",
         "tips": "52话 /  2004年1月7日",
         "stars": 6.2,
         "people": 29,
         "year": 2004,
-        "path": "cover/2004/SD高达FORCE",
-        "id": 620
+        "path": "cover/2004/SD高达FORCE"
     },
-    "__740": {
+    "_7071": {
+        "id": "7071",
+        "title_cn": "金色的卡修 101番目的魔物",
+        "title_jp": "金色のガッシュベル!! 101番目の魔物",
+        "tips": "1话 /  2004-08-07",
+        "stars": 6.7,
+        "people": 27,
+        "year": 2004,
+        "path": "cover/2004/金色的卡修 101番目的魔物"
+    },
+    "_1192": {
+        "id": "1192",
         "title_cn": "铁人28号",
         "title_jp": "鉄人28号",
         "tips": "26话 /  2004年4月7日 / 横山光輝",
         "stars": 7.7,
         "people": 26,
         "year": 2004,
-        "path": "cover/2004/铁人28号",
-        "id": 740
+        "path": "cover/2004/铁人28号"
     },
-    "__694": {
+    "_1150": {
+        "id": "1150",
         "title_cn": "冒险王比特",
         "title_jp": "冒険王ビィト",
         "tips": "52话 /  2004年9月30日",
         "stars": 6.2,
         "people": 26,
         "year": 2004,
-        "path": "cover/2004/冒险王比特",
-        "id": 694
+        "path": "cover/2004/冒险王比特"
     },
-    "__651": {
+    "_7040": {
+        "id": "7040",
+        "title_cn": "米奇·唐老鸭·高飞：三个火枪手",
+        "title_jp": "Mickey · Donald · Goofy: The Three Musketeers",
+        "tips": "1话 /  2004年8月17日 / Donovan Cook / Walt Disney、Alexandre Dumas, père",
+        "stars": 6.8,
+        "people": 25,
+        "year": 2004,
+        "path": "cover/2004/米奇·唐老鸭·高飞：三个火枪手"
+    },
+    "_5194": {
+        "id": "5194",
+        "title_cn": "没有影子的人",
+        "title_jp": "L' Homme sans ombre",
+        "tips": "1话 /  2004-05-16",
+        "stars": 7.5,
+        "people": 25,
+        "year": 2004,
+        "path": "cover/2004/没有影子的人"
+    },
+    "_1116": {
+        "id": "1116",
         "title_cn": "魔法咪路咪路Wonderful",
         "title_jp": "わがまま☆フェアリー ミルモでポン! わんだほう",
         "tips": "48话 /  2004-04-06 / 福島利規 / 篠塚ひろむ（小学館ちゃお連載「ミルモでポン!」） / 音地正行、小沼克介",
         "stars": 6.8,
         "people": 25,
         "year": 2004,
-        "path": "cover/2004/魔法咪路咪路Wonderful",
-        "id": 651
+        "path": "cover/2004/魔法咪路咪路Wonderful"
     },
-    "__597": {
+    "_1070": {
+        "id": "1070",
         "title_cn": "杀人科 SCRAMBLE",
         "title_jp": "BURN-UP SCRAMBLE",
         "tips": "12话 /  2004年1月12日",
         "stars": 5.4,
         "people": 25,
         "year": 2004,
-        "path": "cover/2004/杀人科 SCRAMBLE",
-        "id": 597
+        "path": "cover/2004/杀人科 SCRAMBLE"
     },
-    "__573": {
-        "title_cn": "杀人科 SCRAMBLE",
-        "title_jp": "BURN-UP SCRAMBLE",
-        "tips": "12话 /  2004年1月12日",
-        "stars": 5.4,
-        "people": 25,
-        "year": 2004,
-        "path": "cover/2004/杀人科 SCRAMBLE",
-        "id": 573
-    },
-    "__649": {
+    "_1114": {
+        "id": "1114",
         "title_cn": "死体兵 第二季",
         "title_jp": "みさきクロニクル 〜ダイバージェンス・イヴ〜",
         "tips": "13话 /  2004-01-02 / ネギシヒロシ / つくも匠・RADIX企画室 / 山下敏成",
         "stars": 6.0,
         "people": 24,
         "year": 2004,
-        "path": "cover/2004/死体兵 第二季",
-        "id": 649
+        "path": "cover/2004/死体兵 第二季"
     },
-    "__647": {
+    "_7061": {
+        "id": "7061",
+        "title_cn": "哆啦A梦25周年纪念日",
+        "title_jp": "ドラえもんアニバーサリー25",
+        "tips": "1话 /  2004-03-06",
+        "stars": 7.2,
+        "people": 23,
+        "year": 2004,
+        "path": "cover/2004/哆啦A梦25周年纪念日"
+    },
+    "_7044": {
+        "id": "7044",
+        "title_cn": "仁太坊 津轻三味线始祖外传",
+        "title_jp": "NITABOH 仁太坊-津軽三味線始祖外聞",
+        "tips": "1话 /  2004年2月21日 / 西澤昭男 / 大條和雄「ファンタジーミュージック〜始祖 仁太坊の一生〜」",
+        "stars": 6.5,
+        "people": 23,
+        "year": 2004,
+        "path": "cover/2004/仁太坊 津轻三味线始祖外传"
+    },
+    "_1113": {
+        "id": "1113",
         "title_cn": "Pugyuru",
         "title_jp": "ぷぎゅる",
         "tips": "13话 /  2004年4月12日 / 栗原ハジメ / コンノトヒロ / 松本弘",
         "stars": 4.7,
         "people": 23,
         "year": 2004,
-        "path": "cover/2004/Pugyuru",
-        "id": 647
+        "path": "cover/2004/Pugyuru"
     },
-    "__609": {
-        "title_cn": "一家之主 第九季",
-        "title_jp": "King of the Hill (Season 9)",
-        "tips": "15话 /  2004-11-07",
-        "stars": -1,
-        "people": 22,
-        "year": 2004,
-        "path": "cover/2004/一家之主 第九季",
-        "id": 609
-    },
-    "__608": {
+    "_1079": {
+        "id": "1079",
         "title_cn": "正义联盟 无限 第一季",
         "title_jp": "Justice League Unlimited Season 1",
         "tips": "13话 /  2004-07-31",
         "stars": 7.1,
         "people": 22,
         "year": 2004,
-        "path": "cover/2004/正义联盟 无限 第一季",
-        "id": 608
+        "path": "cover/2004/正义联盟 无限 第一季"
     },
-    "__585": {
-        "title_cn": "一家之主 第九季",
-        "title_jp": "King of the Hill (Season 9)",
-        "tips": "15话 /  2004-11-07",
-        "stars": -1,
-        "people": 22,
-        "year": 2004,
-        "path": "cover/2004/一家之主 第九季",
-        "id": 585
-    },
-    "__584": {
-        "title_cn": "正义联盟 无限 第一季",
-        "title_jp": "Justice League Unlimited Season 1",
-        "tips": "13话 /  2004-07-31",
-        "stars": 7.1,
-        "people": 22,
-        "year": 2004,
-        "path": "cover/2004/正义联盟 无限 第一季",
-        "id": 584
-    },
-    "__736": {
+    "_1188": {
+        "id": "1188",
         "title_cn": "超变身巫女祈斗士",
         "title_jp": "超変身コス∞プレイヤー",
         "tips": "12话 /  2004年1月12日 / 高橋丈夫 / m.o.e.、イマジン、スタジオライブ / 大島美和",
         "stars": 5.7,
         "people": 21,
         "year": 2004,
-        "path": "cover/2004/超变身巫女祈斗士",
-        "id": 736
+        "path": "cover/2004/超变身巫女祈斗士"
     },
-    "__652": {
+    "_1117": {
+        "id": "1117",
         "title_cn": "名侦探波洛和马普尔小姐",
         "title_jp": "アガサ・クリスティーの名探偵ポワロとマープル",
         "tips": "39话 /  2004年7月4日 / 高桥 ナオヒトNaohito Takahashi / Agatha Christie",
         "stars": 7.2,
         "people": 21,
         "year": 2004,
-        "path": "cover/2004/名侦探波洛和马普尔小姐",
-        "id": 652
+        "path": "cover/2004/名侦探波洛和马普尔小姐"
     },
-    "__626": {
+    "_7048": {
+        "id": "7048",
+        "title_cn": "瑞恩",
+        "title_jp": "Ryan",
+        "tips": "1话 /  2004-05-17 加拿大 / Chris Landreth",
+        "stars": 7.0,
+        "people": 18,
+        "year": 2004,
+        "path": "cover/2004/瑞恩"
+    },
+    "_1095": {
+        "id": "1095",
         "title_cn": "辛普森一家 第十六季",
         "title_jp": "The Simpsons Season 16",
         "tips": "21话 /  2004-11-07",
         "stars": 6.8,
         "people": 18,
         "year": 2004,
-        "path": "cover/2004/辛普森一家 第十六季",
-        "id": 626
+        "path": "cover/2004/辛普森一家 第十六季"
     },
-    "__625": {
+    "_1094": {
+        "id": "1094",
         "title_cn": "飞天小女警 第六季",
         "title_jp": "The Powerpuff Girls (Season 6)",
         "tips": "15话 /  2004-04-16",
         "stars": 6.2,
         "people": 18,
         "year": 2004,
-        "path": "cover/2004/飞天小女警 第六季",
-        "id": 625
+        "path": "cover/2004/飞天小女警 第六季"
     },
-    "__611": {
+    "_1082": {
+        "id": "1082",
         "title_cn": "迪奥传说",
         "title_jp": "Legend of DUO",
         "tips": "12话 /  2004年10月27日 / ネギシ・ヒロシ（ねぎしひろし） / Durant Project（Project DUO） / RADIX企画室",
         "stars": 5.3,
         "people": 16,
         "year": 2004,
-        "path": "cover/2004/迪奥传说",
-        "id": 611
+        "path": "cover/2004/迪奥传说"
     },
-    "__587": {
-        "title_cn": "迪奥传说",
-        "title_jp": "Legend of DUO",
-        "tips": "12话 /  2004年10月27日 / ネギシ・ヒロシ（ねぎしひろし） / Durant Project（Project DUO） / RADIX企画室",
-        "stars": 5.3,
-        "people": 16,
-        "year": 2004,
-        "path": "cover/2004/迪奥传说",
-        "id": 587
-    },
-    "__704": {
+    "_1160": {
+        "id": "1160",
         "title_cn": "银河铁道999外传 宇宙交响诗",
         "title_jp": "宇宙交響詩メーテル ～銀河鉄道999外伝～",
         "tips": "13话 /  2004年8月6日",
         "stars": 8.3,
         "people": 15,
         "year": 2004,
-        "path": "cover/2004/银河铁道999外传 宇宙交响诗",
-        "id": 704
+        "path": "cover/2004/银河铁道999外传 宇宙交响诗"
     },
-    "__628": {
+    "_5195": {
+        "id": "5195",
+        "title_cn": "神谷通信",
+        "title_jp": "分水岭",
+        "tips": "1话 /  2004",
+        "stars": 6.2,
+        "people": 14,
+        "year": 2004,
+        "path": "cover/2004/神谷通信"
+    },
+    "_1097": {
+        "id": "1097",
         "title_cn": "红侠乔伊",
         "title_jp": "VIEWTIFUL JOE",
         "tips": "51话 /  2004年10月2日 / 石山タカ明 / 大橋幸子",
         "stars": 5.9,
         "people": 14,
         "year": 2004,
-        "path": "cover/2004/红侠乔伊",
-        "id": 628
+        "path": "cover/2004/红侠乔伊"
     },
-    "__624": {
+    "_1093": {
+        "id": "1093",
         "title_cn": "新蝙蝠侠",
         "title_jp": "The Batman (2004)",
         "tips": "65话 /  2004-09-11",
         "stars": 6.9,
         "people": 14,
         "year": 2004,
-        "path": "cover/2004/新蝙蝠侠",
-        "id": 624
+        "path": "cover/2004/新蝙蝠侠"
     },
-    "__661": {
+    "_1125": {
+        "id": "1125",
         "title_cn": "侍铳",
         "title_jp": "サムライガン",
         "tips": "12话 /  2004-10-04",
         "stars": 5.8,
         "people": 13,
         "year": 2004,
-        "path": "cover/2004/侍铳",
-        "id": 661
+        "path": "cover/2004/侍铳"
     },
-    "__671": {
-        "title_cn": "パンツぱんくろう",
-        "title_jp": "パンダーゼット THE ROBONIMATION",
-        "tips": "85话 /  2004年4月",
-        "stars": -1,
-        "people": 12,
-        "year": 2004,
-        "path": "cover/2004/パンツぱんくろう",
-        "id": 671
-    },
-    "__670": {
+    "_1130": {
+        "id": "1130",
         "title_cn": "熊猫万能侠",
         "title_jp": "パンダーゼット THE ROBONIMATION",
         "tips": "30话 /  2004年4月12日 / 神戸守 / 押田秀一",
         "stars": 6.1,
         "people": 12,
         "year": 2004,
-        "path": "cover/2004/熊猫万能侠",
-        "id": 670
+        "path": "cover/2004/熊猫万能侠"
     },
-    "__682": {
+    "_1140": {
+        "id": "1140",
         "title_cn": "驰风！赛艇王",
         "title_jp": "モンキーターン",
         "tips": "25话 /  2004年1月10日",
         "stars": 6.6,
         "people": 11,
         "year": 2004,
-        "path": "cover/2004/驰风！赛艇王",
-        "id": 682
+        "path": "cover/2004/驰风！赛艇王"
     },
-    "__685": {
+    "_7041": {
+        "id": "7041",
+        "title_cn": "米奇节日嘉年华",
+        "title_jp": "Mickey's Twice Upon a Christmas",
+        "tips": "1话 /  2004-11-09(美国)",
+        "stars": 6.5,
+        "people": 10,
+        "year": 2004,
+        "path": "cover/2004/米奇节日嘉年华"
+    },
+    "_7039": {
+        "id": "7039",
+        "title_cn": "牧场是我家",
+        "title_jp": "Home on the Range",
+        "tips": "1话 /  2004年4月2日 / John Sanford / Will Finn",
+        "stars": 6.4,
+        "people": 10,
+        "year": 2004,
+        "path": "cover/2004/牧场是我家"
+    },
+    "_1141": {
+        "id": "1141",
         "title_cn": "拳王创世纪1",
         "title_jp": "リングにかけろ1",
         "tips": "12话 /  2004年10月6日",
         "stars": 6.0,
         "people": 10,
         "year": 2004,
-        "path": "cover/2004/拳王创世纪1",
-        "id": 685
+        "path": "cover/2004/拳王创世纪1"
     },
-    "__656": {
+    "_1121": {
+        "id": "1121",
         "title_cn": "河童的饲养方法",
         "title_jp": "カッパの飼い方",
         "tips": "26话 /  2004-10-04 / 宮崎なぎさ / 石川優吾",
         "stars": 6.9,
         "people": 10,
         "year": 2004,
-        "path": "cover/2004/河童的饲养方法",
-        "id": 656
+        "path": "cover/2004/河童的饲养方法"
     },
-    "__598": {
+    "_1071": {
+        "id": "1071",
         "title_cn": "弹道",
         "title_jp": "DAN DOH!!",
         "tips": "26话 /  2004年4月3日",
         "stars": 6.3,
         "people": 10,
         "year": 2004,
-        "path": "cover/2004/弹道",
-        "id": 598
-    },
-    "__574": {
-        "title_cn": "弹道",
-        "title_jp": "DAN DOH!!",
-        "tips": "26话 /  2004年4月3日",
-        "stars": 6.3,
-        "people": 10,
-        "year": 2004,
-        "path": "cover/2004/弹道",
-        "id": 574
-    },
-    "__719": {
-        "title_cn": "流星战队Musumet",
-        "title_jp": "流星戦隊ムスメット",
-        "tips": "13话 /  2004年10月4日 / 木宮茂 / 六月十三 / 源将治",
-        "stars": -1,
-        "people": -1,
-        "year": 2004,
-        "path": "cover/2004/流星战队Musumet",
-        "id": 719
-    },
-    "__709": {
-        "title_cn": "忍たま乱太郎 12期",
-        "title_jp": "巖窟王",
-        "tips": "80话 /  2004年4月5日",
-        "stars": -1,
-        "people": -1,
-        "year": 2004,
-        "path": "cover/2004/忍たま乱太郎 12期",
-        "id": 709
-    },
-    "__708": {
-        "title_cn": "庄子",
-        "title_jp": "巖窟王",
-        "tips": "13话 /  2004",
-        "stars": -1,
-        "people": -1,
-        "year": 2004,
-        "path": "cover/2004/庄子",
-        "id": 708
-    },
-    "__705": {
-        "title_cn": "安徒生讲故事",
-        "title_jp": "安徒生讲故事",
-        "tips": "26话 /  2004",
-        "stars": -1,
-        "people": -1,
-        "year": 2004,
-        "path": "cover/2004/安徒生讲故事",
-        "id": 705
-    },
-    "__684": {
-        "title_cn": "モンキー・パンチ 漫画活動大写真",
-        "title_jp": "モンキーターン V",
-        "tips": "12话 /  2004-08-01",
-        "stars": -1,
-        "people": -1,
-        "year": 2004,
-        "path": "cover/2004/モンキー・パンチ 漫画活動大写真",
-        "id": 684
-    },
-    "__683": {
-        "title_cn": "驰风！赛艇王V",
-        "title_jp": "モンキーターン V",
-        "tips": "25话 /  2004年7月3日",
-        "stars": -1,
-        "people": -1,
-        "year": 2004,
-        "path": "cover/2004/驰风！赛艇王V",
-        "id": 683
-    },
-    "__677": {
-        "title_cn": "マシュマロ通信",
-        "title_jp": "ポストペットモモ便",
-        "tips": "52话 /  2004-04-04",
-        "stars": -1,
-        "people": -1,
-        "year": 2004,
-        "path": "cover/2004/マシュマロ通信",
-        "id": 677
-    },
-    "__673": {
-        "title_cn": "超变身角色扮演前传",
-        "title_jp": "ヒットをねらえ!",
-        "tips": "12话 /  2004年3月8日 / 高橋丈夫 / m.o.e.、イマジン、スタジオライブ",
-        "stars": -1,
-        "people": -1,
-        "year": 2004,
-        "path": "cover/2004/超变身角色扮演前传",
-        "id": 673
-    },
-    "__668": {
-        "title_cn": "变形金刚：超能连结",
-        "title_jp": "トランスフォーマー スーパーリンク",
-        "tips": "52话 /  2004-01-09",
-        "stars": -1,
-        "people": -1,
-        "year": 2004,
-        "path": "cover/2004/变形金刚：超能连结",
-        "id": 668
-    },
-    "__667": {
-        "title_cn": "决斗大师Charge",
-        "title_jp": "デュエル・マスターズ チャージ",
-        "tips": "52话 /  2004-04-19",
-        "stars": -1,
-        "people": -1,
-        "year": 2004,
-        "path": "cover/2004/决斗大师Charge",
-        "id": 667
-    },
-    "__666": {
-        "title_cn": "机兽超世纪",
-        "title_jp": "ゾイドフューザーズ",
-        "tips": "26话 /  2004年10月3日",
-        "stars": -1,
-        "people": -1,
-        "year": 2004,
-        "path": "cover/2004/机兽超世纪",
-        "id": 666
-    },
-    "__664": {
-        "title_cn": "Sweet Valerian",
-        "title_jp": "スウィート・ヴァレリアン",
-        "tips": "26话 /  2004年8月1日 / 桜井弘明 / 山川吉樹",
-        "stars": -1,
-        "people": -1,
-        "year": 2004,
-        "path": "cover/2004/Sweet Valerian",
-        "id": 664
-    },
-    "__657": {
-        "title_cn": "格斗金肉人II世 ULTIMATE MUSCLE",
-        "title_jp": "キン肉マンII世 ULTIMATE MUSCLE",
-        "tips": "13话 /  2004-04-07",
-        "stars": -1,
-        "people": -1,
-        "year": 2004,
-        "path": "cover/2004/格斗金肉人II世 ULTIMATE MUSCLE",
-        "id": 657
-    },
-    "__648": {
-        "title_cn": "狗狗向前冲 第二季",
-        "title_jp": "まっすぐにいこう。第2期",
-        "tips": "5话 /  2004-03-27",
-        "stars": -1,
-        "people": -1,
-        "year": 2004,
-        "path": "cover/2004/狗狗向前冲 第二季",
-        "id": 648
-    },
-    "__637": {
-        "title_cn": "げんきげんきノンタン (2004)",
-        "title_jp": "かいけつゾロリ",
-        "tips": "10话 /  2004-04-20",
-        "stars": -1,
-        "people": -1,
-        "year": 2004,
-        "path": "cover/2004/げんきげんきノンタン (2004)",
-        "id": 637
-    },
-    "__636": {
-        "title_cn": "怪侠佐罗利",
-        "title_jp": "かいけつゾロリ",
-        "tips": "52话 /  2004年2月1日",
-        "stars": -1,
-        "people": -1,
-        "year": 2004,
-        "path": "cover/2004/怪侠佐罗利",
-        "id": 636
-    },
-    "__629": {
-        "title_cn": "魔力w.i.t.c.h.",
-        "title_jp": "W.I.T.C.H. Season 1",
-        "tips": "26话 /  2004年12月18日 / Marc Gordon",
-        "stars": -1,
-        "people": -1,
-        "year": 2004,
-        "path": "cover/2004/魔力w.i.t.c.h.",
-        "id": 629
-    },
-    "__622": {
-        "title_cn": "星球大战：克隆战争 第二季 (2004)",
-        "title_jp": "Star Wars: Clone Wars Season 2 (2004)",
-        "tips": "10话 /  2004-03-26",
-        "stars": -1,
-        "people": -1,
-        "year": 2004,
-        "path": "cover/2004/星球大战：克隆战争 第二季 (2004)",
-        "id": 622
-    },
-    "__616": {
-        "title_cn": "我的青少年机器人时代 第二季",
-        "title_jp": "My Life As a Teenage Robot Season 2",
-        "tips": "14话 /  2004-12-08",
-        "stars": -1,
-        "people": -1,
-        "year": 2004,
-        "path": "cover/2004/我的青少年机器人时代 第二季",
-        "id": 616
-    },
-    "__604": {
-        "title_cn": "滑板战士",
-        "title_jp": "Get Ride! アムドライバー",
-        "tips": "51话 /  2004年4月5日",
-        "stars": -1,
-        "people": -1,
-        "year": 2004,
-        "path": "cover/2004/滑板战士",
-        "id": 604
-    },
-    "__599": {
-        "title_cn": "幻影丹尼",
-        "title_jp": "Danny Phantom",
-        "tips": "53话 /  2004年4月3日",
-        "stars": -1,
-        "people": -1,
-        "year": 2004,
-        "path": "cover/2004/幻影丹尼",
-        "id": 599
-    },
-    "__593": {
-        "title_cn": "B传说！战斗弹珠人",
-        "title_jp": "B-伝説! バトルビーダマン",
-        "tips": "52话 /  2004年1月5日 / 犬木栄治",
-        "stars": -1,
-        "people": -1,
-        "year": 2004,
-        "path": "cover/2004/B传说！战斗弹珠人",
-        "id": 593
-    },
-    "__592": {
-        "title_cn": "我的青少年机器人时代 第二季",
-        "title_jp": "My Life As a Teenage Robot Season 2",
-        "tips": "14话 /  2004-12-08",
-        "stars": -1,
-        "people": -1,
-        "year": 2004,
-        "path": "cover/2004/我的青少年机器人时代 第二季",
-        "id": 592
-    },
-    "__580": {
-        "title_cn": "滑板战士",
-        "title_jp": "Get Ride! アムドライバー",
-        "tips": "51话 /  2004年4月5日",
-        "stars": -1,
-        "people": -1,
-        "year": 2004,
-        "path": "cover/2004/滑板战士",
-        "id": 580
-    },
-    "__575": {
-        "title_cn": "幻影丹尼",
-        "title_jp": "Danny Phantom",
-        "tips": "53话 /  2004年4月3日",
-        "stars": -1,
-        "people": -1,
-        "year": 2004,
-        "path": "cover/2004/幻影丹尼",
-        "id": 575
-    },
-    "__569": {
-        "title_cn": "B传说！战斗弹珠人",
-        "title_jp": "B-伝説! バトルビーダマン",
-        "tips": "52话 /  2004年1月5日 / 犬木栄治",
-        "stars": -1,
-        "people": -1,
-        "year": 2004,
-        "path": "cover/2004/B传说！战斗弹珠人",
-        "id": 569
+        "path": "cover/2004/弹道"
     }
 }

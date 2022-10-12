@@ -81,3 +81,11 @@ body {
 .searcher {
   margin: 0px 0px 20px 0px;
 }
+
+.you {
+  width: 491;
+  height: 880;
+  position: absolute;
+  right: 0;
+  bottom: 50px;
+}

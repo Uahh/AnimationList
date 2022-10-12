@@ -1,0 +1,802 @@
+{
+    "_409": {
+        "id": "409",
+        "title_cn": "少女革命",
+        "title_jp": "少女革命ウテナ",
+        "tips": "39话 /  1997年4月2日 / 幾原邦彦 / ビーパパス / 長谷川眞也",
+        "stars": 8.4,
+        "people": 2931,
+        "year": 1997,
+        "path": "cover/1997/少女革命"
+    },
+    "_401": {
+        "id": "401",
+        "title_cn": "中华小当家",
+        "title_jp": "中華一番!",
+        "tips": "52话 /  1997年4月27日 / 案納正美 / 小川悦司 / 岸義之、二宮常雄",
+        "stars": 7.5,
+        "people": 2923,
+        "year": 1997,
+        "path": "cover/1997/中华小当家"
+    },
+    "_397": {
+        "id": "397",
+        "title_cn": "精灵宝可梦",
+        "title_jp": "ポケットモンスター",
+        "tips": "276话 /  1997年4月1日 / 日高政光 / 一石小百合",
+        "stars": 7.8,
+        "people": 2420,
+        "year": 1997,
+        "path": "cover/1997/精灵宝可梦"
+    },
+    "_403": {
+        "id": "403",
+        "title_cn": "剑风传奇",
+        "title_jp": "剣風伝奇ベルセルク",
+        "tips": "25话 /  1997年10月7日",
+        "stars": 8.0,
+        "people": 1071,
+        "year": 1997,
+        "path": "cover/1997/剑风传奇"
+    },
+    "_416": {
+        "id": "416",
+        "title_cn": "四驱兄弟WGP",
+        "title_jp": "爆走兄弟レッツ&ゴー!!WGP",
+        "tips": "51话 /  1997年1月6日",
+        "stars": 7.3,
+        "people": 779,
+        "year": 1997,
+        "path": "cover/1997/四驱兄弟WGP"
+    },
+    "_418": {
+        "id": "418",
+        "title_cn": "铁胆火车侠",
+        "title_jp": "超特急ヒカリアン",
+        "tips": "156话 /  1997年4月2日 / 廣川集一、新田義方 / TOMY",
+        "stars": 6.6,
+        "people": 743,
+        "year": 1997,
+        "path": "cover/1997/铁胆火车侠"
+    },
+    "_419": {
+        "id": "419",
+        "title_cn": "超魔神英雄传",
+        "title_jp": "超魔神英雄伝ワタル",
+        "tips": "51话 /  1997年10月2日 / 井内秀治 / 矢立肇、広井王子、井内秀治",
+        "stars": 7.2,
+        "people": 718,
+        "year": 1997,
+        "path": "cover/1997/超魔神英雄传"
+    },
+    "_420": {
+        "id": "420",
+        "title_cn": "金田一少年事件簿",
+        "title_jp": "金田一少年の事件簿",
+        "tips": "148话 /  1997年4月7日",
+        "stars": 7.8,
+        "people": 674,
+        "year": 1997,
+        "path": "cover/1997/金田一少年事件簿"
+    },
+    "_393": {
+        "id": "393",
+        "title_cn": "秀逗魔导士TRY",
+        "title_jp": "スレイヤーズTRY",
+        "tips": "26话 /  1997年4月4日 / 渡部高志 / 神坂一 / 宮田奈保美",
+        "stars": 7.7,
+        "people": 647,
+        "year": 1997,
+        "path": "cover/1997/秀逗魔导士TRY"
+    },
+    "_394": {
+        "id": "394",
+        "title_cn": "阿拉蕾",
+        "title_jp": "ドクタースランプ",
+        "tips": "74话 /  1997年11月26日 / 山内重保",
+        "stars": 7.5,
+        "people": 538,
+        "year": 1997,
+        "path": "cover/1997/阿拉蕾"
+    },
+    "_389": {
+        "id": "389",
+        "title_cn": "晴天小猪",
+        "title_jp": "はれときどきぶた",
+        "tips": "61话 /  1997年7月3日 / ワタナベシンイチ / 矢玉四郎（岩崎書店刊行。掲載協力 - めばえ、幼稚園、学習幼稚園、小学一年生、小学二年生）",
+        "stars": 7.0,
+        "people": 400,
+        "year": 1997,
+        "path": "cover/1997/晴天小猪"
+    },
+    "_404": {
+        "id": "404",
+        "title_cn": "勇者王GaoGaiGar",
+        "title_jp": "勇者王ガオガイガー",
+        "tips": "49话 /  1997年2月1日 / 米たにヨシトモ / 矢立肇 / 木村貴宏",
+        "stars": 7.8,
+        "people": 352,
+        "year": 1997,
+        "path": "cover/1997/勇者王GaoGaiGar"
+    },
+    "_380": {
+        "id": "380",
+        "title_cn": "南方公园 第1季",
+        "title_jp": "South Park Season 1",
+        "tips": "13话 /  1997-08-13",
+        "stars": 7.7,
+        "people": 297,
+        "year": 1997,
+        "path": "cover/1997/南方公园 第1季"
+    },
+    "_360": {
+        "id": "360",
+        "title_cn": "南方公园 第1季",
+        "title_jp": "South Park Season 1",
+        "tips": "13话 /  1997-08-13",
+        "stars": 7.7,
+        "people": 297,
+        "year": 1997,
+        "path": "cover/1997/南方公园 第1季"
+    },
+    "_405": {
+        "id": "405",
+        "title_cn": "吸血姬美夕",
+        "title_jp": "吸血姫美夕",
+        "tips": "26话 /  1997年10月6日 / 平野俊貴 / 平野俊貴・垣野内成美 / 門之園恵美",
+        "stars": 7.3,
+        "people": 253,
+        "year": 1997,
+        "path": "cover/1997/吸血姬美夕"
+    },
+    "_362": {
+        "id": "362",
+        "title_cn": "101忠狗",
+        "title_jp": "101 Dalmatians: The Series",
+        "tips": "65话 /  1997年9月1日",
+        "stars": 6.7,
+        "people": 218,
+        "year": 1997,
+        "path": "cover/1997/101忠狗"
+    },
+    "_342": {
+        "id": "342",
+        "title_cn": "101忠狗",
+        "title_jp": "101 Dalmatians: The Series",
+        "tips": "65话 /  1997年9月1日",
+        "stars": 6.7,
+        "people": 218,
+        "year": 1997,
+        "path": "cover/1997/101忠狗"
+    },
+    "_413": {
+        "id": "413",
+        "title_cn": "永久家族",
+        "title_jp": "永久家族",
+        "tips": "53话 /  1997年4月 / 森本晃司 / 森本晃司",
+        "stars": 7.0,
+        "people": 186,
+        "year": 1997,
+        "path": "cover/1997/永久家族"
+    },
+    "_365": {
+        "id": "365",
+        "title_cn": "CLAMP学园侦探团",
+        "title_jp": "CLAMP学園探偵団",
+        "tips": "26话 /  1997-05-03 / 鍋島修 / CLAMP / 田中比呂人",
+        "stars": 6.7,
+        "people": 175,
+        "year": 1997,
+        "path": "cover/1997/CLAMP学园侦探团"
+    },
+    "_345": {
+        "id": "345",
+        "title_cn": "CLAMP学园侦探团",
+        "title_jp": "CLAMP学園探偵団",
+        "tips": "26话 /  1997-05-03 / 鍋島修 / CLAMP / 田中比呂人",
+        "stars": 6.7,
+        "people": 175,
+        "year": 1997,
+        "path": "cover/1997/CLAMP学园侦探团"
+    },
+    "_369": {
+        "id": "369",
+        "title_cn": "星际恐龙",
+        "title_jp": "Extreme Dinosaurs",
+        "tips": "52话 /  1997年9月1日",
+        "stars": 6.5,
+        "people": 173,
+        "year": 1997,
+        "path": "cover/1997/星际恐龙"
+    },
+    "_349": {
+        "id": "349",
+        "title_cn": "星际恐龙",
+        "title_jp": "Extreme Dinosaurs",
+        "tips": "52话 /  1997年9月1日",
+        "stars": 6.5,
+        "people": 173,
+        "year": 1997,
+        "path": "cover/1997/星际恐龙"
+    },
+    "_406": {
+        "id": "406",
+        "title_cn": "哈哈镜花缘",
+        "title_jp": "吸血姫美夕",
+        "tips": "13话 /  1997 / 蔡志军",
+        "stars": 7.4,
+        "people": 117,
+        "year": 1997,
+        "path": "cover/1997/哈哈镜花缘"
+    },
+    "_414": {
+        "id": "414",
+        "title_cn": "烈火之炎",
+        "title_jp": "烈火の炎",
+        "tips": "42话 /  1997-07-19 / 阿部記之 / 安西信行 / 北山真理、若林厚史",
+        "stars": 6.6,
+        "people": 106,
+        "year": 1997,
+        "path": "cover/1997/烈火之炎"
+    },
+    "_374": {
+        "id": "374",
+        "title_cn": "黑衣警探 第一季",
+        "title_jp": "Men in Black: The Series Season 1",
+        "tips": "13话 /  1997-10-11",
+        "stars": 7.5,
+        "people": 102,
+        "year": 1997,
+        "path": "cover/1997/黑衣警探 第一季"
+    },
+    "_354": {
+        "id": "354",
+        "title_cn": "黑衣警探 第一季",
+        "title_jp": "Men in Black: The Series Season 1",
+        "tips": "13话 /  1997-10-11",
+        "stars": 7.5,
+        "people": 102,
+        "year": 1997,
+        "path": "cover/1997/黑衣警探 第一季"
+    },
+    "_412": {
+        "id": "412",
+        "title_cn": "新・天地无用!",
+        "title_jp": "新・天地無用!",
+        "tips": "26话 /  1997年4月1日",
+        "stars": 6.8,
+        "people": 86,
+        "year": 1997,
+        "path": "cover/1997/新・天地无用!"
+    },
+    "_400": {
+        "id": "400",
+        "title_cn": "鲁邦三世：沃尔特P38",
+        "title_jp": "ルパン三世 ワルサーP38",
+        "tips": "1话 /  1997年8月1日",
+        "stars": 7.4,
+        "people": 83,
+        "year": 1997,
+        "path": "cover/1997/鲁邦三世：沃尔特P38"
+    },
+    "_396": {
+        "id": "396",
+        "title_cn": "バンブー・ベアーズ",
+        "title_jp": "バトルアスリーテス 大運動会",
+        "tips": "52话 /  1997-04-04",
+        "stars": -1,
+        "people": 83,
+        "year": 1997,
+        "path": "cover/1997/バンブー・ベアーズ"
+    },
+    "_395": {
+        "id": "395",
+        "title_cn": "BATTLE ATHLETESS 大运动会",
+        "title_jp": "バトルアスリーテス 大運動会",
+        "tips": "26话 /  1997-10-03 / 秋山勝仁 / 奥田淳",
+        "stars": 6.7,
+        "people": 83,
+        "year": 1997,
+        "path": "cover/1997/BATTLE ATHLETESS 大运动会"
+    },
+    "_411": {
+        "id": "411",
+        "title_cn": "手冢治虫的旧约圣经故事",
+        "title_jp": "手塚治虫の旧約聖書物語",
+        "tips": "26话 /  1997-04-01",
+        "stars": -1,
+        "people": 81,
+        "year": 1997,
+        "path": "cover/1997/手冢治虫的旧约圣经故事"
+    },
+    "_410": {
+        "id": "410",
+        "title_cn": "快乐家家车",
+        "title_jp": "快乐家家车",
+        "tips": "52话 /  1997年",
+        "stars": 6.3,
+        "people": 81,
+        "year": 1997,
+        "path": "cover/1997/快乐家家车"
+    },
+    "_421": {
+        "id": "421",
+        "title_cn": "金田一少年事件簿 死神病院杀人事件",
+        "title_jp": "金田一少年の事件簿スペシャル 死神病院殺人事件",
+        "tips": "1话 /  1997年10月13日",
+        "stars": 6.8,
+        "people": 70,
+        "year": 1997,
+        "path": "cover/1997/金田一少年事件簿 死神病院杀人事件"
+    },
+    "_378": {
+        "id": "378",
+        "title_cn": "波波安",
+        "title_jp": "Pepper Ann",
+        "tips": "65话 /  1997年9月13日",
+        "stars": 6.4,
+        "people": 63,
+        "year": 1997,
+        "path": "cover/1997/波波安"
+    },
+    "_358": {
+        "id": "358",
+        "title_cn": "波波安",
+        "title_jp": "Pepper Ann",
+        "tips": "65话 /  1997年9月13日",
+        "stars": 6.4,
+        "people": 63,
+        "year": 1997,
+        "path": "cover/1997/波波安"
+    },
+    "_415": {
+        "id": "415",
+        "title_cn": "熊猫京京",
+        "title_jp": "熊猫京京",
+        "tips": "26话 /  1997",
+        "stars": 5.9,
+        "people": 51,
+        "year": 1997,
+        "path": "cover/1997/熊猫京京"
+    },
+    "_379": {
+        "id": "379",
+        "title_cn": "下课后",
+        "title_jp": "Recess",
+        "tips": "65话 /  1997年8月31日",
+        "stars": 6.6,
+        "people": 50,
+        "year": 1997,
+        "path": "cover/1997/下课后"
+    },
+    "_359": {
+        "id": "359",
+        "title_cn": "下课后",
+        "title_jp": "Recess",
+        "tips": "65话 /  1997年8月31日",
+        "stars": 6.6,
+        "people": 50,
+        "year": 1997,
+        "path": "cover/1997/下课后"
+    },
+    "_402": {
+        "id": "402",
+        "title_cn": "人参王国",
+        "title_jp": "人参王国",
+        "tips": "52话 /  1997",
+        "stars": 7.3,
+        "people": 49,
+        "year": 1997,
+        "path": "cover/1997/人参王国"
+    },
+    "_408": {
+        "id": "408",
+        "title_cn": "学级王山崎",
+        "title_jp": "学級王ヤマザキ",
+        "tips": "54话 /  1997-10-27",
+        "stars": -1,
+        "people": 29,
+        "year": 1997,
+        "path": "cover/1997/学级王山崎"
+    },
+    "_407": {
+        "id": "407",
+        "title_cn": "蜡笔小王国",
+        "title_jp": "夢のクレヨン王国",
+        "tips": "70话 /  1997年9月7日",
+        "stars": 7.1,
+        "people": 29,
+        "year": 1997,
+        "path": "cover/1997/蜡笔小王国"
+    },
+    "_392": {
+        "id": "392",
+        "title_cn": "城市猎人 再见 我的爱人",
+        "title_jp": "シティーハンタースペシャル グッド・バイ・マイ・スイート・ハート",
+        "tips": "1话 /  1997年4月25日",
+        "stars": 7.0,
+        "people": 29,
+        "year": 1997,
+        "path": "cover/1997/城市猎人 再见 我的爱人"
+    },
+    "_363": {
+        "id": "363",
+        "title_cn": "婴儿城",
+        "title_jp": "Baby Follies",
+        "tips": "52话 /  1997",
+        "stars": 5.6,
+        "people": 27,
+        "year": 1997,
+        "path": "cover/1997/婴儿城"
+    },
+    "_343": {
+        "id": "343",
+        "title_cn": "婴儿城",
+        "title_jp": "Baby Follies",
+        "tips": "52话 /  1997",
+        "stars": 5.6,
+        "people": 27,
+        "year": 1997,
+        "path": "cover/1997/婴儿城"
+    },
+    "_367": {
+        "id": "367",
+        "title_cn": "拽妹黛薇儿 第一季",
+        "title_jp": "Daria Season 1",
+        "tips": "13话 /  1997-03-03 / Susie Lewis",
+        "stars": 7.3,
+        "people": 23,
+        "year": 1997,
+        "path": "cover/1997/拽妹黛薇儿 第一季"
+    },
+    "_347": {
+        "id": "347",
+        "title_cn": "拽妹黛薇儿 第一季",
+        "title_jp": "Daria Season 1",
+        "tips": "13话 /  1997-03-03 / Susie Lewis",
+        "stars": 7.3,
+        "people": 23,
+        "year": 1997,
+        "path": "cover/1997/拽妹黛薇儿 第一季"
+    },
+    "_366": {
+        "id": "366",
+        "title_cn": "鸡与牛",
+        "title_jp": "Cow and Chicken",
+        "tips": "52话 /  1997-07-15",
+        "stars": 7.6,
+        "people": 22,
+        "year": 1997,
+        "path": "cover/1997/鸡与牛"
+    },
+    "_346": {
+        "id": "346",
+        "title_cn": "鸡与牛",
+        "title_jp": "Cow and Chicken",
+        "tips": "52话 /  1997-07-15",
+        "stars": 7.6,
+        "people": 22,
+        "year": 1997,
+        "path": "cover/1997/鸡与牛"
+    },
+    "_417": {
+        "id": "417",
+        "title_cn": "白鲸传说",
+        "title_jp": "白鯨伝説",
+        "tips": "26话 /  1997-04-09",
+        "stars": 6.3,
+        "people": 19,
+        "year": 1997,
+        "path": "cover/1997/白鲸传说"
+    },
+    "_368": {
+        "id": "368",
+        "title_cn": "螺丝侠",
+        "title_jp": "EAT-MAN",
+        "tips": "12话 /  1997年1月9日",
+        "stars": 5.4,
+        "people": 19,
+        "year": 1997,
+        "path": "cover/1997/螺丝侠"
+    },
+    "_364": {
+        "id": "364",
+        "title_cn": "杀人科 EXCESS",
+        "title_jp": "BURN-UP EXCESS",
+        "tips": "13话 /  1997年12月12日 / 木村真一郎 / 池田裕治",
+        "stars": 6.1,
+        "people": 19,
+        "year": 1997,
+        "path": "cover/1997/杀人科 EXCESS"
+    },
+    "_348": {
+        "id": "348",
+        "title_cn": "螺丝侠",
+        "title_jp": "EAT-MAN",
+        "tips": "12话 /  1997年1月9日",
+        "stars": 5.4,
+        "people": 19,
+        "year": 1997,
+        "path": "cover/1997/螺丝侠"
+    },
+    "_344": {
+        "id": "344",
+        "title_cn": "杀人科 EXCESS",
+        "title_jp": "BURN-UP EXCESS",
+        "tips": "13话 /  1997年12月12日 / 木村真一郎 / 池田裕治",
+        "stars": 6.1,
+        "people": 19,
+        "year": 1997,
+        "path": "cover/1997/杀人科 EXCESS"
+    },
+    "_382": {
+        "id": "382",
+        "title_cn": "蜘蛛人 第五季",
+        "title_jp": "Spider-Man Season 5 (1997)",
+        "tips": "13话 /  1997-09-12",
+        "stars": 7.5,
+        "people": 18,
+        "year": 1997,
+        "path": "cover/1997/蜘蛛人 第五季"
+    },
+    "_373": {
+        "id": "373",
+        "title_cn": "爆热时空",
+        "title_jp": "MAZE☆爆熱時空",
+        "tips": "25话 /  1997年4月2日 / 鈴木行 / あかほりさとる / 後藤正行",
+        "stars": 6.7,
+        "people": 18,
+        "year": 1997,
+        "path": "cover/1997/爆热时空"
+    },
+    "_353": {
+        "id": "353",
+        "title_cn": "爆热时空",
+        "title_jp": "MAZE☆爆熱時空",
+        "tips": "25话 /  1997年4月2日 / 鈴木行 / あかほりさとる / 後藤正行",
+        "stars": 6.7,
+        "people": 18,
+        "year": 1997,
+        "path": "cover/1997/爆热时空"
+    },
+    "_381": {
+        "id": "381",
+        "title_cn": "蜘蛛人 第四季",
+        "title_jp": "Spider-Man Season 4 (1997)",
+        "tips": "11话 /  1997-04-01",
+        "stars": 7.4,
+        "people": 17,
+        "year": 1997,
+        "path": "cover/1997/蜘蛛人 第四季"
+    },
+    "_361": {
+        "id": "361",
+        "title_cn": "蜘蛛人 第四季",
+        "title_jp": "Spider-Man Season 4 (1997)",
+        "tips": "11话 /  1997-04-01",
+        "stars": 7.4,
+        "people": 17,
+        "year": 1997,
+        "path": "cover/1997/蜘蛛人 第四季"
+    },
+    "_398": {
+        "id": "398",
+        "title_cn": "爆笑吸血鬼 99",
+        "title_jp": "マスターモスキートン'99",
+        "tips": "26话 /  1997年9月30日",
+        "stars": 6.5,
+        "people": 16,
+        "year": 1997,
+        "path": "cover/1997/爆笑吸血鬼 99"
+    },
+    "_384": {
+        "id": "384",
+        "title_cn": "TVで発見!!たまごっち",
+        "title_jp": "The Simpsons Season 9",
+        "tips": "27话 /  1997年7月7日",
+        "stars": -1,
+        "people": 16,
+        "year": 1997,
+        "path": "cover/1997/TVで発見!!たまごっち"
+    },
+    "_383": {
+        "id": "383",
+        "title_cn": "辛普森一家 第九季",
+        "title_jp": "The Simpsons Season 9",
+        "tips": "25话 /  1997-09-21",
+        "stars": 7.3,
+        "people": 16,
+        "year": 1997,
+        "path": "cover/1997/辛普森一家 第九季"
+    },
+    "_376": {
+        "id": "376",
+        "title_cn": "奈德梦游记",
+        "title_jp": "Nightmare Ned",
+        "tips": "25话 /  1997-04-19",
+        "stars": 8.4,
+        "people": 16,
+        "year": 1997,
+        "path": "cover/1997/奈德梦游记"
+    },
+    "_375": {
+        "id": "375",
+        "title_cn": "木乃伊战士",
+        "title_jp": "Mummies Alive!",
+        "tips": "42话 /  1997-09-15",
+        "stars": 6.6,
+        "people": 16,
+        "year": 1997,
+        "path": "cover/1997/木乃伊战士"
+    },
+    "_372": {
+        "id": "372",
+        "title_cn": "一家之主 第一季",
+        "title_jp": "King of the Hill (Season 1)",
+        "tips": "12话 /  1997-01-12",
+        "stars": 8.0,
+        "people": 16,
+        "year": 1997,
+        "path": "cover/1997/一家之主 第一季"
+    },
+    "_371": {
+        "id": "371",
+        "title_cn": "猛鬼校园",
+        "title_jp": "HAUNTEDじゃんくしょん",
+        "tips": "12话 /  1997年4月2日 / 夢来鳥ねむ",
+        "stars": 6.8,
+        "people": 16,
+        "year": 1997,
+        "path": "cover/1997/猛鬼校园"
+    },
+    "_356": {
+        "id": "356",
+        "title_cn": "奈德梦游记",
+        "title_jp": "Nightmare Ned",
+        "tips": "25话 /  1997-04-19",
+        "stars": 8.4,
+        "people": 16,
+        "year": 1997,
+        "path": "cover/1997/奈德梦游记"
+    },
+    "_355": {
+        "id": "355",
+        "title_cn": "木乃伊战士",
+        "title_jp": "Mummies Alive!",
+        "tips": "42话 /  1997-09-15",
+        "stars": 6.6,
+        "people": 16,
+        "year": 1997,
+        "path": "cover/1997/木乃伊战士"
+    },
+    "_352": {
+        "id": "352",
+        "title_cn": "一家之主 第一季",
+        "title_jp": "King of the Hill (Season 1)",
+        "tips": "12话 /  1997-01-12",
+        "stars": 8.0,
+        "people": 16,
+        "year": 1997,
+        "path": "cover/1997/一家之主 第一季"
+    },
+    "_351": {
+        "id": "351",
+        "title_cn": "猛鬼校园",
+        "title_jp": "HAUNTEDじゃんくしょん",
+        "tips": "12话 /  1997年4月2日 / 夢来鳥ねむ",
+        "stars": 6.8,
+        "people": 16,
+        "year": 1997,
+        "path": "cover/1997/猛鬼校园"
+    },
+    "_390": {
+        "id": "390",
+        "title_cn": "妖精狩猎者II",
+        "title_jp": "エルフを狩るモノたち II",
+        "tips": "12话 /  1997年10月1日 / 矢上裕",
+        "stars": 6.5,
+        "people": 15,
+        "year": 1997,
+        "path": "cover/1997/妖精狩猎者II"
+    },
+    "_391": {
+        "id": "391",
+        "title_cn": "甜心战士F",
+        "title_jp": "キューティーハニーF",
+        "tips": "39话 /  1997年2月15日 / 飯坂友佳子（作・画）、永井豪（原案）",
+        "stars": 6.8,
+        "people": 14,
+        "year": 1997,
+        "path": "cover/1997/甜心战士F"
+    },
+    "_377": {
+        "id": "377",
+        "title_cn": "水獭小宝贝",
+        "title_jp": "PB&J Otter",
+        "tips": "130话 /  1997年12月10日",
+        "stars": 6.2,
+        "people": 12,
+        "year": 1997,
+        "path": "cover/1997/水獭小宝贝"
+    },
+    "_370": {
+        "id": "370",
+        "title_cn": "圣子到",
+        "title_jp": "HARELUYA II BØY",
+        "tips": "25话 /  1997-04-08",
+        "stars": 8.0,
+        "people": 12,
+        "year": 1997,
+        "path": "cover/1997/圣子到"
+    },
+    "_357": {
+        "id": "357",
+        "title_cn": "水獭小宝贝",
+        "title_jp": "PB&J Otter",
+        "tips": "130话 /  1997年12月10日",
+        "stars": 6.2,
+        "people": 12,
+        "year": 1997,
+        "path": "cover/1997/水獭小宝贝"
+    },
+    "_350": {
+        "id": "350",
+        "title_cn": "圣子到",
+        "title_jp": "HARELUYA II BØY",
+        "tips": "25话 /  1997-04-08",
+        "stars": 8.0,
+        "people": 12,
+        "year": 1997,
+        "path": "cover/1997/圣子到"
+    },
+    "_388": {
+        "id": "388",
+        "title_cn": "猫狐警探",
+        "title_jp": "はいぱーぽりす",
+        "tips": "25话 /  1997-04-03",
+        "stars": 7.2,
+        "people": 11,
+        "year": 1997,
+        "path": "cover/1997/猫狐警探"
+    },
+    "_399": {
+        "id": "399",
+        "title_cn": "马赫5号",
+        "title_jp": "マッハGoGoGo",
+        "tips": "34话 /  1997年1月9日",
+        "stars": 6.1,
+        "people": 10,
+        "year": 1997,
+        "path": "cover/1997/马赫5号"
+    },
+    "_387": {
+        "id": "387",
+        "title_cn": "さくらももこ劇場 コジコジ",
+        "title_jp": "VIRUS",
+        "tips": "100话 /  1997-10-04",
+        "stars": -1,
+        "people": 10,
+        "year": 1997,
+        "path": "cover/1997/さくらももこ劇場 コジコジ"
+    },
+    "_386": {
+        "id": "386",
+        "title_cn": "あずみマンマ・ミーア",
+        "title_jp": "VIRUS",
+        "tips": "60话 /  1997-07-07 / 若尾はるか / 神村幸子",
+        "stars": -1,
+        "people": 10,
+        "year": 1997,
+        "path": "cover/1997/あずみマンマ・ミーア"
+    },
+    "_385": {
+        "id": "385",
+        "title_cn": "病毒",
+        "title_jp": "VIRUS",
+        "tips": "12话 /  1997年10月2日",
+        "stars": 5.1,
+        "people": 10,
+        "year": 1997,
+        "path": "cover/1997/病毒"
+    }
+}
