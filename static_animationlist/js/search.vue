@@ -111,7 +111,7 @@ module.exports = {
             this.empty = false
             var sendList = []
             for (var key in this.animationDict) {
-                if (key.indexOf(this.searchContent) != -1) {
+                if (key.indexOf(this.searchContent.toLowerCase().replace(/\s*/g,"")) != -1) {
                     sendList.push(this.animationDict[key])
                 }
             }
