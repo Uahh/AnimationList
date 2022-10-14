@@ -40,7 +40,7 @@
                         <div>
                             <el-row>
                                 <el-col :span="8" style="max-width: 100px;">
-                                    <img :src="`/animationlist/getCover?path=/${item.path}/cover.jpg`" />
+                                    <img :src="`/animationlist/getCover?path=/${ item.path.replace('&', 'and_signal_') }/cover.jpg`" />
                                 </el-col>
                                 <el-col :span="15">
                                     <div style="margin: 0px 0px 0px 20px; float:left;">
@@ -90,11 +90,10 @@ module.exports = {
             url: this.protocol + '://' + this.url + '/animationlist/getDataDict',
             async: false,
             success: function (result) {
-                dataDict = eval('[' + result + ']')[0]
+                dataDict = eval('[' + result.replace() + ']')[0]
             }
         })
         this.animationDict = dataDict
-        console.log(this.data)
     },
     methods: {
         onAdd(id, name) {
@@ -111,7 +110,7 @@ module.exports = {
             this.empty = false
             var sendList = []
             for (var key in this.animationDict) {
-                if (key.indexOf(this.searchContent.toLowerCase().replace(/\s*/g,"")) != -1) {
+                if (key.indexOf(this.searchContent.toLowerCase().replace(/\s*/g, "")) != -1) {
                     sendList.push(this.animationDict[key])
                 }
             }
@@ -125,8 +124,11 @@ module.exports = {
                 url: this.protocol + "://" + this.url + "/animationlist/getListFromId",
                 data: { 'data': sendList.toString() },
                 success: (result) => {
+                    for(let i in result) {
+                        result[i]['path'] = result[i]['path'].replace('&', '&amp;')
+                        console.log(result[i])
+                    }
                     this.data = result
-                    console.log(result.toString())
                 }
             })
         }

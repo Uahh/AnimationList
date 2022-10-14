@@ -57,7 +57,7 @@ def get_list_from_name():
 
 @app.route('/animationlist/getCover', methods=["GET"])
 def get_cover():
-    path = request.args.get('path')
+    path = request.args.get('path').replace('and_signal_amp;', '&')
     pic_path = os.path.join(os.path.abspath('.'), '.' + path)
     print(pic_path)
     return send_file(pic_path)
