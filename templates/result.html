@@ -19,7 +19,7 @@
 <body>
     <div id="app">
         <div id="pic" style="max-width: 400px; ">
-            <div style="padding: 20px">
+            <div style="padding: 20px" class="result-head">
                 <h3>{[ title ]}</h3>
                 <i>&nbsp&nbsp&nbsp“{[ content ]}”</i>
                 <br>
@@ -28,42 +28,42 @@
                     <i>——{[ id ]}&nbsp&nbsp</i>
                 </div>
             </div>
-            <el-space fill="true" style="width: 100%; height: 100%; margin: 20px 0px 0px 0px">
-                <div v-for="(item, key) in this.data">
-                    <el-card>
-                        <template #header>
-                            <div>
-                                <h4>{{ item['title_cn'] }}</h4>
-                                <br>
-                                <small class="grey">{{ item['title_jp'] }}</small>
-                            </div>
-                        </template>
+            <el-space 
+                v-for="bangumis in bangumiGrunps" class="bangumis-group"
+                fill="true" style="width: 100%; height: 100%; margin: 0">
+                <el-card v-for="(item, key) in bangumis">
+                    <template #header>
                         <div>
-                            <el-row>
-                                <el-col :span="8" style="max-width: 100px;">
-                                    <img :src="`getCover?path=/${item.path}/cover.jpg`" />
-                                </el-col>
-                                <el-col :span="15">
-                                    <div style="margin: 0px 0px 0px 20px; float:left;">
-                                        <span>{{ item['year'] }}年</span>
-                                        <br>
-                                        <span style="word-wrap:break-word;">{{ item['tips'] }}</span>
-                                    </div>
-                                </el-col>
-                                <el-col :span="24">
-                                    <div v-if="item['stars'] != -1">
-                                        <span>{{ item['stars'] }}分 ({{ item['people'] }}人评分)</span>
-                                    </div>
-                                    <div v-else>
-                                        <span>暂无评分</span>
-                                    </div>
-                                </el-col>
-                            </el-row>
+                            <h4>{{ item['title_cn'] }}</h4>
+                            <br>
+                            <small class="grey">{{ item['title_jp'] }}</small>
                         </div>
-                    </el-card>
-                </div>
+                    </template>
+                    <div>
+                        <el-row>
+                            <el-col :span="8" style="max-width: 100px;">
+                                <img :src="`getCover?path=/${item.path}/cover.jpg`" @error="imageError" style="width:102px;height:143px;" />
+                            </el-col>
+                            <el-col :span="15">
+                                <div style="margin: 0px 0px 0px 20px; float:left;">
+                                    <span>{{ item['year'] }}年</span>
+                                    <br>
+                                    <span style="word-wrap:break-word;">{{ item['tips'] }}</span>
+                                </div>
+                            </el-col>
+                            <el-col :span="24">
+                                <div v-if="item['stars'] != -1">
+                                    <span>{{ item['stars'] }}分 ({{ item['people'] }}人评分)</span>
+                                </div>
+                                <div v-else>
+                                    <span>暂无评分</span>
+                                </div>
+                            </el-col>
+                        </el-row>
+                    </div>
+                </el-card>
             </el-space>
-            <el-card>
+            <el-card class="result-footer">
                 <!-- <el-row>
                     <el-col :span="20">
                         <div style="width: 100%; align-self: flex-end;">
