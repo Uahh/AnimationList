@@ -55,7 +55,7 @@ const options = {
                     width: 400,
                     scale
                 });
-                console.log(box,i,canvas);
+                // console.log(box,i,canvas);
 
                 canvasList.push(canvas);
 

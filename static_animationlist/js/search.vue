@@ -114,7 +114,7 @@ module.exports = {
                 success: (result) => {
                     for(let i in result) {
                         result[i]['path'] = result[i]['path'].replace('&', '&amp;')
-                        console.log(result[i])
+                        // console.log(result[i])
                     }
                     this.data = result
                 }
