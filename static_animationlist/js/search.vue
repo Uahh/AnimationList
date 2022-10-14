@@ -35,7 +35,7 @@
                     <hr>
                     <div class="body">
                         <img class="cover"
-                            :src="`getCover?path=/${ item.path.replace('&', 'and_signal_') }/cover.jpg`"
+                            :src="`animationlist/getCover?path=/${ item.path.replace('&', 'and_signal_') }/cover.jpg`"
                             @error="imageError" />
                         <b>{{ item['year'] }}年</b>
                         <br>
