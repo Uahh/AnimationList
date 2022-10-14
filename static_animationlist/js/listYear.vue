@@ -2,47 +2,32 @@
     <el-row>
         <el-col :span="24">
             <div v-if="this.showFlag" v-infinite-scroll="this.loadData">
-                <el-space fill="true" style="width: 100%; height: 100%;">
-                    <div v-for="(item, key) in this.curData">
-                        <el-card>
-                            <template #header>
-                                <div>
-                                    <el-button @click="onAdd(item['id'], item['title_cn'])" size="small"
-                                        class="add-button">
-                                        +</el-button>
-                                    <h4>{{ item['title_cn'] }}</h4>
-                                    <br>
-                                    <small class="grey">{{ item['title_jp'] }}</small>
-                                </div>
-                            </template>
-                            <div>
-                                <el-row>
-                                    <el-col :span="8" style="max-width: 100px;">
-                                        <img :src="`/animationlist/getCover?path=/${ item.path.replace('&', 'and_signal_') }/cover.jpg`" />
-                                    </el-col>
-                                    <el-col :span="15">
-                                        <div style="margin: 0px 0px 0px 20px; float:left;">
-                                            <span>{{ item['year'] }}年</span>
-                                            <br>
-                                            <span style="word-wrap:break-word;">{{ item['tips'] }}</span>
-                                        </div>
-                                    </el-col>
-                                    <el-col :span="24">
-                                        <div v-if="item['stars'] != -1">
-                                            <el-rate v-model="item['stars']" disabled allow-half size="small" :max=10 />
-                                            <br>
-                                            <span>{{ item['stars'] }}分 ({{ item['people'] }}人评分)</span>
-                                        </div>
-                                        <div v-else>
-                                            <span>暂无评分</span>
-                                        </div>
-                                    </el-col>
-                                </el-row>
+                <div v-for="(item, key) in this.curData" class="bangumi-border" :key="item.id">
+                    <div class="bangumi-item">
+                        <el-button @click="onAdd(item['id'], item['title_cn'])" size="small" class="add-button">+</el-button>
+                        <div class="head">
+                            <h4>{{ item['title_cn'] }}</h4>
+                            <small>{{ item['title_jp'] }}</small>
+                        </div>
+                        <hr>
+                        <div class="body">
+                            <img class="cover"
+                                :src="`getCover?path=/${ item.path.replace('&', 'and_signal_') }/cover.jpg`"
+                                @error="imageError" />
+                            <b>{{ item['year'] }}年</b>
+                            <br>
+                            <span style="word-wrap:break-word;">{{ item['tips'] }}</span>
+                        </div>
+                        <div class="foot">
+                            <div v-if="item['stars'] != -1">
+                                <el-rate v-model="item['stars']" disabled allow-half size="small" :max=10 />
+                                <span>{{ item['stars'] }}分 ({{ item['people'] }}人评分)</span>
                             </div>
-                        </el-card>
-                        <el-backtop :right="20" :bottom="60" />
+                            <span v-else>暂无评分</span>
+                        </div>
                     </div>
-                </el-space>
+                </div>
+                <el-backtop :right="20" :bottom="60" />
             </div>
         </el-col>
     </el-row>
@@ -84,6 +69,9 @@ module.exports = {
         this.showFlag = true
     },
     methods: {
+        imageError(e){
+            e.target.src = 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC';
+        },
         onAdd(id, name) {
             let result = {
                 id: id,
