@@ -19,7 +19,7 @@ const options = {
     methods: {
         handleSelect(key) {
             if (key == 1) {
-                location.href = this.protocol + "://" + this.url;
+                location.href = this.protocol + "://" + this.url + '/animationlist';
             }
             else if (key == 2) {
                 window.open("https://github.com/Uahh/animationlist")
