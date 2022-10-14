@@ -9,6 +9,7 @@
     <script src="https://unpkg.com/html2canvas@1.3.2/dist/html2canvas.min.js"></script>
     <link rel="stylesheet" href="https://unpkg.com/element-plus@2.2.5/dist/index.css" />
     <link rel="stylesheet" href="{[ url_for('static', filename='css/uahh.css') ]}">
+    <link rel="stylesheet" href="{[ url_for('static', filename='css/bangumis.css') ]}">
     <link rel="icon" href="{[ url_for('static', filename='picture/you128.ico') ]}" type="image/x-icon">
     <meta name="viewport" content="width=device-width,user-scalable=0">
     <meta charset="utf-8" />
@@ -18,88 +19,55 @@
 
 <body>
     <div id="app">
-        <div id="pic" style="max-width: 400px; ">
-            <div style="padding: 20px" class="result-head">
-                <h3>{[ title ]}</h3>
-                <i>&nbsp&nbsp&nbsp“{[ content ]}”</i>
-                <br>
-                <br>
-                <div style="text-align: right;">
-                    <i>——{[ id ]}&nbsp&nbsp</i>
+        <a href="" style="display: none" id="download"></a>
+        <div id="pic">
+            <div class="box">
+                <div class="result-head">
+                    <h3>{[ title ]}</h3>
+                    <i>&nbsp&nbsp&nbsp“{[ content ]}”</i>
+                    <br>
+                    <br>
+                    <div style="text-align: right;">
+                        <i>——{[ id ]}&nbsp&nbsp</i>
+                    </div>
                 </div>
             </div>
-            <el-space 
-                v-for="bangumis in bangumiGrunps" class="bangumis-group"
-                fill="true" style="width: 100%; height: 100%; margin: 0">
-                <el-card v-for="(item, key) in bangumis">
-                    <template #header>
-                        <div>
-                            <h4>{{ item['title_cn'] }}</h4>
-                            <br>
-                            <small class="grey">{{ item['title_jp'] }}</small>
+            <div class="box" v-for="bangumis in bangumiGrunps">
+                <div class="bangumis-group">
+                    <div v-for="(item, key) in bangumis" class="bangumi-border">
+                        <div class="bangumi-item">
+                            <div class="head">
+                                <h4>{{ item['title_cn'] }}</h4>
+                                <small>{{ item['title_jp'] }}</small>
+                            </div>
+                            <hr>
+                            <div class="body">
+                                <img class="cover"
+                                    :src="`getCover?path=/${item.path}/cover.jpg`" 
+                                    @error="imageError" />
+                                <b>{{ item['year'] }}年</b>
+                                <br>
+                                <span style="word-wrap:break-word;">{{ item['tips'] }}</span>
+                            </div>
+                            <div class="foot">
+                                <span v-if="item['stars'] != -1">{{ item['stars'] }}分 ({{ item['people'] }}人评分)</span>
+                                <span v-else>暂无评分</span>
+                            </div>
                         </div>
-                    </template>
-                    <div>
-                        <el-row>
-                            <el-col :span="8" style="max-width: 100px;">
-                                <img :src="`getCover?path=/${item.path}/cover.jpg`" @error="imageError" style="width:102px;height:143px;" />
-                            </el-col>
-                            <el-col :span="15">
-                                <div style="margin: 0px 0px 0px 20px; float:left;">
-                                    <span>{{ item['year'] }}年</span>
-                                    <br>
-                                    <span style="word-wrap:break-word;">{{ item['tips'] }}</span>
-                                </div>
-                            </el-col>
-                            <el-col :span="24">
-                                <div v-if="item['stars'] != -1">
-                                    <span>{{ item['stars'] }}分 ({{ item['people'] }}人评分)</span>
-                                </div>
-                                <div v-else>
-                                    <span>暂无评分</span>
-                                </div>
-                            </el-col>
-                        </el-row>
                     </div>
-                </el-card>
-            </el-space>
-            <el-card class="result-footer">
-                <!-- <el-row>
-                    <el-col :span="20">
-                        <div style="width: 100%; align-self: flex-end;">
-                            <p style="font-size: 14px; line-height: 12px;">扫码制作你的番剧列表~</p>
-                            <div style="display: flex; align-items: center;">
-                                <span style="font-size: 14px; line-height: 12px;">Github.com/Uahh/animationlist</span>
-                            </div>
+                </div>
+            </div>
+            <div class="box" style="height: 100px">
+                <div class="bangumis-group">
+                    <div class="bangumi-border">
+                        <div class="result-footer">
+                            <p>列表制作：</p>
+                            <p>Uahh.site/animationlist</p>
                         </div>
-                    </el-col>
-                    <el-col :span="4">
-                        <div style="align-items: center; justify-content:center;">
-                            <img style="width:53px; height:53px;" align="absmiddle alt" alt=""
-                                src="data:image/png;base64,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">
-                        </div>
-                    </el-col>
-                </el-row> -->
-                <!-- 微博图片不让带二维码，难受 -->
-                <el-row>
-                    <el-col :span="20">
-                        <div style="width: 100%; align-self: flex-end; margin: 0px 0px 5px 0px;">
-                            <p style="font-size: 14px; line-height: 0px;">列表制作：</p>
-                            <div style="display: flex; align-items: center;">
-                                <span style="font-size: 14px; line-height: 12px;">Uahh.site/animationlist</span>
-                            </div>
-                        </div>
-                    </el-col>
-                    <!-- <el-col :span="4">
-                        <div style="align-items: center; justify-content:center;">
-                            <img style="width:53px; height:53px;" align="absmiddle alt" alt=""
-                                src="data:image/png;base64,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">
-                        </div>
-                    </el-col> -->
-                </el-row>
-            </el-card>
+                    </div>
+                </div>
+            </div>
         </div>
-        <a href="" style="display: none" id="download"></a>
         <div class="footer">
             <el-badge :value="added_number" :hidden="added" type="success" class="list-button">
                 <el-button @click="confirmClick">生成图片</el-button>
@@ -108,7 +76,7 @@
         <div>
             <el-dialog v-model="onDialog" title="生成" width="80%" style="align-items: center; justify-content:center;">
                 <div style="display: flex; align-items: center; justify-content: center;">
-                    <img src="" id="base64Img" style="background:#fff;">
+                    <img id="base64Img" v-if="base64ImageSrc" :src="base64ImageSrc">
                 </div>
                 <p style="text-align:center">长按图片保存</p>
             </el-dialog>
