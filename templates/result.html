@@ -43,7 +43,7 @@
                             <hr>
                             <div class="body">
                                 <img class="cover"
-                                    :src="`getCover?path=/${item.path}/cover.jpg`" 
+                                    :src="`getCover?path=/${ item.path.replace('&', 'and_signal_') }/cover.jpg`"
                                     @error="imageError" />
                                 <b>{{ item['year'] }}年</b>
                                 <br>
@@ -58,9 +58,9 @@
                 </div>
             </div>
             <div class="box" style="height: 100px">
-                <div class="bangumis-group">
+                <div class="bangumis-group" style="height: 86px;">
                     <div class="bangumi-border">
-                        <div class="result-footer">
+                        <div class="result-footer" style="height: 40px;">
                             <p>列表制作：</p>
                             <p>Uahh.site/animationlist</p>
                         </div>

@@ -14,6 +14,9 @@ const options = {
         this.data = eval('[' + this.$refs.data.innerText + ']')[0]
     },
     methods: {
+        imageError(e){
+            e.target.src = 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC';
+        },
         confirmClick() {
             // console.log(this.id)
             if (this.id == "" || this.title == "" || this.content == "") {

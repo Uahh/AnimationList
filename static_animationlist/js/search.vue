@@ -1,72 +1,57 @@
 <template>
-    <el-row>
-        <el-col :span="2">
-        </el-col>
-        <el-col :span="20">
-            <el-row class="searcher">
-                <el-col :span="18">
-                    <el-input v-model="this.searchContent" placeholder="输入动漫名称.." />
-                </el-col>
-                <el-col :span="6">
-                    <el-button type="primary" @click="onSearch" style="width: 100%; height: 100%; ">
-                        <span>搜索</span>
-                    </el-button>
-                </el-col>
-            </el-row>
-        </el-col>
-        <el-col :span="2">
-        </el-col>
-    </el-row>
-    <el-row>
-        <el-empty v-show="this.empty" description="没找到这部捏.." style="margin:auto" />
-        <el-col :span="24">
-            <!-- <h1 style="display:flex; justify-content:center; align-items:center;">搜索或根据年份检索动漫开始制作你的列表</h1> -->
-        </el-col>
-    </el-row>
-    <el-row>
-        <el-col :span="24">
-            <el-space fill="true" style="width: 100%; height: 100%;">
-                <div v-for="(item, key) in this.data">
-                    <el-card>
-                        <template #header>
-                            <div>
-                                <el-button @click="onAdd(item['id'], item['title_cn'])" size="small" class="add-button">
-                                    +</el-button>
-                                <h4>{{ item['title_cn'] }}</h4>
-                                <br>
-                                <small class="grey">{{ item['title_jp'] }}</small>
-                            </div>
-                        </template>
-                        <div>
-                            <el-row>
-                                <el-col :span="8" style="max-width: 100px;">
-                                    <img :src="`/animationlist/getCover?path=/${item.path}/cover.jpg`" />
-                                </el-col>
-                                <el-col :span="15">
-                                    <div style="margin: 0px 0px 0px 20px; float:left;">
-                                        <span>{{ item['year'] }}年</span>
-                                        <br>
-                                        <span style="word-wrap:break-word;">{{ item['tips'] }}</span>
-                                    </div>
-                                </el-col>
-                                <el-col :span="24">
-                                    <div v-if="item['stars'] != -1">
-                                        <el-rate v-model="item['stars']" disabled allow-half size="small" :max=10 />
-                                        <br>
-                                        <span>{{ item['stars'] }}分 ({{ item['people'] }}人评分)</span>
-                                    </div>
-                                    <div v-else>
-                                        <span>暂无评分</span>
-                                    </div>
-                                </el-col>
-                            </el-row>
+    <div>
+
+        <el-row>
+            <el-col :span="2">
+            </el-col>
+            <el-col :span="20">
+                <el-row class="searcher">
+                    <el-col :span="18">
+                        <el-input v-model="this.searchContent" placeholder="输入动漫名称.." />
+                    </el-col>
+                    <el-col :span="6">
+                        <el-button type="primary" @click="onSearch" style="width: 100%; height: 100%; ">
+                            <span>搜索</span>
+                        </el-button>
+                    </el-col>
+                </el-row>
+            </el-col>
+            <el-col :span="2">
+            </el-col>
+        </el-row>
+        <el-row>
+            <el-empty v-show="this.empty" description="没找到这部捏.." style="margin:auto" />
+            <el-col :span="24">
+                <!-- <h1 style="display:flex; justify-content:center; align-items:center;">搜索或根据年份检索动漫开始制作你的列表</h1> -->
+            </el-col>
+        </el-row>
+        <div v-for="(item, key) in this.data" class="bangumi-border" :key="item.id">
+                <div class="bangumi-item">
+                    <el-button @click="onAdd(item['id'], item['title_cn'])" size="small" class="add-button">+</el-button>
+                    <div class="head">
+                        <h4>{{ item['title_cn'] }}</h4>
+                        <small>{{ item['title_jp'] }}</small>
+                    </div>
+                    <hr>
+                    <div class="body">
+                        <img class="cover"
+                            :src="`getCover?path=/${ item.path.replace('&', 'and_signal_') }/cover.jpg`"
+                            @error="imageError" />
+                        <b>{{ item['year'] }}年</b>
+                        <br>
+                        <span style="word-wrap:break-word;">{{ item['tips'] }}</span>
+                    </div>
+                    <div class="foot">
+                        <div v-if="item['stars'] != -1">
+                            <el-rate v-model="item['stars']" disabled allow-half size="small" :max=10 />
+                            <span>{{ item['stars'] }}分 ({{ item['people'] }}人评分)</span>
                         </div>
-                    </el-card>
+                        <span v-else>暂无评分</span>
+                    </div>
                 </div>
-                <el-backtop :right="20" :bottom="60" />
-            </el-space>
-        </el-col>
-    </el-row>
+        </div>
+        <el-backtop :right="20" :bottom="60" />
+    </div>
 </template>
  
 <script>
@@ -90,13 +75,15 @@ module.exports = {
             url: this.protocol + '://' + this.url + '/animationlist/getDataDict',
             async: false,
             success: function (result) {
-                dataDict = eval('[' + result + ']')[0]
+                dataDict = eval('[' + result.replace() + ']')[0]
             }
         })
         this.animationDict = dataDict
-        console.log(this.data)
     },
     methods: {
+        imageError(e){
+            e.target.src = 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC';
+        },
         onAdd(id, name) {
             let result = {
                 id: id,
@@ -111,7 +98,7 @@ module.exports = {
             this.empty = false
             var sendList = []
             for (var key in this.animationDict) {
-                if (key.indexOf(this.searchContent.toLowerCase().replace(/\s*/g,"")) != -1) {
+                if (key.indexOf(this.searchContent.toLowerCase().replace(/\s*/g, "")) != -1) {
                     sendList.push(this.animationDict[key])
                 }
             }
@@ -125,8 +112,11 @@ module.exports = {
                 url: this.protocol + "://" + this.url + "/animationlist/getListFromId",
                 data: { 'data': sendList.toString() },
                 success: (result) => {
+                    for(let i in result) {
+                        result[i]['path'] = result[i]['path'].replace('&', '&amp;')
+                        console.log(result[i])
+                    }
                     this.data = result
-                    console.log(result.toString())
                 }
             })
         }

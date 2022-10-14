@@ -17,6 +17,9 @@ const options = {
         this.tableData = []
     },
     methods: {
+        imageError(e){
+            e.target.src = 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC';
+        },
         handleSelect(key) {
             if (key == 1) {
                 location.href = this.protocol + "://" + this.url + '/animationlist';

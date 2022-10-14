@@ -7,6 +7,7 @@ const options = {
             base64ImageSrc: null,
             data: {},
             groupNum: 6,
+            scale: 1, // 渲染尺寸 2x 会有bug
         };
     },
     computed: {
@@ -45,12 +46,14 @@ const options = {
             let width;
             let allHeight = 0;
 
+            const { scale } = this;
+
 
             for(let i = 0;boxs.length > i;i++){
                 const box = boxs[i];
                 const canvas = await html2canvas(box,{
                     width: 400,
-                    scale: 1
+                    scale
                 });
                 console.log(box,i,canvas);
 
