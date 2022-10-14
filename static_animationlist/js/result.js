@@ -4,18 +4,20 @@ const options = {
             url: window.location.host,
             onDialog: false,
             loading: false,
-            data: {}
+            base64ImageSrc: null,
+            data: {},
+            groupNum: 6,
         };
     },
     computed: {
         bangumiGrunps(){
-            const { data } = this;
+            const { data, groupNum } = this;
             if(!data) return [];
 
             const b = Object.values(data)
             const c = [];
             while(1){
-                c.push(b.splice(0,10));
+                c.push(b.splice(0,groupNum));
                 if(!b.length) break;
             }
             return c;
@@ -37,17 +39,18 @@ const options = {
         //     });
         // },
         async createImg() {
-            const boxs = [...document.querySelectorAll('.result-head,.bangumis-group,.result-footer')];
+            // const boxs = [...document.querySelectorAll('.result-head,.bangumis-group,.result-footer')];
+            const boxs = [...document.querySelectorAll('.box')];
             const canvasList = [];
             let width;
             let allHeight = 0;
 
-            console.log(boxs)
 
             for(let i = 0;boxs.length > i;i++){
                 const box = boxs[i];
                 const canvas = await html2canvas(box,{
-                    scale: 2
+                    width: 400,
+                    scale: 1
                 });
                 console.log(box,i,canvas);
 
@@ -67,16 +70,21 @@ const options = {
                 ctx.drawImage(canvas,0,top,canvas.width,canvas.height);
                 top += canvas.height;
             });
-            document.getElementById('base64Img').setAttribute('src', canvas.toDataURL());
-
+            return canvas.toDataURL();
+            // URL.createObjectURL
         },
-        confirmClick() {
-            this.onDialog = true
+        async confirmClick() {
+            document.documentElement.setAttribute('data-loading', true);
+
             this.loading = true
+            this.base64ImageSrc = await this.createImg();
+
+            document.documentElement.setAttribute('data-loading', false);
+
+            this.onDialog = true
             window.pageYoffset = 0;
             document.documentElement.scrollTop = 0;
             document.body.scrollTop = 0;
-            this.createImg()
             this.loading = false
         },
     }
