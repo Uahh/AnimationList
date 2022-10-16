@@ -42,6 +42,10 @@ const options = {
             this.added_number = this.idList.length;
         },
         confirmClick() {
+            if (this.idList.length == 0) {
+                ElMessage.error('请至少选择一部番剧')
+                return
+            }
             if (this.isMobile() && this.idList.length > 15) {
                 this.overNum = true
             } else {
